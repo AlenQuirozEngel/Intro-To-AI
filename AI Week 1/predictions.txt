@@ -1,0 +1,7500 @@
+Patient 0:
+  Heart Attack Risk: 0.15%
+  Accident Risk: 45.48%
+  Death Risk: 18.28%
+  Predicted Death: No
+  Actual Death: No
+  Actual Heart Attacks: 0
+  Actual Accidents: 4
+    Hypertension History: Yes
+    Family History: Yes
+    Smoker: Yes
+    Overweight: Yes
+    Hours with Intoxication: 2.58
+    Hours with Low Alertness: 206
+
+Patient 1:
+  Heart Attack Risk: 99.82%
+  Accident Risk: 96.47%
+  Death Risk: 98.48%
+  Predicted Death: Yes
+  Actual Death: No
+  Actual Heart Attacks: 5
+  Actual Accidents: 32
+    Hypertension History: Yes
+    Family History: Yes
+    Smoker: Yes
+    Overweight: Yes
+    Hours with Intoxication: 17.01
+    Hours with Low Alertness: 292
+
+Patient 2:
+  Heart Attack Risk: 0.15%
+  Accident Risk: 6.94%
+  Death Risk: 2.87%
+  Predicted Death: No
+  Actual Death: No
+  Actual Heart Attacks: 0
+  Actual Accidents: 9
+    Hypertension History: Yes
+    Family History: Yes
+    Smoker: Yes
+    Overweight: Yes
+    Hours with Intoxication: 7.08
+    Hours with Low Alertness: 150
+
+Patient 3:
+  Heart Attack Risk: 99.82%
+  Accident Risk: 63.02%
+  Death Risk: 85.10%
+  Predicted Death: Yes
+  Actual Death: No
+  Actual Heart Attacks: 3
+  Actual Accidents: 0
+    Hypertension History: Yes
+    Family History: Yes
+    Smoker: Yes
+    Overweight: Yes
+    Hours with Intoxication: 20.97
+    Hours with Low Alertness: 232
+
+Patient 4:
+  Heart Attack Risk: 99.82%
+  Accident Risk: 69.95%
+  Death Risk: 87.87%
+  Predicted Death: Yes
+  Actual Death: No
+  Actual Heart Attacks: 2
+  Actual Accidents: 5
+    Hypertension History: Yes
+    Family History: Yes
+    Smoker: Yes
+    Overweight: Yes
+    Hours with Intoxication: 16.57
+    Hours with Low Alertness: 148
+
+Patient 5:
+  Heart Attack Risk: 0.15%
+  Accident Risk: 19.68%
+  Death Risk: 7.96%
+  Predicted Death: No
+  Actual Death: No
+  Actual Heart Attacks: 0
+  Actual Accidents: 0
+    Hypertension History: Yes
+    Family History: Yes
+    Smoker: Yes
+    Overweight: Yes
+    Hours with Intoxication: 9.47
+    Hours with Low Alertness: 149
+
+Patient 6:
+  Heart Attack Risk: 0.15%
+  Accident Risk: 92.53%
+  Death Risk: 37.10%
+  Predicted Death: No
+  Actual Death: No
+  Actual Heart Attacks: 0
+  Actual Accidents: 5
+    Hypertension History: Yes
+    Family History: Yes
+    Smoker: Yes
+    Overweight: Yes
+    Hours with Intoxication: 21.55
+    Hours with Low Alertness: 285
+
+Patient 7:
+  Heart Attack Risk: 0.15%
+  Accident Risk: 67.64%
+  Death Risk: 27.15%
+  Predicted Death: No
+  Actual Death: No
+  Actual Heart Attacks: 0
+  Actual Accidents: 10
+    Hypertension History: Yes
+    Family History: Yes
+    Smoker: Yes
+    Overweight: Yes
+    Hours with Intoxication: 13.72
+    Hours with Low Alertness: 122
+
+Patient 8:
+  Heart Attack Risk: 0.15%
+  Accident Risk: 93.31%
+  Death Risk: 37.41%
+  Predicted Death: No
+  Actual Death: No
+  Actual Heart Attacks: 0
+  Actual Accidents: 20
+    Hypertension History: Yes
+    Family History: Yes
+    Smoker: Yes
+    Overweight: Yes
+    Hours with Intoxication: 21.64
+    Hours with Low Alertness: 218
+
+Patient 9:
+  Heart Attack Risk: 0.15%
+  Accident Risk: 41.25%
+  Death Risk: 16.59%
+  Predicted Death: No
+  Actual Death: No
+  Actual Heart Attacks: 0
+  Actual Accidents: 0
+    Hypertension History: Yes
+    Family History: Yes
+    Smoker: Yes
+    Overweight: Yes
+    Hours with Intoxication: 12.60
+    Hours with Low Alertness: 113
+
+Patient 10:
+  Heart Attack Risk: 99.82%
+  Accident Risk: 66.07%
+  Death Risk: 86.32%
+  Predicted Death: Yes
+  Actual Death: No
+  Actual Heart Attacks: 2
+  Actual Accidents: 5
+    Hypertension History: Yes
+    Family History: Yes
+    Smoker: Yes
+    Overweight: Yes
+    Hours with Intoxication: 24.54
+    Hours with Low Alertness: 176
+
+Patient 11:
+  Heart Attack Risk: 99.82%
+  Accident Risk: 95.83%
+  Death Risk: 98.22%
+  Predicted Death: Yes
+  Actual Death: No
+  Actual Heart Attacks: 1
+  Actual Accidents: 10
+    Hypertension History: Yes
+    Family History: Yes
+    Smoker: Yes
+    Overweight: Yes
+    Hours with Intoxication: 26.52
+    Hours with Low Alertness: 313
+
+Patient 12:
+  Heart Attack Risk: 0.15%
+  Accident Risk: 40.54%
+  Death Risk: 16.31%
+  Predicted Death: No
+  Actual Death: No
+  Actual Heart Attacks: 0
+  Actual Accidents: 0
+    Hypertension History: Yes
+    Family History: Yes
+    Smoker: Yes
+    Overweight: Yes
+    Hours with Intoxication: 17.23
+    Hours with Low Alertness: 180
+
+Patient 13:
+  Heart Attack Risk: 99.82%
+  Accident Risk: 19.93%
+  Death Risk: 67.87%
+  Predicted Death: Yes
+  Actual Death: No
+  Actual Heart Attacks: 3
+  Actual Accidents: 5
+    Hypertension History: Yes
+    Family History: Yes
+    Smoker: Yes
+    Overweight: Yes
+    Hours with Intoxication: 10.98
+    Hours with Low Alertness: 60
+
+Patient 14:
+  Heart Attack Risk: 0.15%
+  Accident Risk: 93.01%
+  Death Risk: 37.30%
+  Predicted Death: No
+  Actual Death: No
+  Actual Heart Attacks: 0
+  Actual Accidents: 9
+    Hypertension History: Yes
+    Family History: Yes
+    Smoker: Yes
+    Overweight: Yes
+    Hours with Intoxication: 26.74
+    Hours with Low Alertness: 281
+
+Patient 15:
+  Heart Attack Risk: 99.82%
+  Accident Risk: 87.83%
+  Death Risk: 95.02%
+  Predicted Death: Yes
+  Actual Death: No
+  Actual Heart Attacks: 4
+  Actual Accidents: 3
+    Hypertension History: Yes
+    Family History: Yes
+    Smoker: Yes
+    Overweight: Yes
+    Hours with Intoxication: 19.43
+    Hours with Low Alertness: 146
+
+Patient 16:
+  Heart Attack Risk: 99.82%
+  Accident Risk: 14.27%
+  Death Risk: 65.60%
+  Predicted Death: Yes
+  Actual Death: No
+  Actual Heart Attacks: 2
+  Actual Accidents: 0
+    Hypertension History: Yes
+    Family History: Yes
+    Smoker: Yes
+    Overweight: Yes
+    Hours with Intoxication: 11.96
+    Hours with Low Alertness: 40
+
+Patient 17:
+  Heart Attack Risk: 0.15%
+  Accident Risk: 34.16%
+  Death Risk: 13.76%
+  Predicted Death: No
+  Actual Death: No
+  Actual Heart Attacks: 0
+  Actual Accidents: 0
+    Hypertension History: Yes
+    Family History: Yes
+    Smoker: Yes
+    Overweight: Yes
+    Hours with Intoxication: 14.34
+    Hours with Low Alertness: 134
+
+Patient 18:
+  Heart Attack Risk: 0.15%
+  Accident Risk: 47.98%
+  Death Risk: 19.28%
+  Predicted Death: No
+  Actual Death: No
+  Actual Heart Attacks: 0
+  Actual Accidents: 0
+    Hypertension History: Yes
+    Family History: Yes
+    Smoker: Yes
+    Overweight: Yes
+    Hours with Intoxication: 12.13
+    Hours with Low Alertness: 156
+
+Patient 19:
+  Heart Attack Risk: 99.82%
+  Accident Risk: 87.40%
+  Death Risk: 94.85%
+  Predicted Death: Yes
+  Actual Death: No
+  Actual Heart Attacks: 4
+  Actual Accidents: 1
+    Hypertension History: Yes
+    Family History: Yes
+    Smoker: Yes
+    Overweight: Yes
+    Hours with Intoxication: 20.82
+    Hours with Low Alertness: 134
+
+Patient 20:
+  Heart Attack Risk: 99.82%
+  Accident Risk: 99.54%
+  Death Risk: 99.71%
+  Predicted Death: Yes
+  Actual Death: No
+  Actual Heart Attacks: 1
+  Actual Accidents: 9
+    Hypertension History: Yes
+    Family History: Yes
+    Smoker: Yes
+    Overweight: Yes
+    Hours with Intoxication: 27.59
+    Hours with Low Alertness: 312
+
+Patient 21:
+  Heart Attack Risk: 99.82%
+  Accident Risk: 78.23%
+  Death Risk: 91.18%
+  Predicted Death: Yes
+  Actual Death: No
+  Actual Heart Attacks: 2
+  Actual Accidents: 4
+    Hypertension History: Yes
+    Family History: Yes
+    Smoker: Yes
+    Overweight: Yes
+    Hours with Intoxication: 26.86
+    Hours with Low Alertness: 165
+
+Patient 22:
+  Heart Attack Risk: 99.82%
+  Accident Risk: 14.78%
+  Death Risk: 65.80%
+  Predicted Death: Yes
+  Actual Death: No
+  Actual Heart Attacks: 1
+  Actual Accidents: 3
+    Hypertension History: Yes
+    Family History: Yes
+    Smoker: Yes
+    Overweight: Yes
+    Hours with Intoxication: 7.35
+    Hours with Low Alertness: 40
+
+Patient 23:
+  Heart Attack Risk: 0.15%
+  Accident Risk: 0.05%
+  Death Risk: 0.11%
+  Predicted Death: No
+  Actual Death: No
+  Actual Heart Attacks: 0
+  Actual Accidents: 0
+    Hypertension History: Yes
+    Family History: Yes
+    Smoker: Yes
+    Overweight: Yes
+    Hours with Intoxication: 2.07
+    Hours with Low Alertness: 21
+
+Patient 24:
+  Heart Attack Risk: 0.15%
+  Accident Risk: 73.69%
+  Death Risk: 29.57%
+  Predicted Death: No
+  Actual Death: No
+  Actual Heart Attacks: 0
+  Actual Accidents: 0
+    Hypertension History: Yes
+    Family History: Yes
+    Smoker: Yes
+    Overweight: Yes
+    Hours with Intoxication: 12.11
+    Hours with Low Alertness: 271
+
+Patient 25:
+  Heart Attack Risk: 0.15%
+  Accident Risk: 27.12%
+  Death Risk: 10.94%
+  Predicted Death: No
+  Actual Death: No
+  Actual Heart Attacks: 0
+  Actual Accidents: 0
+    Hypertension History: Yes
+    Family History: Yes
+    Smoker: Yes
+    Overweight: Yes
+    Hours with Intoxication: 5.81
+    Hours with Low Alertness: 200
+
+Patient 26:
+  Heart Attack Risk: 0.15%
+  Accident Risk: 83.24%
+  Death Risk: 33.39%
+  Predicted Death: No
+  Actual Death: No
+  Actual Heart Attacks: 0
+  Actual Accidents: 13
+    Hypertension History: Yes
+    Family History: Yes
+    Smoker: Yes
+    Overweight: Yes
+    Hours with Intoxication: 27.76
+    Hours with Low Alertness: 340
+
+Patient 27:
+  Heart Attack Risk: 0.15%
+  Accident Risk: 50.56%
+  Death Risk: 20.32%
+  Predicted Death: No
+  Actual Death: No
+  Actual Heart Attacks: 0
+  Actual Accidents: 1
+    Hypertension History: Yes
+    Family History: Yes
+    Smoker: Yes
+    Overweight: Yes
+    Hours with Intoxication: 19.23
+    Hours with Low Alertness: 166
+
+Patient 28:
+  Heart Attack Risk: 99.82%
+  Accident Risk: 91.06%
+  Death Risk: 96.31%
+  Predicted Death: Yes
+  Actual Death: No
+  Actual Heart Attacks: 6
+  Actual Accidents: 3
+    Hypertension History: Yes
+    Family History: Yes
+    Smoker: Yes
+    Overweight: Yes
+    Hours with Intoxication: 22.90
+    Hours with Low Alertness: 111
+
+Patient 29:
+  Heart Attack Risk: 99.82%
+  Accident Risk: 77.71%
+  Death Risk: 90.98%
+  Predicted Death: Yes
+  Actual Death: No
+  Actual Heart Attacks: 3
+  Actual Accidents: 2
+    Hypertension History: Yes
+    Family History: Yes
+    Smoker: Yes
+    Overweight: Yes
+    Hours with Intoxication: 27.34
+    Hours with Low Alertness: 161
+
+Patient 30:
+  Heart Attack Risk: 99.82%
+  Accident Risk: 71.08%
+  Death Risk: 88.32%
+  Predicted Death: Yes
+  Actual Death: No
+  Actual Heart Attacks: 4
+  Actual Accidents: 20
+    Hypertension History: Yes
+    Family History: Yes
+    Smoker: Yes
+    Overweight: Yes
+    Hours with Intoxication: 27.32
+    Hours with Low Alertness: 174
+
+Patient 31:
+  Heart Attack Risk: 0.15%
+  Accident Risk: 71.62%
+  Death Risk: 28.74%
+  Predicted Death: No
+  Actual Death: No
+  Actual Heart Attacks: 0
+  Actual Accidents: 3
+    Hypertension History: Yes
+    Family History: Yes
+    Smoker: Yes
+    Overweight: Yes
+    Hours with Intoxication: 19.94
+    Hours with Low Alertness: 231
+
+Patient 32:
+  Heart Attack Risk: 0.15%
+  Accident Risk: 66.86%
+  Death Risk: 26.84%
+  Predicted Death: No
+  Actual Death: No
+  Actual Heart Attacks: 0
+  Actual Accidents: 2
+    Hypertension History: Yes
+    Family History: Yes
+    Smoker: Yes
+    Overweight: Yes
+    Hours with Intoxication: 13.20
+    Hours with Low Alertness: 127
+
+Patient 33:
+  Heart Attack Risk: 99.82%
+  Accident Risk: 51.04%
+  Death Risk: 80.31%
+  Predicted Death: Yes
+  Actual Death: No
+  Actual Heart Attacks: 2
+  Actual Accidents: 12
+    Hypertension History: Yes
+    Family History: Yes
+    Smoker: Yes
+    Overweight: Yes
+    Hours with Intoxication: 19.05
+    Hours with Low Alertness: 168
+
+Patient 34:
+  Heart Attack Risk: 99.82%
+  Accident Risk: 94.98%
+  Death Risk: 97.88%
+  Predicted Death: Yes
+  Actual Death: No
+  Actual Heart Attacks: 1
+  Actual Accidents: 14
+    Hypertension History: Yes
+    Family History: Yes
+    Smoker: Yes
+    Overweight: Yes
+    Hours with Intoxication: 23.35
+    Hours with Low Alertness: 255
+
+Patient 35:
+  Heart Attack Risk: 0.15%
+  Accident Risk: 62.77%
+  Death Risk: 25.20%
+  Predicted Death: No
+  Actual Death: No
+  Actual Heart Attacks: 0
+  Actual Accidents: 0
+    Hypertension History: Yes
+    Family History: Yes
+    Smoker: Yes
+    Overweight: Yes
+    Hours with Intoxication: 16.24
+    Hours with Low Alertness: 125
+
+Patient 36:
+  Heart Attack Risk: 99.82%
+  Accident Risk: 66.06%
+  Death Risk: 86.31%
+  Predicted Death: Yes
+  Actual Death: No
+  Actual Heart Attacks: 5
+  Actual Accidents: 3
+    Hypertension History: Yes
+    Family History: Yes
+    Smoker: Yes
+    Overweight: Yes
+    Hours with Intoxication: 20.20
+    Hours with Low Alertness: 104
+
+Patient 37:
+  Heart Attack Risk: 0.15%
+  Accident Risk: 55.61%
+  Death Risk: 22.33%
+  Predicted Death: No
+  Actual Death: No
+  Actual Heart Attacks: 0
+  Actual Accidents: 6
+    Hypertension History: Yes
+    Family History: Yes
+    Smoker: Yes
+    Overweight: Yes
+    Hours with Intoxication: 12.68
+    Hours with Low Alertness: 80
+
+Patient 38:
+  Heart Attack Risk: 0.15%
+  Accident Risk: 64.31%
+  Death Risk: 25.82%
+  Predicted Death: No
+  Actual Death: No
+  Actual Heart Attacks: 0
+  Actual Accidents: 0
+    Hypertension History: Yes
+    Family History: Yes
+    Smoker: Yes
+    Overweight: Yes
+    Hours with Intoxication: 20.99
+    Hours with Low Alertness: 225
+
+Patient 39:
+  Heart Attack Risk: 99.82%
+  Accident Risk: 90.83%
+  Death Risk: 96.22%
+  Predicted Death: Yes
+  Actual Death: No
+  Actual Heart Attacks: 1
+  Actual Accidents: 7
+    Hypertension History: Yes
+    Family History: Yes
+    Smoker: Yes
+    Overweight: Yes
+    Hours with Intoxication: 22.85
+    Hours with Low Alertness: 265
+
+Patient 40:
+  Heart Attack Risk: 0.15%
+  Accident Risk: 42.99%
+  Death Risk: 17.29%
+  Predicted Death: No
+  Actual Death: No
+  Actual Heart Attacks: 0
+  Actual Accidents: 1
+    Hypertension History: Yes
+    Family History: Yes
+    Smoker: Yes
+    Overweight: Yes
+    Hours with Intoxication: 11.33
+    Hours with Low Alertness: 91
+
+Patient 41:
+  Heart Attack Risk: 0.15%
+  Accident Risk: 25.08%
+  Death Risk: 10.12%
+  Predicted Death: No
+  Actual Death: No
+  Actual Heart Attacks: 0
+  Actual Accidents: 0
+    Hypertension History: Yes
+    Family History: Yes
+    Smoker: Yes
+    Overweight: Yes
+    Hours with Intoxication: 13.98
+    Hours with Low Alertness: 166
+
+Patient 42:
+  Heart Attack Risk: 0.15%
+  Accident Risk: 95.01%
+  Death Risk: 38.09%
+  Predicted Death: No
+  Actual Death: No
+  Actual Heart Attacks: 0
+  Actual Accidents: 7
+    Hypertension History: Yes
+    Family History: Yes
+    Smoker: Yes
+    Overweight: Yes
+    Hours with Intoxication: 25.52
+    Hours with Low Alertness: 293
+
+Patient 43:
+  Heart Attack Risk: 0.15%
+  Accident Risk: 95.91%
+  Death Risk: 38.46%
+  Predicted Death: No
+  Actual Death: No
+  Actual Heart Attacks: 0
+  Actual Accidents: 25
+    Hypertension History: Yes
+    Family History: Yes
+    Smoker: Yes
+    Overweight: Yes
+    Hours with Intoxication: 32.82
+    Hours with Low Alertness: 322
+
+Patient 44:
+  Heart Attack Risk: 0.15%
+  Accident Risk: 79.03%
+  Death Risk: 31.70%
+  Predicted Death: No
+  Actual Death: No
+  Actual Heart Attacks: 0
+  Actual Accidents: 54
+    Hypertension History: Yes
+    Family History: Yes
+    Smoker: Yes
+    Overweight: Yes
+    Hours with Intoxication: 50.76
+    Hours with Low Alertness: 362
+
+Patient 45:
+  Heart Attack Risk: 99.82%
+  Accident Risk: 90.98%
+  Death Risk: 96.28%
+  Predicted Death: Yes
+  Actual Death: No
+  Actual Heart Attacks: 1
+  Actual Accidents: 14
+    Hypertension History: Yes
+    Family History: Yes
+    Smoker: Yes
+    Overweight: Yes
+    Hours with Intoxication: 25.65
+    Hours with Low Alertness: 264
+
+Patient 46:
+  Heart Attack Risk: 99.82%
+  Accident Risk: 83.42%
+  Death Risk: 93.26%
+  Predicted Death: Yes
+  Actual Death: No
+  Actual Heart Attacks: 3
+  Actual Accidents: 28
+    Hypertension History: Yes
+    Family History: Yes
+    Smoker: Yes
+    Overweight: Yes
+    Hours with Intoxication: 36.79
+    Hours with Low Alertness: 370
+
+Patient 47:
+  Heart Attack Risk: 0.15%
+  Accident Risk: 82.93%
+  Death Risk: 33.27%
+  Predicted Death: No
+  Actual Death: No
+  Actual Heart Attacks: 0
+  Actual Accidents: 14
+    Hypertension History: Yes
+    Family History: Yes
+    Smoker: Yes
+    Overweight: Yes
+    Hours with Intoxication: 27.12
+    Hours with Low Alertness: 347
+
+Patient 48:
+  Heart Attack Risk: 99.82%
+  Accident Risk: 79.74%
+  Death Risk: 91.79%
+  Predicted Death: Yes
+  Actual Death: No
+  Actual Heart Attacks: 1
+  Actual Accidents: 11
+    Hypertension History: Yes
+    Family History: Yes
+    Smoker: Yes
+    Overweight: Yes
+    Hours with Intoxication: 10.36
+    Hours with Low Alertness: 277
+
+Patient 49:
+  Heart Attack Risk: 99.82%
+  Accident Risk: 98.22%
+  Death Risk: 99.18%
+  Predicted Death: Yes
+  Actual Death: No
+  Actual Heart Attacks: 5
+  Actual Accidents: 21
+    Hypertension History: Yes
+    Family History: Yes
+    Smoker: Yes
+    Overweight: Yes
+    Hours with Intoxication: 26.09
+    Hours with Low Alertness: 207
+
+Patient 50:
+  Heart Attack Risk: 99.82%
+  Accident Risk: 88.84%
+  Death Risk: 95.43%
+  Predicted Death: Yes
+  Actual Death: No
+  Actual Heart Attacks: 2
+  Actual Accidents: 24
+    Hypertension History: Yes
+    Family History: Yes
+    Smoker: Yes
+    Overweight: Yes
+    Hours with Intoxication: 35.09
+    Hours with Low Alertness: 277
+
+Patient 51:
+  Heart Attack Risk: 0.15%
+  Accident Risk: 67.42%
+  Death Risk: 27.06%
+  Predicted Death: No
+  Actual Death: No
+  Actual Heart Attacks: 0
+  Actual Accidents: 1
+    Hypertension History: Yes
+    Family History: Yes
+    Smoker: Yes
+    Overweight: Yes
+    Hours with Intoxication: 13.48
+    Hours with Low Alertness: 126
+
+Patient 52:
+  Heart Attack Risk: 0.15%
+  Accident Risk: 78.49%
+  Death Risk: 31.49%
+  Predicted Death: No
+  Actual Death: No
+  Actual Heart Attacks: 0
+  Actual Accidents: 5
+    Hypertension History: Yes
+    Family History: Yes
+    Smoker: Yes
+    Overweight: Yes
+    Hours with Intoxication: 16.97
+    Hours with Low Alertness: 231
+
+Patient 53:
+  Heart Attack Risk: 99.82%
+  Accident Risk: 9.73%
+  Death Risk: 63.78%
+  Predicted Death: Yes
+  Actual Death: No
+  Actual Heart Attacks: 1
+  Actual Accidents: 0
+    Hypertension History: Yes
+    Family History: Yes
+    Smoker: Yes
+    Overweight: Yes
+    Hours with Intoxication: 10.20
+    Hours with Low Alertness: 67
+
+Patient 54:
+  Heart Attack Risk: 99.82%
+  Accident Risk: 51.73%
+  Death Risk: 80.58%
+  Predicted Death: Yes
+  Actual Death: No
+  Actual Heart Attacks: 1
+  Actual Accidents: 0
+    Hypertension History: Yes
+    Family History: Yes
+    Smoker: Yes
+    Overweight: Yes
+    Hours with Intoxication: 21.31
+    Hours with Low Alertness: 161
+
+Patient 55:
+  Heart Attack Risk: 0.15%
+  Accident Risk: 92.80%
+  Death Risk: 37.21%
+  Predicted Death: No
+  Actual Death: No
+  Actual Heart Attacks: 0
+  Actual Accidents: 1
+    Hypertension History: Yes
+    Family History: Yes
+    Smoker: Yes
+    Overweight: Yes
+    Hours with Intoxication: 12.89
+    Hours with Low Alertness: 310
+
+Patient 56:
+  Heart Attack Risk: 99.82%
+  Accident Risk: 96.31%
+  Death Risk: 98.41%
+  Predicted Death: Yes
+  Actual Death: No
+  Actual Heart Attacks: 1
+  Actual Accidents: 6
+    Hypertension History: Yes
+    Family History: Yes
+    Smoker: Yes
+    Overweight: Yes
+    Hours with Intoxication: 22.35
+    Hours with Low Alertness: 303
+
+Patient 57:
+  Heart Attack Risk: 99.82%
+  Accident Risk: 82.83%
+  Death Risk: 93.02%
+  Predicted Death: Yes
+  Actual Death: No
+  Actual Heart Attacks: 1
+  Actual Accidents: 4
+    Hypertension History: Yes
+    Family History: Yes
+    Smoker: Yes
+    Overweight: Yes
+    Hours with Intoxication: 19.67
+    Hours with Low Alertness: 118
+
+Patient 58:
+  Heart Attack Risk: 99.82%
+  Accident Risk: 21.07%
+  Death Risk: 68.32%
+  Predicted Death: Yes
+  Actual Death: No
+  Actual Heart Attacks: 2
+  Actual Accidents: 0
+    Hypertension History: Yes
+    Family History: Yes
+    Smoker: Yes
+    Overweight: Yes
+    Hours with Intoxication: 10.59
+    Hours with Low Alertness: 96
+
+Patient 59:
+  Heart Attack Risk: 0.15%
+  Accident Risk: 78.04%
+  Death Risk: 31.31%
+  Predicted Death: No
+  Actual Death: No
+  Actual Heart Attacks: 0
+  Actual Accidents: 0
+    Hypertension History: Yes
+    Family History: Yes
+    Smoker: Yes
+    Overweight: Yes
+    Hours with Intoxication: 24.65
+    Hours with Low Alertness: 338
+
+Patient 60:
+  Heart Attack Risk: 0.15%
+  Accident Risk: 6.86%
+  Death Risk: 2.84%
+  Predicted Death: No
+  Actual Death: No
+  Actual Heart Attacks: 0
+  Actual Accidents: 0
+    Hypertension History: Yes
+    Family History: Yes
+    Smoker: Yes
+    Overweight: Yes
+    Hours with Intoxication: 0.21
+    Hours with Low Alertness: 150
+
+Patient 61:
+  Heart Attack Risk: 0.15%
+  Accident Risk: 6.86%
+  Death Risk: 2.84%
+  Predicted Death: No
+  Actual Death: No
+  Actual Heart Attacks: 0
+  Actual Accidents: 0
+    Hypertension History: Yes
+    Family History: Yes
+    Smoker: Yes
+    Overweight: Yes
+    Hours with Intoxication: 4.69
+    Hours with Low Alertness: 48
+
+Patient 62:
+  Heart Attack Risk: 99.82%
+  Accident Risk: 73.75%
+  Death Risk: 89.39%
+  Predicted Death: Yes
+  Actual Death: No
+  Actual Heart Attacks: 1
+  Actual Accidents: 1
+    Hypertension History: Yes
+    Family History: Yes
+    Smoker: Yes
+    Overweight: Yes
+    Hours with Intoxication: 20.82
+    Hours with Low Alertness: 200
+
+Patient 63:
+  Heart Attack Risk: 0.15%
+  Accident Risk: 80.28%
+  Death Risk: 32.21%
+  Predicted Death: No
+  Actual Death: No
+  Actual Heart Attacks: 0
+  Actual Accidents: 2
+    Hypertension History: Yes
+    Family History: Yes
+    Smoker: Yes
+    Overweight: Yes
+    Hours with Intoxication: 17.91
+    Hours with Low Alertness: 219
+
+Patient 64:
+  Heart Attack Risk: 99.82%
+  Accident Risk: 99.83%
+  Death Risk: 99.82%
+  Predicted Death: Yes
+  Actual Death: No
+  Actual Heart Attacks: 1
+  Actual Accidents: 19
+    Hypertension History: Yes
+    Family History: Yes
+    Smoker: Yes
+    Overweight: Yes
+    Hours with Intoxication: 29.43
+    Hours with Low Alertness: 322
+
+Patient 65:
+  Heart Attack Risk: 0.15%
+  Accident Risk: 96.68%
+  Death Risk: 38.76%
+  Predicted Death: No
+  Actual Death: No
+  Actual Heart Attacks: 0
+  Actual Accidents: 3
+    Hypertension History: Yes
+    Family History: Yes
+    Smoker: Yes
+    Overweight: Yes
+    Hours with Intoxication: 16.89
+    Hours with Low Alertness: 304
+
+Patient 66:
+  Heart Attack Risk: 0.15%
+  Accident Risk: 92.56%
+  Death Risk: 37.12%
+  Predicted Death: No
+  Actual Death: No
+  Actual Heart Attacks: 0
+  Actual Accidents: 3
+    Hypertension History: Yes
+    Family History: Yes
+    Smoker: Yes
+    Overweight: Yes
+    Hours with Intoxication: 21.17
+    Hours with Low Alertness: 289
+
+Patient 67:
+  Heart Attack Risk: 0.15%
+  Accident Risk: 13.92%
+  Death Risk: 5.66%
+  Predicted Death: No
+  Actual Death: No
+  Actual Heart Attacks: 0
+  Actual Accidents: 0
+    Hypertension History: Yes
+    Family History: Yes
+    Smoker: Yes
+    Overweight: Yes
+    Hours with Intoxication: 3.61
+    Hours with Low Alertness: 185
+
+Patient 68:
+  Heart Attack Risk: 99.82%
+  Accident Risk: 71.60%
+  Death Risk: 88.53%
+  Predicted Death: Yes
+  Actual Death: No
+  Actual Heart Attacks: 1
+  Actual Accidents: 0
+    Hypertension History: Yes
+    Family History: Yes
+    Smoker: Yes
+    Overweight: Yes
+    Hours with Intoxication: 19.13
+    Hours with Low Alertness: 154
+
+Patient 69:
+  Heart Attack Risk: 99.82%
+  Accident Risk: 74.04%
+  Death Risk: 89.51%
+  Predicted Death: Yes
+  Actual Death: No
+  Actual Heart Attacks: 2
+  Actual Accidents: 0
+    Hypertension History: Yes
+    Family History: Yes
+    Smoker: Yes
+    Overweight: Yes
+    Hours with Intoxication: 24.20
+    Hours with Low Alertness: 166
+
+Patient 70:
+  Heart Attack Risk: 0.15%
+  Accident Risk: 20.53%
+  Death Risk: 8.30%
+  Predicted Death: No
+  Actual Death: No
+  Actual Heart Attacks: 0
+  Actual Accidents: 0
+    Hypertension History: Yes
+    Family History: Yes
+    Smoker: Yes
+    Overweight: Yes
+    Hours with Intoxication: 9.00
+    Hours with Low Alertness: 102
+
+Patient 71:
+  Heart Attack Risk: 0.15%
+  Accident Risk: 16.78%
+  Death Risk: 6.81%
+  Predicted Death: No
+  Actual Death: No
+  Actual Heart Attacks: 0
+  Actual Accidents: 0
+    Hypertension History: Yes
+    Family History: Yes
+    Smoker: Yes
+    Overweight: Yes
+    Hours with Intoxication: 3.97
+    Hours with Low Alertness: 187
+
+Patient 72:
+  Heart Attack Risk: 0.15%
+  Accident Risk: 42.64%
+  Death Risk: 17.15%
+  Predicted Death: No
+  Actual Death: No
+  Actual Heart Attacks: 0
+  Actual Accidents: 0
+    Hypertension History: Yes
+    Family History: Yes
+    Smoker: Yes
+    Overweight: Yes
+    Hours with Intoxication: 14.40
+    Hours with Low Alertness: 184
+
+Patient 73:
+  Heart Attack Risk: 99.82%
+  Accident Risk: 9.53%
+  Death Risk: 63.70%
+  Predicted Death: Yes
+  Actual Death: No
+  Actual Heart Attacks: 1
+  Actual Accidents: 0
+    Hypertension History: Yes
+    Family History: Yes
+    Smoker: Yes
+    Overweight: Yes
+    Hours with Intoxication: 7.99
+    Hours with Low Alertness: 64
+
+Patient 74:
+  Heart Attack Risk: 99.82%
+  Accident Risk: 72.15%
+  Death Risk: 88.75%
+  Predicted Death: Yes
+  Actual Death: No
+  Actual Heart Attacks: 4
+  Actual Accidents: 0
+    Hypertension History: Yes
+    Family History: Yes
+    Smoker: Yes
+    Overweight: Yes
+    Hours with Intoxication: 22.67
+    Hours with Low Alertness: 108
+
+Patient 75:
+  Heart Attack Risk: 0.15%
+  Accident Risk: 19.86%
+  Death Risk: 8.03%
+  Predicted Death: No
+  Actual Death: No
+  Actual Heart Attacks: 0
+  Actual Accidents: 0
+    Hypertension History: Yes
+    Family History: Yes
+    Smoker: Yes
+    Overweight: Yes
+    Hours with Intoxication: 12.84
+    Hours with Low Alertness: 56
+
+Patient 76:
+  Heart Attack Risk: 0.15%
+  Accident Risk: 59.00%
+  Death Risk: 23.69%
+  Predicted Death: No
+  Actual Death: No
+  Actual Heart Attacks: 0
+  Actual Accidents: 0
+    Hypertension History: Yes
+    Family History: Yes
+    Smoker: Yes
+    Overweight: Yes
+    Hours with Intoxication: 12.70
+    Hours with Low Alertness: 91
+
+Patient 77:
+  Heart Attack Risk: 99.82%
+  Accident Risk: 76.39%
+  Death Risk: 90.45%
+  Predicted Death: Yes
+  Actual Death: No
+  Actual Heart Attacks: 5
+  Actual Accidents: 8
+    Hypertension History: Yes
+    Family History: Yes
+    Smoker: Yes
+    Overweight: Yes
+    Hours with Intoxication: 18.95
+    Hours with Low Alertness: 206
+
+Patient 78:
+  Heart Attack Risk: 0.15%
+  Accident Risk: 14.92%
+  Death Risk: 6.06%
+  Predicted Death: No
+  Actual Death: No
+  Actual Heart Attacks: 0
+  Actual Accidents: 0
+    Hypertension History: Yes
+    Family History: Yes
+    Smoker: Yes
+    Overweight: Yes
+    Hours with Intoxication: 7.95
+    Hours with Low Alertness: 48
+
+Patient 79:
+  Heart Attack Risk: 0.15%
+  Accident Risk: 14.65%
+  Death Risk: 5.95%
+  Predicted Death: No
+  Actual Death: No
+  Actual Heart Attacks: 0
+  Actual Accidents: 0
+    Hypertension History: Yes
+    Family History: Yes
+    Smoker: Yes
+    Overweight: Yes
+    Hours with Intoxication: 8.65
+    Hours with Low Alertness: 41
+
+Patient 80:
+  Heart Attack Risk: 99.82%
+  Accident Risk: 16.08%
+  Death Risk: 66.32%
+  Predicted Death: Yes
+  Actual Death: No
+  Actual Heart Attacks: 2
+  Actual Accidents: 0
+    Hypertension History: Yes
+    Family History: Yes
+    Smoker: Yes
+    Overweight: Yes
+    Hours with Intoxication: 10.81
+    Hours with Low Alertness: 51
+
+Patient 81:
+  Heart Attack Risk: 99.82%
+  Accident Risk: 44.97%
+  Death Risk: 77.88%
+  Predicted Death: Yes
+  Actual Death: No
+  Actual Heart Attacks: 6
+  Actual Accidents: 0
+    Hypertension History: Yes
+    Family History: Yes
+    Smoker: Yes
+    Overweight: Yes
+    Hours with Intoxication: 16.58
+    Hours with Low Alertness: 80
+
+Patient 82:
+  Heart Attack Risk: 0.15%
+  Accident Risk: 16.92%
+  Death Risk: 6.86%
+  Predicted Death: No
+  Actual Death: No
+  Actual Heart Attacks: 0
+  Actual Accidents: 0
+    Hypertension History: Yes
+    Family History: Yes
+    Smoker: Yes
+    Overweight: Yes
+    Hours with Intoxication: 9.10
+    Hours with Low Alertness: 44
+
+Patient 83:
+  Heart Attack Risk: 0.15%
+  Accident Risk: 8.96%
+  Death Risk: 3.68%
+  Predicted Death: No
+  Actual Death: No
+  Actual Heart Attacks: 0
+  Actual Accidents: 0
+    Hypertension History: Yes
+    Family History: Yes
+    Smoker: Yes
+    Overweight: Yes
+    Hours with Intoxication: 5.65
+    Hours with Low Alertness: 115
+
+Patient 84:
+  Heart Attack Risk: 0.15%
+  Accident Risk: 8.03%
+  Death Risk: 3.30%
+  Predicted Death: No
+  Actual Death: No
+  Actual Heart Attacks: 0
+  Actual Accidents: 0
+    Hypertension History: Yes
+    Family History: Yes
+    Smoker: Yes
+    Overweight: Yes
+    Hours with Intoxication: 3.72
+    Hours with Low Alertness: 84
+
+Patient 85:
+  Heart Attack Risk: 0.15%
+  Accident Risk: 19.33%
+  Death Risk: 7.82%
+  Predicted Death: No
+  Actual Death: No
+  Actual Heart Attacks: 0
+  Actual Accidents: 0
+    Hypertension History: Yes
+    Family History: Yes
+    Smoker: Yes
+    Overweight: Yes
+    Hours with Intoxication: 16.34
+    Hours with Low Alertness: 60
+
+Patient 86:
+  Heart Attack Risk: 99.82%
+  Accident Risk: 47.67%
+  Death Risk: 78.96%
+  Predicted Death: Yes
+  Actual Death: No
+  Actual Heart Attacks: 1
+  Actual Accidents: 0
+    Hypertension History: Yes
+    Family History: Yes
+    Smoker: Yes
+    Overweight: Yes
+    Hours with Intoxication: 16.89
+    Hours with Low Alertness: 88
+
+Patient 87:
+  Heart Attack Risk: 0.15%
+  Accident Risk: 58.29%
+  Death Risk: 23.41%
+  Predicted Death: No
+  Actual Death: No
+  Actual Heart Attacks: 0
+  Actual Accidents: 0
+    Hypertension History: Yes
+    Family History: Yes
+    Smoker: Yes
+    Overweight: Yes
+    Hours with Intoxication: 22.69
+    Hours with Low Alertness: 183
+
+Patient 88:
+  Heart Attack Risk: 99.82%
+  Accident Risk: 12.61%
+  Death Risk: 64.94%
+  Predicted Death: Yes
+  Actual Death: No
+  Actual Heart Attacks: 2
+  Actual Accidents: 0
+    Hypertension History: Yes
+    Family History: Yes
+    Smoker: Yes
+    Overweight: Yes
+    Hours with Intoxication: 11.43
+    Hours with Low Alertness: 63
+
+Patient 89:
+  Heart Attack Risk: 99.82%
+  Accident Risk: 15.42%
+  Death Risk: 66.06%
+  Predicted Death: Yes
+  Actual Death: No
+  Actual Heart Attacks: 2
+  Actual Accidents: 0
+    Hypertension History: Yes
+    Family History: Yes
+    Smoker: Yes
+    Overweight: Yes
+    Hours with Intoxication: 8.45
+    Hours with Low Alertness: 38
+
+Patient 90:
+  Heart Attack Risk: 99.82%
+  Accident Risk: 66.15%
+  Death Risk: 86.35%
+  Predicted Death: Yes
+  Actual Death: No
+  Actual Heart Attacks: 4
+  Actual Accidents: 0
+    Hypertension History: Yes
+    Family History: Yes
+    Smoker: Yes
+    Overweight: Yes
+    Hours with Intoxication: 17.76
+    Hours with Low Alertness: 132
+
+Patient 91:
+  Heart Attack Risk: 0.15%
+  Accident Risk: 36.52%
+  Death Risk: 14.70%
+  Predicted Death: No
+  Actual Death: No
+  Actual Heart Attacks: 0
+  Actual Accidents: 0
+    Hypertension History: Yes
+    Family History: Yes
+    Smoker: Yes
+    Overweight: Yes
+    Hours with Intoxication: 13.57
+    Hours with Low Alertness: 108
+
+Patient 92:
+  Heart Attack Risk: 99.82%
+  Accident Risk: 73.21%
+  Death Risk: 89.17%
+  Predicted Death: Yes
+  Actual Death: No
+  Actual Heart Attacks: 1
+  Actual Accidents: 4
+    Hypertension History: Yes
+    Family History: Yes
+    Smoker: Yes
+    Overweight: Yes
+    Hours with Intoxication: 24.01
+    Hours with Low Alertness: 168
+
+Patient 93:
+  Heart Attack Risk: 99.82%
+  Accident Risk: 55.87%
+  Death Risk: 82.24%
+  Predicted Death: Yes
+  Actual Death: No
+  Actual Heart Attacks: 3
+  Actual Accidents: 3
+    Hypertension History: Yes
+    Family History: Yes
+    Smoker: Yes
+    Overweight: Yes
+    Hours with Intoxication: 15.46
+    Hours with Low Alertness: 99
+
+Patient 94:
+  Heart Attack Risk: 0.15%
+  Accident Risk: 28.20%
+  Death Risk: 11.37%
+  Predicted Death: No
+  Actual Death: No
+  Actual Heart Attacks: 0
+  Actual Accidents: 0
+    Hypertension History: Yes
+    Family History: Yes
+    Smoker: Yes
+    Overweight: Yes
+    Hours with Intoxication: 9.67
+    Hours with Low Alertness: 117
+
+Patient 95:
+  Heart Attack Risk: 99.82%
+  Accident Risk: 98.85%
+  Death Risk: 99.43%
+  Predicted Death: Yes
+  Actual Death: No
+  Actual Heart Attacks: 2
+  Actual Accidents: 5
+    Hypertension History: Yes
+    Family History: Yes
+    Smoker: Yes
+    Overweight: Yes
+    Hours with Intoxication: 21.73
+    Hours with Low Alertness: 140
+
+Patient 96:
+  Heart Attack Risk: 99.82%
+  Accident Risk: 98.10%
+  Death Risk: 99.13%
+  Predicted Death: Yes
+  Actual Death: No
+  Actual Heart Attacks: 1
+  Actual Accidents: 25
+    Hypertension History: Yes
+    Family History: Yes
+    Smoker: Yes
+    Overweight: Yes
+    Hours with Intoxication: 28.73
+    Hours with Low Alertness: 282
+
+Patient 97:
+  Heart Attack Risk: 99.82%
+  Accident Risk: 82.94%
+  Death Risk: 93.07%
+  Predicted Death: Yes
+  Actual Death: No
+  Actual Heart Attacks: 2
+  Actual Accidents: 24
+    Hypertension History: Yes
+    Family History: Yes
+    Smoker: Yes
+    Overweight: Yes
+    Hours with Intoxication: 31.66
+    Hours with Low Alertness: 342
+
+Patient 98:
+  Heart Attack Risk: 0.15%
+  Accident Risk: 54.24%
+  Death Risk: 21.79%
+  Predicted Death: No
+  Actual Death: No
+  Actual Heart Attacks: 0
+  Actual Accidents: 11
+    Hypertension History: Yes
+    Family History: Yes
+    Smoker: Yes
+    Overweight: Yes
+    Hours with Intoxication: 13.37
+    Hours with Low Alertness: 151
+
+Patient 99:
+  Heart Attack Risk: 0.15%
+  Accident Risk: 0.00%
+  Death Risk: 0.09%
+  Predicted Death: No
+  Actual Death: No
+  Actual Heart Attacks: 0
+  Actual Accidents: 0
+    Hypertension History: Yes
+    Family History: Yes
+    Smoker: Yes
+    Overweight: Yes
+    Hours with Intoxication: 0.73
+    Hours with Low Alertness: 16
+
+Patient 100:
+  Heart Attack Risk: 0.15%
+  Accident Risk: 8.43%
+  Death Risk: 3.46%
+  Predicted Death: No
+  Actual Death: No
+  Actual Heart Attacks: 0
+  Actual Accidents: 0
+    Hypertension History: Yes
+    Family History: Yes
+    Smoker: Yes
+    Overweight: Yes
+    Hours with Intoxication: 8.56
+    Hours with Low Alertness: 155
+
+Patient 101:
+  Heart Attack Risk: 99.82%
+  Accident Risk: 60.42%
+  Death Risk: 84.06%
+  Predicted Death: Yes
+  Actual Death: No
+  Actual Heart Attacks: 1
+  Actual Accidents: 0
+    Hypertension History: Yes
+    Family History: Yes
+    Smoker: Yes
+    Overweight: Yes
+    Hours with Intoxication: 13.63
+    Hours with Low Alertness: 128
+
+Patient 102:
+  Heart Attack Risk: 0.15%
+  Accident Risk: 21.64%
+  Death Risk: 8.75%
+  Predicted Death: No
+  Actual Death: No
+  Actual Heart Attacks: 0
+  Actual Accidents: 0
+    Hypertension History: Yes
+    Family History: Yes
+    Smoker: Yes
+    Overweight: Yes
+    Hours with Intoxication: 9.74
+    Hours with Low Alertness: 175
+
+Patient 103:
+  Heart Attack Risk: 0.15%
+  Accident Risk: 54.17%
+  Death Risk: 21.76%
+  Predicted Death: No
+  Actual Death: No
+  Actual Heart Attacks: 0
+  Actual Accidents: 0
+    Hypertension History: Yes
+    Family History: Yes
+    Smoker: Yes
+    Overweight: Yes
+    Hours with Intoxication: 8.81
+    Hours with Low Alertness: 269
+
+Patient 104:
+  Heart Attack Risk: 99.82%
+  Accident Risk: 97.58%
+  Death Risk: 98.92%
+  Predicted Death: Yes
+  Actual Death: No
+  Actual Heart Attacks: 7
+  Actual Accidents: 3
+    Hypertension History: Yes
+    Family History: Yes
+    Smoker: Yes
+    Overweight: Yes
+    Hours with Intoxication: 24.31
+    Hours with Low Alertness: 190
+
+Patient 105:
+  Heart Attack Risk: 99.82%
+  Accident Risk: 99.06%
+  Death Risk: 99.52%
+  Predicted Death: Yes
+  Actual Death: No
+  Actual Heart Attacks: 8
+  Actual Accidents: 6
+    Hypertension History: Yes
+    Family History: Yes
+    Smoker: Yes
+    Overweight: Yes
+    Hours with Intoxication: 27.38
+    Hours with Low Alertness: 200
+
+Patient 106:
+  Heart Attack Risk: 0.15%
+  Accident Risk: 15.34%
+  Death Risk: 6.23%
+  Predicted Death: No
+  Actual Death: No
+  Actual Heart Attacks: 0
+  Actual Accidents: 0
+    Hypertension History: Yes
+    Family History: Yes
+    Smoker: Yes
+    Overweight: Yes
+    Hours with Intoxication: 12.12
+    Hours with Low Alertness: 63
+
+Patient 107:
+  Heart Attack Risk: 99.82%
+  Accident Risk: 93.99%
+  Death Risk: 97.49%
+  Predicted Death: Yes
+  Actual Death: No
+  Actual Heart Attacks: 6
+  Actual Accidents: 14
+    Hypertension History: Yes
+    Family History: Yes
+    Smoker: Yes
+    Overweight: Yes
+    Hours with Intoxication: 37.13
+    Hours with Low Alertness: 222
+
+Patient 108:
+  Heart Attack Risk: 99.82%
+  Accident Risk: 89.45%
+  Death Risk: 95.67%
+  Predicted Death: Yes
+  Actual Death: No
+  Actual Heart Attacks: 5
+  Actual Accidents: 8
+    Hypertension History: Yes
+    Family History: Yes
+    Smoker: Yes
+    Overweight: Yes
+    Hours with Intoxication: 22.83
+    Hours with Low Alertness: 153
+
+Patient 109:
+  Heart Attack Risk: 99.82%
+  Accident Risk: 33.57%
+  Death Risk: 73.32%
+  Predicted Death: Yes
+  Actual Death: No
+  Actual Heart Attacks: 1
+  Actual Accidents: 0
+    Hypertension History: Yes
+    Family History: Yes
+    Smoker: Yes
+    Overweight: Yes
+    Hours with Intoxication: 14.19
+    Hours with Low Alertness: 139
+
+Patient 110:
+  Heart Attack Risk: 0.15%
+  Accident Risk: 7.70%
+  Death Risk: 3.17%
+  Predicted Death: No
+  Actual Death: No
+  Actual Heart Attacks: 0
+  Actual Accidents: 0
+    Hypertension History: Yes
+    Family History: Yes
+    Smoker: Yes
+    Overweight: Yes
+    Hours with Intoxication: 6.14
+    Hours with Low Alertness: 48
+
+Patient 111:
+  Heart Attack Risk: 99.82%
+  Accident Risk: 74.02%
+  Death Risk: 89.50%
+  Predicted Death: Yes
+  Actual Death: No
+  Actual Heart Attacks: 5
+  Actual Accidents: 7
+    Hypertension History: Yes
+    Family History: Yes
+    Smoker: Yes
+    Overweight: Yes
+    Hours with Intoxication: 24.43
+    Hours with Low Alertness: 162
+
+Patient 112:
+  Heart Attack Risk: 99.82%
+  Accident Risk: 93.81%
+  Death Risk: 97.41%
+  Predicted Death: Yes
+  Actual Death: No
+  Actual Heart Attacks: 1
+  Actual Accidents: 4
+    Hypertension History: Yes
+    Family History: Yes
+    Smoker: Yes
+    Overweight: Yes
+    Hours with Intoxication: 30.01
+    Hours with Low Alertness: 332
+
+Patient 113:
+  Heart Attack Risk: 0.15%
+  Accident Risk: 0.00%
+  Death Risk: 0.09%
+  Predicted Death: No
+  Actual Death: No
+  Actual Heart Attacks: 0
+  Actual Accidents: 0
+    Hypertension History: Yes
+    Family History: Yes
+    Smoker: Yes
+    Overweight: Yes
+    Hours with Intoxication: 0.38
+    Hours with Low Alertness: 5
+
+Patient 114:
+  Heart Attack Risk: 99.82%
+  Accident Risk: 2.45%
+  Death Risk: 60.87%
+  Predicted Death: Yes
+  Actual Death: No
+  Actual Heart Attacks: 1
+  Actual Accidents: 0
+    Hypertension History: Yes
+    Family History: Yes
+    Smoker: Yes
+    Overweight: Yes
+    Hours with Intoxication: 2.78
+    Hours with Low Alertness: 26
+
+Patient 115:
+  Heart Attack Risk: 99.82%
+  Accident Risk: 90.51%
+  Death Risk: 96.09%
+  Predicted Death: Yes
+  Actual Death: No
+  Actual Heart Attacks: 1
+  Actual Accidents: 4
+    Hypertension History: Yes
+    Family History: Yes
+    Smoker: Yes
+    Overweight: Yes
+    Hours with Intoxication: 23.70
+    Hours with Low Alertness: 109
+
+Patient 116:
+  Heart Attack Risk: 99.82%
+  Accident Risk: 84.44%
+  Death Risk: 93.67%
+  Predicted Death: Yes
+  Actual Death: No
+  Actual Heart Attacks: 4
+  Actual Accidents: 2
+    Hypertension History: Yes
+    Family History: Yes
+    Smoker: Yes
+    Overweight: Yes
+    Hours with Intoxication: 24.00
+    Hours with Low Alertness: 107
+
+Patient 117:
+  Heart Attack Risk: 99.82%
+  Accident Risk: 62.54%
+  Death Risk: 84.91%
+  Predicted Death: Yes
+  Actual Death: No
+  Actual Heart Attacks: 2
+  Actual Accidents: 0
+    Hypertension History: Yes
+    Family History: Yes
+    Smoker: Yes
+    Overweight: Yes
+    Hours with Intoxication: 19.55
+    Hours with Low Alertness: 99
+
+Patient 118:
+  Heart Attack Risk: 0.15%
+  Accident Risk: 5.26%
+  Death Risk: 2.20%
+  Predicted Death: No
+  Actual Death: No
+  Actual Heart Attacks: 0
+  Actual Accidents: 0
+    Hypertension History: Yes
+    Family History: Yes
+    Smoker: Yes
+    Overweight: Yes
+    Hours with Intoxication: 4.44
+    Hours with Low Alertness: 68
+
+Patient 119:
+  Heart Attack Risk: 0.15%
+  Accident Risk: 79.58%
+  Death Risk: 31.92%
+  Predicted Death: No
+  Actual Death: No
+  Actual Heart Attacks: 0
+  Actual Accidents: 0
+    Hypertension History: Yes
+    Family History: Yes
+    Smoker: Yes
+    Overweight: Yes
+    Hours with Intoxication: 24.46
+    Hours with Low Alertness: 266
+
+Patient 120:
+  Heart Attack Risk: 0.15%
+  Accident Risk: 0.00%
+  Death Risk: 0.09%
+  Predicted Death: No
+  Actual Death: No
+  Actual Heart Attacks: 0
+  Actual Accidents: 0
+    Hypertension History: Yes
+    Family History: Yes
+    Smoker: Yes
+    Overweight: Yes
+    Hours with Intoxication: 1.55
+    Hours with Low Alertness: 6
+
+Patient 121:
+  Heart Attack Risk: 0.15%
+  Accident Risk: 9.06%
+  Death Risk: 3.71%
+  Predicted Death: No
+  Actual Death: No
+  Actual Heart Attacks: 0
+  Actual Accidents: 0
+    Hypertension History: Yes
+    Family History: Yes
+    Smoker: Yes
+    Overweight: Yes
+    Hours with Intoxication: 0.58
+    Hours with Low Alertness: 143
+
+Patient 122:
+  Heart Attack Risk: 99.82%
+  Accident Risk: 74.84%
+  Death Risk: 89.83%
+  Predicted Death: Yes
+  Actual Death: No
+  Actual Heart Attacks: 3
+  Actual Accidents: 9
+    Hypertension History: Yes
+    Family History: Yes
+    Smoker: Yes
+    Overweight: Yes
+    Hours with Intoxication: 26.06
+    Hours with Low Alertness: 160
+
+Patient 123:
+  Heart Attack Risk: 99.82%
+  Accident Risk: 54.22%
+  Death Risk: 81.58%
+  Predicted Death: Yes
+  Actual Death: No
+  Actual Heart Attacks: 3
+  Actual Accidents: 0
+    Hypertension History: Yes
+    Family History: Yes
+    Smoker: Yes
+    Overweight: Yes
+    Hours with Intoxication: 23.14
+    Hours with Low Alertness: 172
+
+Patient 124:
+  Heart Attack Risk: 99.82%
+  Accident Risk: 79.34%
+  Death Risk: 91.63%
+  Predicted Death: Yes
+  Actual Death: No
+  Actual Heart Attacks: 1
+  Actual Accidents: 31
+    Hypertension History: Yes
+    Family History: Yes
+    Smoker: Yes
+    Overweight: Yes
+    Hours with Intoxication: 39.05
+    Hours with Low Alertness: 359
+
+Patient 125:
+  Heart Attack Risk: 99.82%
+  Accident Risk: 75.13%
+  Death Risk: 89.94%
+  Predicted Death: Yes
+  Actual Death: No
+  Actual Heart Attacks: 4
+  Actual Accidents: 5
+    Hypertension History: Yes
+    Family History: Yes
+    Smoker: Yes
+    Overweight: Yes
+    Hours with Intoxication: 25.82
+    Hours with Low Alertness: 99
+
+Patient 126:
+  Heart Attack Risk: 0.15%
+  Accident Risk: 67.36%
+  Death Risk: 27.04%
+  Predicted Death: No
+  Actual Death: No
+  Actual Heart Attacks: 0
+  Actual Accidents: 42
+    Hypertension History: Yes
+    Family History: Yes
+    Smoker: Yes
+    Overweight: Yes
+    Hours with Intoxication: 7.35
+    Hours with Low Alertness: 363
+
+Patient 127:
+  Heart Attack Risk: 0.15%
+  Accident Risk: 97.53%
+  Death Risk: 39.10%
+  Predicted Death: No
+  Actual Death: No
+  Actual Heart Attacks: 0
+  Actual Accidents: 20
+    Hypertension History: Yes
+    Family History: Yes
+    Smoker: Yes
+    Overweight: Yes
+    Hours with Intoxication: 35.87
+    Hours with Low Alertness: 319
+
+Patient 128:
+  Heart Attack Risk: 0.15%
+  Accident Risk: 89.15%
+  Death Risk: 35.75%
+  Predicted Death: No
+  Actual Death: No
+  Actual Heart Attacks: 0
+  Actual Accidents: 6
+    Hypertension History: Yes
+    Family History: Yes
+    Smoker: Yes
+    Overweight: Yes
+    Hours with Intoxication: 21.32
+    Hours with Low Alertness: 187
+
+Patient 129:
+  Heart Attack Risk: 0.15%
+  Accident Risk: 0.84%
+  Death Risk: 0.43%
+  Predicted Death: No
+  Actual Death: No
+  Actual Heart Attacks: 0
+  Actual Accidents: 0
+    Hypertension History: Yes
+    Family History: Yes
+    Smoker: Yes
+    Overweight: Yes
+    Hours with Intoxication: 2.42
+    Hours with Low Alertness: 7
+
+Patient 130:
+  Heart Attack Risk: 99.82%
+  Accident Risk: 94.88%
+  Death Risk: 97.84%
+  Predicted Death: Yes
+  Actual Death: No
+  Actual Heart Attacks: 1
+  Actual Accidents: 2
+    Hypertension History: Yes
+    Family History: Yes
+    Smoker: Yes
+    Overweight: Yes
+    Hours with Intoxication: 24.38
+    Hours with Low Alertness: 311
+
+Patient 131:
+  Heart Attack Risk: 0.15%
+  Accident Risk: 85.81%
+  Death Risk: 34.42%
+  Predicted Death: No
+  Actual Death: No
+  Actual Heart Attacks: 0
+  Actual Accidents: 10
+    Hypertension History: Yes
+    Family History: Yes
+    Smoker: Yes
+    Overweight: Yes
+    Hours with Intoxication: 33.83
+    Hours with Low Alertness: 360
+
+Patient 132:
+  Heart Attack Risk: 0.15%
+  Accident Risk: 17.19%
+  Death Risk: 6.97%
+  Predicted Death: No
+  Actual Death: No
+  Actual Heart Attacks: 0
+  Actual Accidents: 2
+    Hypertension History: Yes
+    Family History: Yes
+    Smoker: Yes
+    Overweight: Yes
+    Hours with Intoxication: 3.93
+    Hours with Low Alertness: 114
+
+Patient 133:
+  Heart Attack Risk: 99.82%
+  Accident Risk: 76.08%
+  Death Risk: 90.32%
+  Predicted Death: Yes
+  Actual Death: No
+  Actual Heart Attacks: 1
+  Actual Accidents: 4
+    Hypertension History: Yes
+    Family History: Yes
+    Smoker: Yes
+    Overweight: Yes
+    Hours with Intoxication: 23.46
+    Hours with Low Alertness: 183
+
+Patient 134:
+  Heart Attack Risk: 0.15%
+  Accident Risk: 13.73%
+  Death Risk: 5.58%
+  Predicted Death: No
+  Actual Death: No
+  Actual Heart Attacks: 0
+  Actual Accidents: 0
+    Hypertension History: Yes
+    Family History: Yes
+    Smoker: Yes
+    Overweight: Yes
+    Hours with Intoxication: 5.97
+    Hours with Low Alertness: 36
+
+Patient 135:
+  Heart Attack Risk: 99.82%
+  Accident Risk: 76.04%
+  Death Risk: 90.31%
+  Predicted Death: Yes
+  Actual Death: No
+  Actual Heart Attacks: 3
+  Actual Accidents: 0
+    Hypertension History: Yes
+    Family History: Yes
+    Smoker: Yes
+    Overweight: Yes
+    Hours with Intoxication: 39.35
+    Hours with Low Alertness: 330
+
+Patient 136:
+  Heart Attack Risk: 0.15%
+  Accident Risk: 91.74%
+  Death Risk: 36.79%
+  Predicted Death: No
+  Actual Death: No
+  Actual Heart Attacks: 0
+  Actual Accidents: 15
+    Hypertension History: Yes
+    Family History: Yes
+    Smoker: Yes
+    Overweight: Yes
+    Hours with Intoxication: 13.13
+    Hours with Low Alertness: 335
+
+Patient 137:
+  Heart Attack Risk: 0.15%
+  Accident Risk: 2.14%
+  Death Risk: 0.95%
+  Predicted Death: No
+  Actual Death: No
+  Actual Heart Attacks: 0
+  Actual Accidents: 0
+    Hypertension History: Yes
+    Family History: Yes
+    Smoker: Yes
+    Overweight: Yes
+    Hours with Intoxication: 3.39
+    Hours with Low Alertness: 16
+
+Patient 138:
+  Heart Attack Risk: 0.15%
+  Accident Risk: 34.64%
+  Death Risk: 13.95%
+  Predicted Death: No
+  Actual Death: No
+  Actual Heart Attacks: 0
+  Actual Accidents: 0
+    Hypertension History: Yes
+    Family History: Yes
+    Smoker: Yes
+    Overweight: Yes
+    Hours with Intoxication: 13.07
+    Hours with Low Alertness: 77
+
+Patient 139:
+  Heart Attack Risk: 99.82%
+  Accident Risk: 81.88%
+  Death Risk: 92.64%
+  Predicted Death: Yes
+  Actual Death: No
+  Actual Heart Attacks: 7
+  Actual Accidents: 12
+    Hypertension History: Yes
+    Family History: Yes
+    Smoker: Yes
+    Overweight: Yes
+    Hours with Intoxication: 29.80
+    Hours with Low Alertness: 159
+
+Patient 140:
+  Heart Attack Risk: 99.82%
+  Accident Risk: 22.95%
+  Death Risk: 69.07%
+  Predicted Death: Yes
+  Actual Death: No
+  Actual Heart Attacks: 1
+  Actual Accidents: 0
+    Hypertension History: Yes
+    Family History: Yes
+    Smoker: Yes
+    Overweight: Yes
+    Hours with Intoxication: 10.43
+    Hours with Low Alertness: 81
+
+Patient 141:
+  Heart Attack Risk: 0.15%
+  Accident Risk: 6.00%
+  Death Risk: 2.49%
+  Predicted Death: No
+  Actual Death: No
+  Actual Heart Attacks: 0
+  Actual Accidents: 0
+    Hypertension History: Yes
+    Family History: Yes
+    Smoker: Yes
+    Overweight: Yes
+    Hours with Intoxication: 4.51
+    Hours with Low Alertness: 100
+
+Patient 142:
+  Heart Attack Risk: 0.15%
+  Accident Risk: 6.24%
+  Death Risk: 2.59%
+  Predicted Death: No
+  Actual Death: No
+  Actual Heart Attacks: 0
+  Actual Accidents: 0
+    Hypertension History: Yes
+    Family History: Yes
+    Smoker: Yes
+    Overweight: Yes
+    Hours with Intoxication: 3.88
+    Hours with Low Alertness: 71
+
+Patient 143:
+  Heart Attack Risk: 99.82%
+  Accident Risk: 10.82%
+  Death Risk: 64.22%
+  Predicted Death: Yes
+  Actual Death: No
+  Actual Heart Attacks: 1
+  Actual Accidents: 0
+    Hypertension History: Yes
+    Family History: Yes
+    Smoker: Yes
+    Overweight: Yes
+    Hours with Intoxication: 3.47
+    Hours with Low Alertness: 41
+
+Patient 144:
+  Heart Attack Risk: 99.82%
+  Accident Risk: 96.85%
+  Death Risk: 98.63%
+  Predicted Death: Yes
+  Actual Death: No
+  Actual Heart Attacks: 1
+  Actual Accidents: 10
+    Hypertension History: Yes
+    Family History: Yes
+    Smoker: Yes
+    Overweight: Yes
+    Hours with Intoxication: 26.35
+    Hours with Low Alertness: 259
+
+Patient 145:
+  Heart Attack Risk: 99.82%
+  Accident Risk: 71.44%
+  Death Risk: 88.47%
+  Predicted Death: Yes
+  Actual Death: No
+  Actual Heart Attacks: 1
+  Actual Accidents: 6
+    Hypertension History: Yes
+    Family History: Yes
+    Smoker: Yes
+    Overweight: Yes
+    Hours with Intoxication: 17.82
+    Hours with Low Alertness: 152
+
+Patient 146:
+  Heart Attack Risk: 0.15%
+  Accident Risk: 83.11%
+  Death Risk: 33.34%
+  Predicted Death: No
+  Actual Death: No
+  Actual Heart Attacks: 0
+  Actual Accidents: 1
+    Hypertension History: Yes
+    Family History: Yes
+    Smoker: Yes
+    Overweight: Yes
+    Hours with Intoxication: 14.50
+    Hours with Low Alertness: 218
+
+Patient 147:
+  Heart Attack Risk: 99.82%
+  Accident Risk: 62.12%
+  Death Risk: 84.74%
+  Predicted Death: Yes
+  Actual Death: No
+  Actual Heart Attacks: 1
+  Actual Accidents: 4
+    Hypertension History: Yes
+    Family History: Yes
+    Smoker: Yes
+    Overweight: Yes
+    Hours with Intoxication: 15.35
+    Hours with Low Alertness: 139
+
+Patient 148:
+  Heart Attack Risk: 0.15%
+  Accident Risk: 6.44%
+  Death Risk: 2.67%
+  Predicted Death: No
+  Actual Death: No
+  Actual Heart Attacks: 0
+  Actual Accidents: 0
+    Hypertension History: Yes
+    Family History: Yes
+    Smoker: Yes
+    Overweight: Yes
+    Hours with Intoxication: 5.70
+    Hours with Low Alertness: 83
+
+Patient 149:
+  Heart Attack Risk: 99.82%
+  Accident Risk: 92.25%
+  Death Risk: 96.79%
+  Predicted Death: Yes
+  Actual Death: No
+  Actual Heart Attacks: 1
+  Actual Accidents: 6
+    Hypertension History: Yes
+    Family History: Yes
+    Smoker: Yes
+    Overweight: Yes
+    Hours with Intoxication: 19.16
+    Hours with Low Alertness: 144
+
+Patient 150:
+  Heart Attack Risk: 0.15%
+  Accident Risk: 84.62%
+  Death Risk: 33.94%
+  Predicted Death: No
+  Actual Death: No
+  Actual Heart Attacks: 0
+  Actual Accidents: 3
+    Hypertension History: Yes
+    Family History: Yes
+    Smoker: Yes
+    Overweight: Yes
+    Hours with Intoxication: 15.76
+    Hours with Low Alertness: 214
+
+Patient 151:
+  Heart Attack Risk: 99.82%
+  Accident Risk: 80.24%
+  Death Risk: 91.99%
+  Predicted Death: Yes
+  Actual Death: No
+  Actual Heart Attacks: 1
+  Actual Accidents: 24
+    Hypertension History: Yes
+    Family History: Yes
+    Smoker: Yes
+    Overweight: Yes
+    Hours with Intoxication: 25.73
+    Hours with Low Alertness: 352
+
+Patient 152:
+  Heart Attack Risk: 0.15%
+  Accident Risk: 91.67%
+  Death Risk: 36.76%
+  Predicted Death: No
+  Actual Death: No
+  Actual Heart Attacks: 0
+  Actual Accidents: 5
+    Hypertension History: Yes
+    Family History: Yes
+    Smoker: Yes
+    Overweight: Yes
+    Hours with Intoxication: 17.49
+    Hours with Low Alertness: 259
+
+Patient 153:
+  Heart Attack Risk: 99.82%
+  Accident Risk: 89.77%
+  Death Risk: 95.80%
+  Predicted Death: Yes
+  Actual Death: No
+  Actual Heart Attacks: 5
+  Actual Accidents: 12
+    Hypertension History: Yes
+    Family History: Yes
+    Smoker: Yes
+    Overweight: Yes
+    Hours with Intoxication: 21.53
+    Hours with Low Alertness: 231
+
+Patient 154:
+  Heart Attack Risk: 0.15%
+  Accident Risk: 90.79%
+  Death Risk: 36.41%
+  Predicted Death: No
+  Actual Death: No
+  Actual Heart Attacks: 0
+  Actual Accidents: 0
+    Hypertension History: Yes
+    Family History: Yes
+    Smoker: Yes
+    Overweight: Yes
+    Hours with Intoxication: 21.20
+    Hours with Low Alertness: 261
+
+Patient 155:
+  Heart Attack Risk: 99.82%
+  Accident Risk: 94.28%
+  Death Risk: 97.60%
+  Predicted Death: Yes
+  Actual Death: No
+  Actual Heart Attacks: 1
+  Actual Accidents: 14
+    Hypertension History: Yes
+    Family History: Yes
+    Smoker: Yes
+    Overweight: Yes
+    Hours with Intoxication: 23.46
+    Hours with Low Alertness: 234
+
+Patient 156:
+  Heart Attack Risk: 0.15%
+  Accident Risk: 75.14%
+  Death Risk: 30.15%
+  Predicted Death: No
+  Actual Death: No
+  Actual Heart Attacks: 0
+  Actual Accidents: 2
+    Hypertension History: Yes
+    Family History: Yes
+    Smoker: Yes
+    Overweight: Yes
+    Hours with Intoxication: 10.69
+    Hours with Low Alertness: 209
+
+Patient 157:
+  Heart Attack Risk: 0.15%
+  Accident Risk: 9.49%
+  Death Risk: 3.89%
+  Predicted Death: No
+  Actual Death: No
+  Actual Heart Attacks: 0
+  Actual Accidents: 0
+    Hypertension History: Yes
+    Family History: Yes
+    Smoker: Yes
+    Overweight: Yes
+    Hours with Intoxication: 3.51
+    Hours with Low Alertness: 59
+
+Patient 158:
+  Heart Attack Risk: 0.15%
+  Accident Risk: 41.66%
+  Death Risk: 16.76%
+  Predicted Death: No
+  Actual Death: No
+  Actual Heart Attacks: 0
+  Actual Accidents: 0
+    Hypertension History: Yes
+    Family History: Yes
+    Smoker: Yes
+    Overweight: Yes
+    Hours with Intoxication: 14.79
+    Hours with Low Alertness: 153
+
+Patient 159:
+  Heart Attack Risk: 0.15%
+  Accident Risk: 15.56%
+  Death Risk: 6.32%
+  Predicted Death: No
+  Actual Death: No
+  Actual Heart Attacks: 0
+  Actual Accidents: 0
+    Hypertension History: Yes
+    Family History: Yes
+    Smoker: Yes
+    Overweight: Yes
+    Hours with Intoxication: 3.99
+    Hours with Low Alertness: 114
+
+Patient 160:
+  Heart Attack Risk: 0.15%
+  Accident Risk: 52.06%
+  Death Risk: 20.92%
+  Predicted Death: No
+  Actual Death: No
+  Actual Heart Attacks: 0
+  Actual Accidents: 4
+    Hypertension History: Yes
+    Family History: Yes
+    Smoker: Yes
+    Overweight: Yes
+    Hours with Intoxication: 12.34
+    Hours with Low Alertness: 155
+
+Patient 161:
+  Heart Attack Risk: 99.82%
+  Accident Risk: 95.60%
+  Death Risk: 98.13%
+  Predicted Death: Yes
+  Actual Death: No
+  Actual Heart Attacks: 6
+  Actual Accidents: 21
+    Hypertension History: Yes
+    Family History: Yes
+    Smoker: Yes
+    Overweight: Yes
+    Hours with Intoxication: 33.65
+    Hours with Low Alertness: 222
+
+Patient 162:
+  Heart Attack Risk: 99.82%
+  Accident Risk: 86.40%
+  Death Risk: 94.45%
+  Predicted Death: Yes
+  Actual Death: No
+  Actual Heart Attacks: 3
+  Actual Accidents: 5
+    Hypertension History: Yes
+    Family History: Yes
+    Smoker: Yes
+    Overweight: Yes
+    Hours with Intoxication: 19.99
+    Hours with Low Alertness: 270
+
+Patient 163:
+  Heart Attack Risk: 0.15%
+  Accident Risk: 11.14%
+  Death Risk: 4.55%
+  Predicted Death: No
+  Actual Death: No
+  Actual Heart Attacks: 0
+  Actual Accidents: 0
+    Hypertension History: Yes
+    Family History: Yes
+    Smoker: Yes
+    Overweight: Yes
+    Hours with Intoxication: 3.68
+    Hours with Low Alertness: 116
+
+Patient 164:
+  Heart Attack Risk: 0.15%
+  Accident Risk: 11.12%
+  Death Risk: 4.54%
+  Predicted Death: No
+  Actual Death: No
+  Actual Heart Attacks: 0
+  Actual Accidents: 0
+    Hypertension History: Yes
+    Family History: Yes
+    Smoker: Yes
+    Overweight: Yes
+    Hours with Intoxication: 11.89
+    Hours with Low Alertness: 24
+
+Patient 165:
+  Heart Attack Risk: 99.82%
+  Accident Risk: 36.87%
+  Death Risk: 74.64%
+  Predicted Death: Yes
+  Actual Death: No
+  Actual Heart Attacks: 1
+  Actual Accidents: 3
+    Hypertension History: Yes
+    Family History: Yes
+    Smoker: Yes
+    Overweight: Yes
+    Hours with Intoxication: 17.86
+    Hours with Low Alertness: 63
+
+Patient 166:
+  Heart Attack Risk: 0.15%
+  Accident Risk: 20.07%
+  Death Risk: 8.12%
+  Predicted Death: No
+  Actual Death: No
+  Actual Heart Attacks: 0
+  Actual Accidents: 0
+    Hypertension History: Yes
+    Family History: Yes
+    Smoker: Yes
+    Overweight: Yes
+    Hours with Intoxication: 14.93
+    Hours with Low Alertness: 69
+
+Patient 167:
+  Heart Attack Risk: 0.15%
+  Accident Risk: 40.40%
+  Death Risk: 16.25%
+  Predicted Death: No
+  Actual Death: No
+  Actual Heart Attacks: 0
+  Actual Accidents: 0
+    Hypertension History: Yes
+    Family History: Yes
+    Smoker: Yes
+    Overweight: Yes
+    Hours with Intoxication: 13.36
+    Hours with Low Alertness: 116
+
+Patient 168:
+  Heart Attack Risk: 0.15%
+  Accident Risk: 90.89%
+  Death Risk: 36.45%
+  Predicted Death: No
+  Actual Death: No
+  Actual Heart Attacks: 0
+  Actual Accidents: 2
+    Hypertension History: Yes
+    Family History: Yes
+    Smoker: Yes
+    Overweight: Yes
+    Hours with Intoxication: 18.40
+    Hours with Low Alertness: 142
+
+Patient 169:
+  Heart Attack Risk: 0.15%
+  Accident Risk: 10.80%
+  Death Risk: 4.41%
+  Predicted Death: No
+  Actual Death: No
+  Actual Heart Attacks: 0
+  Actual Accidents: 0
+    Hypertension History: Yes
+    Family History: Yes
+    Smoker: Yes
+    Overweight: Yes
+    Hours with Intoxication: 8.39
+    Hours with Low Alertness: 90
+
+Patient 170:
+  Heart Attack Risk: 0.15%
+  Accident Risk: 0.37%
+  Death Risk: 0.24%
+  Predicted Death: No
+  Actual Death: No
+  Actual Heart Attacks: 0
+  Actual Accidents: 0
+    Hypertension History: Yes
+    Family History: Yes
+    Smoker: Yes
+    Overweight: Yes
+    Hours with Intoxication: 1.11
+    Hours with Low Alertness: 27
+
+Patient 171:
+  Heart Attack Risk: 0.15%
+  Accident Risk: 6.09%
+  Death Risk: 2.53%
+  Predicted Death: No
+  Actual Death: No
+  Actual Heart Attacks: 0
+  Actual Accidents: 0
+    Hypertension History: Yes
+    Family History: Yes
+    Smoker: Yes
+    Overweight: Yes
+    Hours with Intoxication: 5.45
+    Hours with Low Alertness: 152
+
+Patient 172:
+  Heart Attack Risk: 0.15%
+  Accident Risk: 6.42%
+  Death Risk: 2.66%
+  Predicted Death: No
+  Actual Death: No
+  Actual Heart Attacks: 0
+  Actual Accidents: 0
+    Hypertension History: Yes
+    Family History: Yes
+    Smoker: Yes
+    Overweight: Yes
+    Hours with Intoxication: 1.83
+    Hours with Low Alertness: 67
+
+Patient 173:
+  Heart Attack Risk: 99.82%
+  Accident Risk: 58.91%
+  Death Risk: 83.45%
+  Predicted Death: Yes
+  Actual Death: No
+  Actual Heart Attacks: 2
+  Actual Accidents: 4
+    Hypertension History: Yes
+    Family History: Yes
+    Smoker: Yes
+    Overweight: Yes
+    Hours with Intoxication: 18.61
+    Hours with Low Alertness: 94
+
+Patient 174:
+  Heart Attack Risk: 0.15%
+  Accident Risk: 21.45%
+  Death Risk: 8.67%
+  Predicted Death: No
+  Actual Death: No
+  Actual Heart Attacks: 0
+  Actual Accidents: 0
+    Hypertension History: Yes
+    Family History: Yes
+    Smoker: Yes
+    Overweight: Yes
+    Hours with Intoxication: 10.88
+    Hours with Low Alertness: 88
+
+Patient 175:
+  Heart Attack Risk: 0.15%
+  Accident Risk: 66.59%
+  Death Risk: 26.73%
+  Predicted Death: No
+  Actual Death: No
+  Actual Heart Attacks: 0
+  Actual Accidents: 5
+    Hypertension History: Yes
+    Family History: Yes
+    Smoker: Yes
+    Overweight: Yes
+    Hours with Intoxication: 9.36
+    Hours with Low Alertness: 218
+
+Patient 176:
+  Heart Attack Risk: 99.82%
+  Accident Risk: 97.95%
+  Death Risk: 99.07%
+  Predicted Death: Yes
+  Actual Death: No
+  Actual Heart Attacks: 1
+  Actual Accidents: 1
+    Hypertension History: Yes
+    Family History: Yes
+    Smoker: Yes
+    Overweight: Yes
+    Hours with Intoxication: 23.94
+    Hours with Low Alertness: 193
+
+Patient 177:
+  Heart Attack Risk: 0.15%
+  Accident Risk: 81.27%
+  Death Risk: 32.60%
+  Predicted Death: No
+  Actual Death: No
+  Actual Heart Attacks: 0
+  Actual Accidents: 9
+    Hypertension History: Yes
+    Family History: Yes
+    Smoker: Yes
+    Overweight: Yes
+    Hours with Intoxication: 12.87
+    Hours with Low Alertness: 254
+
+Patient 178:
+  Heart Attack Risk: 0.15%
+  Accident Risk: 96.50%
+  Death Risk: 38.69%
+  Predicted Death: No
+  Actual Death: No
+  Actual Heart Attacks: 0
+  Actual Accidents: 7
+    Hypertension History: Yes
+    Family History: Yes
+    Smoker: Yes
+    Overweight: Yes
+    Hours with Intoxication: 21.64
+    Hours with Low Alertness: 300
+
+Patient 179:
+  Heart Attack Risk: 0.15%
+  Accident Risk: 99.91%
+  Death Risk: 40.06%
+  Predicted Death: No
+  Actual Death: No
+  Actual Heart Attacks: 0
+  Actual Accidents: 9
+    Hypertension History: Yes
+    Family History: Yes
+    Smoker: Yes
+    Overweight: Yes
+    Hours with Intoxication: 30.34
+    Hours with Low Alertness: 297
+
+Patient 180:
+  Heart Attack Risk: 99.82%
+  Accident Risk: 78.11%
+  Death Risk: 91.13%
+  Predicted Death: Yes
+  Actual Death: No
+  Actual Heart Attacks: 2
+  Actual Accidents: 0
+    Hypertension History: Yes
+    Family History: Yes
+    Smoker: Yes
+    Overweight: Yes
+    Hours with Intoxication: 19.00
+    Hours with Low Alertness: 152
+
+Patient 181:
+  Heart Attack Risk: 99.82%
+  Accident Risk: 97.91%
+  Death Risk: 99.06%
+  Predicted Death: Yes
+  Actual Death: No
+  Actual Heart Attacks: 1
+  Actual Accidents: 1
+    Hypertension History: Yes
+    Family History: Yes
+    Smoker: Yes
+    Overweight: Yes
+    Hours with Intoxication: 27.26
+    Hours with Low Alertness: 236
+
+Patient 182:
+  Heart Attack Risk: 0.15%
+  Accident Risk: 97.16%
+  Death Risk: 38.96%
+  Predicted Death: No
+  Actual Death: No
+  Actual Heart Attacks: 0
+  Actual Accidents: 16
+    Hypertension History: Yes
+    Family History: Yes
+    Smoker: Yes
+    Overweight: Yes
+    Hours with Intoxication: 35.42
+    Hours with Low Alertness: 284
+
+Patient 183:
+  Heart Attack Risk: 0.15%
+  Accident Risk: 23.49%
+  Death Risk: 9.49%
+  Predicted Death: No
+  Actual Death: No
+  Actual Heart Attacks: 0
+  Actual Accidents: 0
+    Hypertension History: Yes
+    Family History: Yes
+    Smoker: Yes
+    Overweight: Yes
+    Hours with Intoxication: 9.89
+    Hours with Low Alertness: 82
+
+Patient 184:
+  Heart Attack Risk: 99.82%
+  Accident Risk: 84.25%
+  Death Risk: 93.59%
+  Predicted Death: Yes
+  Actual Death: No
+  Actual Heart Attacks: 1
+  Actual Accidents: 7
+    Hypertension History: Yes
+    Family History: Yes
+    Smoker: Yes
+    Overweight: Yes
+    Hours with Intoxication: 27.88
+    Hours with Low Alertness: 272
+
+Patient 185:
+  Heart Attack Risk: 99.82%
+  Accident Risk: 82.67%
+  Death Risk: 92.96%
+  Predicted Death: Yes
+  Actual Death: No
+  Actual Heart Attacks: 2
+  Actual Accidents: 9
+    Hypertension History: Yes
+    Family History: Yes
+    Smoker: Yes
+    Overweight: Yes
+    Hours with Intoxication: 31.57
+    Hours with Low Alertness: 340
+
+Patient 186:
+  Heart Attack Risk: 99.82%
+  Accident Risk: 80.89%
+  Death Risk: 92.25%
+  Predicted Death: Yes
+  Actual Death: No
+  Actual Heart Attacks: 1
+  Actual Accidents: 7
+    Hypertension History: Yes
+    Family History: Yes
+    Smoker: Yes
+    Overweight: Yes
+    Hours with Intoxication: 24.98
+    Hours with Low Alertness: 274
+
+Patient 187:
+  Heart Attack Risk: 99.82%
+  Accident Risk: 99.24%
+  Death Risk: 99.59%
+  Predicted Death: Yes
+  Actual Death: No
+  Actual Heart Attacks: 3
+  Actual Accidents: 8
+    Hypertension History: Yes
+    Family History: Yes
+    Smoker: Yes
+    Overweight: Yes
+    Hours with Intoxication: 27.18
+    Hours with Low Alertness: 194
+
+Patient 188:
+  Heart Attack Risk: 99.82%
+  Accident Risk: 59.19%
+  Death Risk: 83.57%
+  Predicted Death: Yes
+  Actual Death: No
+  Actual Heart Attacks: 1
+  Actual Accidents: 1
+    Hypertension History: Yes
+    Family History: Yes
+    Smoker: Yes
+    Overweight: Yes
+    Hours with Intoxication: 14.89
+    Hours with Low Alertness: 99
+
+Patient 189:
+  Heart Attack Risk: 99.82%
+  Accident Risk: 91.69%
+  Death Risk: 96.57%
+  Predicted Death: Yes
+  Actual Death: No
+  Actual Heart Attacks: 3
+  Actual Accidents: 2
+    Hypertension History: Yes
+    Family History: Yes
+    Smoker: Yes
+    Overweight: Yes
+    Hours with Intoxication: 23.59
+    Hours with Low Alertness: 110
+
+Patient 190:
+  Heart Attack Risk: 99.82%
+  Accident Risk: 88.50%
+  Death Risk: 95.29%
+  Predicted Death: Yes
+  Actual Death: No
+  Actual Heart Attacks: 1
+  Actual Accidents: 5
+    Hypertension History: Yes
+    Family History: Yes
+    Smoker: Yes
+    Overweight: Yes
+    Hours with Intoxication: 20.85
+    Hours with Low Alertness: 146
+
+Patient 191:
+  Heart Attack Risk: 99.82%
+  Accident Risk: 97.67%
+  Death Risk: 98.96%
+  Predicted Death: Yes
+  Actual Death: No
+  Actual Heart Attacks: 2
+  Actual Accidents: 8
+    Hypertension History: Yes
+    Family History: Yes
+    Smoker: Yes
+    Overweight: Yes
+    Hours with Intoxication: 27.75
+    Hours with Low Alertness: 223
+
+Patient 192:
+  Heart Attack Risk: 99.82%
+  Accident Risk: 95.98%
+  Death Risk: 98.28%
+  Predicted Death: Yes
+  Actual Death: No
+  Actual Heart Attacks: 1
+  Actual Accidents: 4
+    Hypertension History: Yes
+    Family History: Yes
+    Smoker: Yes
+    Overweight: Yes
+    Hours with Intoxication: 32.96
+    Hours with Low Alertness: 196
+
+Patient 193:
+  Heart Attack Risk: 99.82%
+  Accident Risk: 79.04%
+  Death Risk: 91.51%
+  Predicted Death: Yes
+  Actual Death: No
+  Actual Heart Attacks: 2
+  Actual Accidents: 6
+    Hypertension History: Yes
+    Family History: Yes
+    Smoker: Yes
+    Overweight: Yes
+    Hours with Intoxication: 18.00
+    Hours with Low Alertness: 198
+
+Patient 194:
+  Heart Attack Risk: 99.82%
+  Accident Risk: 88.60%
+  Death Risk: 95.33%
+  Predicted Death: Yes
+  Actual Death: No
+  Actual Heart Attacks: 1
+  Actual Accidents: 8
+    Hypertension History: Yes
+    Family History: Yes
+    Smoker: Yes
+    Overweight: Yes
+    Hours with Intoxication: 21.47
+    Hours with Low Alertness: 266
+
+Patient 195:
+  Heart Attack Risk: 0.15%
+  Accident Risk: 20.60%
+  Death Risk: 8.33%
+  Predicted Death: No
+  Actual Death: No
+  Actual Heart Attacks: 0
+  Actual Accidents: 0
+    Hypertension History: Yes
+    Family History: Yes
+    Smoker: Yes
+    Overweight: Yes
+    Hours with Intoxication: 14.18
+    Hours with Low Alertness: 170
+
+Patient 196:
+  Heart Attack Risk: 0.15%
+  Accident Risk: 8.62%
+  Death Risk: 3.54%
+  Predicted Death: No
+  Actual Death: No
+  Actual Heart Attacks: 0
+  Actual Accidents: 0
+    Hypertension History: Yes
+    Family History: Yes
+    Smoker: Yes
+    Overweight: Yes
+    Hours with Intoxication: 8.71
+    Hours with Low Alertness: 154
+
+Patient 197:
+  Heart Attack Risk: 0.15%
+  Accident Risk: 7.33%
+  Death Risk: 3.02%
+  Predicted Death: No
+  Actual Death: No
+  Actual Heart Attacks: 0
+  Actual Accidents: 0
+    Hypertension History: Yes
+    Family History: Yes
+    Smoker: Yes
+    Overweight: Yes
+    Hours with Intoxication: 6.01
+    Hours with Low Alertness: 77
+
+Patient 198:
+  Heart Attack Risk: 0.15%
+  Accident Risk: 63.28%
+  Death Risk: 25.40%
+  Predicted Death: No
+  Actual Death: No
+  Actual Heart Attacks: 0
+  Actual Accidents: 1
+    Hypertension History: Yes
+    Family History: Yes
+    Smoker: Yes
+    Overweight: Yes
+    Hours with Intoxication: 15.45
+    Hours with Low Alertness: 101
+
+Patient 199:
+  Heart Attack Risk: 99.82%
+  Accident Risk: 30.91%
+  Death Risk: 72.25%
+  Predicted Death: Yes
+  Actual Death: No
+  Actual Heart Attacks: 1
+  Actual Accidents: 0
+    Hypertension History: Yes
+    Family History: Yes
+    Smoker: Yes
+    Overweight: Yes
+    Hours with Intoxication: 14.74
+    Hours with Low Alertness: 179
+
+Patient 200:
+  Heart Attack Risk: 99.82%
+  Accident Risk: 68.87%
+  Death Risk: 87.44%
+  Predicted Death: Yes
+  Actual Death: No
+  Actual Heart Attacks: 5
+  Actual Accidents: 0
+    Hypertension History: Yes
+    Family History: Yes
+    Smoker: Yes
+    Overweight: Yes
+    Hours with Intoxication: 25.44
+    Hours with Low Alertness: 160
+
+Patient 201:
+  Heart Attack Risk: 0.15%
+  Accident Risk: 14.50%
+  Death Risk: 5.89%
+  Predicted Death: No
+  Actual Death: No
+  Actual Heart Attacks: 0
+  Actual Accidents: 0
+    Hypertension History: Yes
+    Family History: Yes
+    Smoker: Yes
+    Overweight: Yes
+    Hours with Intoxication: 8.49
+    Hours with Low Alertness: 61
+
+Patient 202:
+  Heart Attack Risk: 0.15%
+  Accident Risk: 14.48%
+  Death Risk: 5.88%
+  Predicted Death: No
+  Actual Death: No
+  Actual Heart Attacks: 0
+  Actual Accidents: 0
+    Hypertension History: Yes
+    Family History: Yes
+    Smoker: Yes
+    Overweight: Yes
+    Hours with Intoxication: 2.25
+    Hours with Low Alertness: 32
+
+Patient 203:
+  Heart Attack Risk: 99.82%
+  Accident Risk: 76.69%
+  Death Risk: 90.57%
+  Predicted Death: Yes
+  Actual Death: No
+  Actual Heart Attacks: 1
+  Actual Accidents: 0
+    Hypertension History: Yes
+    Family History: Yes
+    Smoker: Yes
+    Overweight: Yes
+    Hours with Intoxication: 32.93
+    Hours with Low Alertness: 274
+
+Patient 204:
+  Heart Attack Risk: 99.82%
+  Accident Risk: 52.36%
+  Death Risk: 80.84%
+  Predicted Death: Yes
+  Actual Death: No
+  Actual Heart Attacks: 5
+  Actual Accidents: 4
+    Hypertension History: Yes
+    Family History: Yes
+    Smoker: Yes
+    Overweight: Yes
+    Hours with Intoxication: 15.46
+    Hours with Low Alertness: 94
+
+Patient 205:
+  Heart Attack Risk: 99.82%
+  Accident Risk: 63.95%
+  Death Risk: 85.47%
+  Predicted Death: Yes
+  Actual Death: No
+  Actual Heart Attacks: 2
+  Actual Accidents: 7
+    Hypertension History: Yes
+    Family History: Yes
+    Smoker: Yes
+    Overweight: Yes
+    Hours with Intoxication: 21.50
+    Hours with Low Alertness: 170
+
+Patient 206:
+  Heart Attack Risk: 99.82%
+  Accident Risk: 92.60%
+  Death Risk: 96.93%
+  Predicted Death: Yes
+  Actual Death: No
+  Actual Heart Attacks: 2
+  Actual Accidents: 16
+    Hypertension History: Yes
+    Family History: Yes
+    Smoker: Yes
+    Overweight: Yes
+    Hours with Intoxication: 23.87
+    Hours with Low Alertness: 227
+
+Patient 207:
+  Heart Attack Risk: 99.82%
+  Accident Risk: 99.29%
+  Death Risk: 99.61%
+  Predicted Death: Yes
+  Actual Death: No
+  Actual Heart Attacks: 2
+  Actual Accidents: 21
+    Hypertension History: Yes
+    Family History: Yes
+    Smoker: Yes
+    Overweight: Yes
+    Hours with Intoxication: 31.57
+    Hours with Low Alertness: 307
+
+Patient 208:
+  Heart Attack Risk: 99.82%
+  Accident Risk: 89.60%
+  Death Risk: 95.73%
+  Predicted Death: Yes
+  Actual Death: No
+  Actual Heart Attacks: 3
+  Actual Accidents: 14
+    Hypertension History: Yes
+    Family History: Yes
+    Smoker: Yes
+    Overweight: Yes
+    Hours with Intoxication: 35.64
+    Hours with Low Alertness: 252
+
+Patient 209:
+  Heart Attack Risk: 99.82%
+  Accident Risk: 91.04%
+  Death Risk: 96.31%
+  Predicted Death: Yes
+  Actual Death: No
+  Actual Heart Attacks: 3
+  Actual Accidents: 24
+    Hypertension History: Yes
+    Family History: Yes
+    Smoker: Yes
+    Overweight: Yes
+    Hours with Intoxication: 38.71
+    Hours with Low Alertness: 298
+
+Patient 210:
+  Heart Attack Risk: 0.15%
+  Accident Risk: 87.71%
+  Death Risk: 35.17%
+  Predicted Death: No
+  Actual Death: No
+  Actual Heart Attacks: 0
+  Actual Accidents: 7
+    Hypertension History: Yes
+    Family History: Yes
+    Smoker: Yes
+    Overweight: Yes
+    Hours with Intoxication: 21.19
+    Hours with Low Alertness: 194
+
+Patient 211:
+  Heart Attack Risk: 0.15%
+  Accident Risk: 22.07%
+  Death Risk: 8.92%
+  Predicted Death: No
+  Actual Death: No
+  Actual Heart Attacks: 0
+  Actual Accidents: 0
+    Hypertension History: Yes
+    Family History: Yes
+    Smoker: Yes
+    Overweight: Yes
+    Hours with Intoxication: 10.46
+    Hours with Low Alertness: 75
+
+Patient 212:
+  Heart Attack Risk: 0.15%
+  Accident Risk: 9.09%
+  Death Risk: 3.73%
+  Predicted Death: No
+  Actual Death: No
+  Actual Heart Attacks: 0
+  Actual Accidents: 0
+    Hypertension History: Yes
+    Family History: Yes
+    Smoker: Yes
+    Overweight: Yes
+    Hours with Intoxication: 4.57
+    Hours with Low Alertness: 57
+
+Patient 213:
+  Heart Attack Risk: 0.15%
+  Accident Risk: 11.47%
+  Death Risk: 4.68%
+  Predicted Death: No
+  Actual Death: No
+  Actual Heart Attacks: 0
+  Actual Accidents: 0
+    Hypertension History: Yes
+    Family History: Yes
+    Smoker: Yes
+    Overweight: Yes
+    Hours with Intoxication: 8.86
+    Hours with Low Alertness: 71
+
+Patient 214:
+  Heart Attack Risk: 0.15%
+  Accident Risk: 16.11%
+  Death Risk: 6.54%
+  Predicted Death: No
+  Actual Death: No
+  Actual Heart Attacks: 0
+  Actual Accidents: 0
+    Hypertension History: Yes
+    Family History: Yes
+    Smoker: Yes
+    Overweight: Yes
+    Hours with Intoxication: 9.30
+    Hours with Low Alertness: 59
+
+Patient 215:
+  Heart Attack Risk: 0.15%
+  Accident Risk: 2.18%
+  Death Risk: 0.96%
+  Predicted Death: No
+  Actual Death: No
+  Actual Heart Attacks: 0
+  Actual Accidents: 0
+    Hypertension History: Yes
+    Family History: Yes
+    Smoker: Yes
+    Overweight: Yes
+    Hours with Intoxication: 2.59
+    Hours with Low Alertness: 12
+
+Patient 216:
+  Heart Attack Risk: 0.15%
+  Accident Risk: 0.00%
+  Death Risk: 0.09%
+  Predicted Death: No
+  Actual Death: No
+  Actual Heart Attacks: 0
+  Actual Accidents: 0
+    Hypertension History: Yes
+    Family History: Yes
+    Smoker: Yes
+    Overweight: Yes
+    Hours with Intoxication: 1.58
+    Hours with Low Alertness: 16
+
+Patient 217:
+  Heart Attack Risk: 99.82%
+  Accident Risk: 80.48%
+  Death Risk: 92.08%
+  Predicted Death: Yes
+  Actual Death: No
+  Actual Heart Attacks: 3
+  Actual Accidents: 5
+    Hypertension History: Yes
+    Family History: Yes
+    Smoker: Yes
+    Overweight: Yes
+    Hours with Intoxication: 17.71
+    Hours with Low Alertness: 147
+
+Patient 218:
+  Heart Attack Risk: 99.82%
+  Accident Risk: 98.35%
+  Death Risk: 99.23%
+  Predicted Death: Yes
+  Actual Death: No
+  Actual Heart Attacks: 6
+  Actual Accidents: 7
+    Hypertension History: Yes
+    Family History: Yes
+    Smoker: Yes
+    Overweight: Yes
+    Hours with Intoxication: 23.65
+    Hours with Low Alertness: 138
+
+Patient 219:
+  Heart Attack Risk: 0.15%
+  Accident Risk: 20.54%
+  Death Risk: 8.31%
+  Predicted Death: No
+  Actual Death: No
+  Actual Heart Attacks: 0
+  Actual Accidents: 0
+    Hypertension History: Yes
+    Family History: Yes
+    Smoker: Yes
+    Overweight: Yes
+    Hours with Intoxication: 13.76
+    Hours with Low Alertness: 70
+
+Patient 220:
+  Heart Attack Risk: 99.82%
+  Accident Risk: 97.20%
+  Death Risk: 98.77%
+  Predicted Death: Yes
+  Actual Death: No
+  Actual Heart Attacks: 3
+  Actual Accidents: 3
+    Hypertension History: Yes
+    Family History: Yes
+    Smoker: Yes
+    Overweight: Yes
+    Hours with Intoxication: 22.77
+    Hours with Low Alertness: 144
+
+Patient 221:
+  Heart Attack Risk: 99.82%
+  Accident Risk: 93.93%
+  Death Risk: 97.47%
+  Predicted Death: Yes
+  Actual Death: No
+  Actual Heart Attacks: 1
+  Actual Accidents: 5
+    Hypertension History: Yes
+    Family History: Yes
+    Smoker: Yes
+    Overweight: Yes
+    Hours with Intoxication: 28.77
+    Hours with Low Alertness: 147
+
+Patient 222:
+  Heart Attack Risk: 0.15%
+  Accident Risk: 38.48%
+  Death Risk: 15.48%
+  Predicted Death: No
+  Actual Death: No
+  Actual Heart Attacks: 0
+  Actual Accidents: 0
+    Hypertension History: Yes
+    Family History: Yes
+    Smoker: Yes
+    Overweight: Yes
+    Hours with Intoxication: 20.22
+    Hours with Low Alertness: 173
+
+Patient 223:
+  Heart Attack Risk: 0.15%
+  Accident Risk: 8.93%
+  Death Risk: 3.66%
+  Predicted Death: No
+  Actual Death: No
+  Actual Heart Attacks: 0
+  Actual Accidents: 0
+    Hypertension History: Yes
+    Family History: Yes
+    Smoker: Yes
+    Overweight: Yes
+    Hours with Intoxication: 8.10
+    Hours with Low Alertness: 66
+
+Patient 224:
+  Heart Attack Risk: 0.15%
+  Accident Risk: 8.38%
+  Death Risk: 3.44%
+  Predicted Death: No
+  Actual Death: No
+  Actual Heart Attacks: 0
+  Actual Accidents: 0
+    Hypertension History: Yes
+    Family History: Yes
+    Smoker: Yes
+    Overweight: Yes
+    Hours with Intoxication: 2.62
+    Hours with Low Alertness: 105
+
+Patient 225:
+  Heart Attack Risk: 0.15%
+  Accident Risk: 0.43%
+  Death Risk: 0.26%
+  Predicted Death: No
+  Actual Death: No
+  Actual Heart Attacks: 0
+  Actual Accidents: 0
+    Hypertension History: Yes
+    Family History: Yes
+    Smoker: Yes
+    Overweight: Yes
+    Hours with Intoxication: 1.48
+    Hours with Low Alertness: 28
+
+Patient 226:
+  Heart Attack Risk: 99.82%
+  Accident Risk: 69.38%
+  Death Risk: 87.64%
+  Predicted Death: Yes
+  Actual Death: No
+  Actual Heart Attacks: 1
+  Actual Accidents: 3
+    Hypertension History: Yes
+    Family History: Yes
+    Smoker: Yes
+    Overweight: Yes
+    Hours with Intoxication: 15.17
+    Hours with Low Alertness: 130
+
+Patient 227:
+  Heart Attack Risk: 99.82%
+  Accident Risk: 81.21%
+  Death Risk: 92.38%
+  Predicted Death: Yes
+  Actual Death: No
+  Actual Heart Attacks: 2
+  Actual Accidents: 25
+    Hypertension History: Yes
+    Family History: Yes
+    Smoker: Yes
+    Overweight: Yes
+    Hours with Intoxication: 37.21
+    Hours with Low Alertness: 370
+
+Patient 228:
+  Heart Attack Risk: 99.82%
+  Accident Risk: 54.17%
+  Death Risk: 81.56%
+  Predicted Death: Yes
+  Actual Death: No
+  Actual Heart Attacks: 1
+  Actual Accidents: 0
+    Hypertension History: Yes
+    Family History: Yes
+    Smoker: Yes
+    Overweight: Yes
+    Hours with Intoxication: 17.04
+    Hours with Low Alertness: 132
+
+Patient 229:
+  Heart Attack Risk: 0.15%
+  Accident Risk: 38.15%
+  Death Risk: 15.35%
+  Predicted Death: No
+  Actual Death: No
+  Actual Heart Attacks: 0
+  Actual Accidents: 0
+    Hypertension History: Yes
+    Family History: Yes
+    Smoker: Yes
+    Overweight: Yes
+    Hours with Intoxication: 15.80
+    Hours with Low Alertness: 113
+
+Patient 230:
+  Heart Attack Risk: 99.82%
+  Accident Risk: 66.37%
+  Death Risk: 86.44%
+  Predicted Death: Yes
+  Actual Death: No
+  Actual Heart Attacks: 1
+  Actual Accidents: 2
+    Hypertension History: Yes
+    Family History: Yes
+    Smoker: Yes
+    Overweight: Yes
+    Hours with Intoxication: 21.42
+    Hours with Low Alertness: 82
+
+Patient 231:
+  Heart Attack Risk: 99.82%
+  Accident Risk: 11.86%
+  Death Risk: 64.63%
+  Predicted Death: Yes
+  Actual Death: No
+  Actual Heart Attacks: 1
+  Actual Accidents: 0
+    Hypertension History: Yes
+    Family History: Yes
+    Smoker: Yes
+    Overweight: Yes
+    Hours with Intoxication: 6.86
+    Hours with Low Alertness: 76
+
+Patient 232:
+  Heart Attack Risk: 0.15%
+  Accident Risk: 69.68%
+  Death Risk: 27.96%
+  Predicted Death: No
+  Actual Death: No
+  Actual Heart Attacks: 0
+  Actual Accidents: 1
+    Hypertension History: Yes
+    Family History: Yes
+    Smoker: Yes
+    Overweight: Yes
+    Hours with Intoxication: 14.73
+    Hours with Low Alertness: 119
+
+Patient 233:
+  Heart Attack Risk: 99.82%
+  Accident Risk: 97.87%
+  Death Risk: 99.04%
+  Predicted Death: Yes
+  Actual Death: No
+  Actual Heart Attacks: 3
+  Actual Accidents: 36
+    Hypertension History: Yes
+    Family History: Yes
+    Smoker: Yes
+    Overweight: Yes
+    Hours with Intoxication: 35.66
+    Hours with Low Alertness: 323
+
+Patient 234:
+  Heart Attack Risk: 99.82%
+  Accident Risk: 86.93%
+  Death Risk: 94.66%
+  Predicted Death: Yes
+  Actual Death: No
+  Actual Heart Attacks: 5
+  Actual Accidents: 19
+    Hypertension History: Yes
+    Family History: Yes
+    Smoker: Yes
+    Overweight: Yes
+    Hours with Intoxication: 32.75
+    Hours with Low Alertness: 261
+
+Patient 235:
+  Heart Attack Risk: 99.82%
+  Accident Risk: 86.77%
+  Death Risk: 94.60%
+  Predicted Death: Yes
+  Actual Death: No
+  Actual Heart Attacks: 3
+  Actual Accidents: 6
+    Hypertension History: Yes
+    Family History: Yes
+    Smoker: Yes
+    Overweight: Yes
+    Hours with Intoxication: 21.10
+    Hours with Low Alertness: 119
+
+Patient 236:
+  Heart Attack Risk: 99.82%
+  Accident Risk: 99.79%
+  Death Risk: 99.81%
+  Predicted Death: Yes
+  Actual Death: No
+  Actual Heart Attacks: 1
+  Actual Accidents: 13
+    Hypertension History: Yes
+    Family History: Yes
+    Smoker: Yes
+    Overweight: Yes
+    Hours with Intoxication: 27.90
+    Hours with Low Alertness: 295
+
+Patient 237:
+  Heart Attack Risk: 0.15%
+  Accident Risk: 64.47%
+  Death Risk: 25.88%
+  Predicted Death: No
+  Actual Death: No
+  Actual Heart Attacks: 0
+  Actual Accidents: 0
+    Hypertension History: Yes
+    Family History: Yes
+    Smoker: Yes
+    Overweight: Yes
+    Hours with Intoxication: 20.37
+    Hours with Low Alertness: 234
+
+Patient 238:
+  Heart Attack Risk: 99.82%
+  Accident Risk: 78.68%
+  Death Risk: 91.36%
+  Predicted Death: Yes
+  Actual Death: No
+  Actual Heart Attacks: 5
+  Actual Accidents: 36
+    Hypertension History: Yes
+    Family History: Yes
+    Smoker: Yes
+    Overweight: Yes
+    Hours with Intoxication: 38.37
+    Hours with Low Alertness: 328
+
+Patient 239:
+  Heart Attack Risk: 99.82%
+  Accident Risk: 92.11%
+  Death Risk: 96.74%
+  Predicted Death: Yes
+  Actual Death: No
+  Actual Heart Attacks: 1
+  Actual Accidents: 10
+    Hypertension History: Yes
+    Family History: Yes
+    Smoker: Yes
+    Overweight: Yes
+    Hours with Intoxication: 24.27
+    Hours with Low Alertness: 229
+
+Patient 240:
+  Heart Attack Risk: 0.15%
+  Accident Risk: 2.30%
+  Death Risk: 1.01%
+  Predicted Death: No
+  Actual Death: No
+  Actual Heart Attacks: 0
+  Actual Accidents: 0
+    Hypertension History: Yes
+    Family History: Yes
+    Smoker: Yes
+    Overweight: Yes
+    Hours with Intoxication: 3.82
+    Hours with Low Alertness: 24
+
+Patient 241:
+  Heart Attack Risk: 0.15%
+  Accident Risk: 36.00%
+  Death Risk: 14.49%
+  Predicted Death: No
+  Actual Death: No
+  Actual Heart Attacks: 0
+  Actual Accidents: 0
+    Hypertension History: Yes
+    Family History: Yes
+    Smoker: Yes
+    Overweight: Yes
+    Hours with Intoxication: 9.88
+    Hours with Low Alertness: 128
+
+Patient 242:
+  Heart Attack Risk: 0.15%
+  Accident Risk: 12.09%
+  Death Risk: 4.93%
+  Predicted Death: No
+  Actual Death: No
+  Actual Heart Attacks: 0
+  Actual Accidents: 0
+    Hypertension History: Yes
+    Family History: Yes
+    Smoker: Yes
+    Overweight: Yes
+    Hours with Intoxication: 8.65
+    Hours with Low Alertness: 131
+
+Patient 243:
+  Heart Attack Risk: 99.82%
+  Accident Risk: 50.78%
+  Death Risk: 80.20%
+  Predicted Death: Yes
+  Actual Death: No
+  Actual Heart Attacks: 5
+  Actual Accidents: 0
+    Hypertension History: Yes
+    Family History: Yes
+    Smoker: Yes
+    Overweight: Yes
+    Hours with Intoxication: 17.72
+    Hours with Low Alertness: 96
+
+Patient 244:
+  Heart Attack Risk: 0.15%
+  Accident Risk: 49.26%
+  Death Risk: 19.80%
+  Predicted Death: No
+  Actual Death: No
+  Actual Heart Attacks: 0
+  Actual Accidents: 0
+    Hypertension History: Yes
+    Family History: Yes
+    Smoker: Yes
+    Overweight: Yes
+    Hours with Intoxication: 13.26
+    Hours with Low Alertness: 131
+
+Patient 245:
+  Heart Attack Risk: 0.15%
+  Accident Risk: 0.00%
+  Death Risk: 0.09%
+  Predicted Death: No
+  Actual Death: No
+  Actual Heart Attacks: 0
+  Actual Accidents: 0
+    Hypertension History: Yes
+    Family History: Yes
+    Smoker: Yes
+    Overweight: Yes
+    Hours with Intoxication: 2.02
+    Hours with Low Alertness: 17
+
+Patient 246:
+  Heart Attack Risk: 99.82%
+  Accident Risk: 15.36%
+  Death Risk: 66.04%
+  Predicted Death: Yes
+  Actual Death: No
+  Actual Heart Attacks: 1
+  Actual Accidents: 0
+    Hypertension History: Yes
+    Family History: Yes
+    Smoker: Yes
+    Overweight: Yes
+    Hours with Intoxication: 8.17
+    Hours with Low Alertness: 52
+
+Patient 247:
+  Heart Attack Risk: 0.15%
+  Accident Risk: 4.37%
+  Death Risk: 1.84%
+  Predicted Death: No
+  Actual Death: No
+  Actual Heart Attacks: 0
+  Actual Accidents: 0
+    Hypertension History: Yes
+    Family History: Yes
+    Smoker: Yes
+    Overweight: Yes
+    Hours with Intoxication: 1.69
+    Hours with Low Alertness: 30
+
+Patient 248:
+  Heart Attack Risk: 0.15%
+  Accident Risk: 12.94%
+  Death Risk: 5.27%
+  Predicted Death: No
+  Actual Death: No
+  Actual Heart Attacks: 0
+  Actual Accidents: 0
+    Hypertension History: Yes
+    Family History: Yes
+    Smoker: Yes
+    Overweight: Yes
+    Hours with Intoxication: 4.73
+    Hours with Low Alertness: 39
+
+Patient 249:
+  Heart Attack Risk: 0.15%
+  Accident Risk: 2.88%
+  Death Risk: 1.25%
+  Predicted Death: No
+  Actual Death: No
+  Actual Heart Attacks: 0
+  Actual Accidents: 0
+    Hypertension History: Yes
+    Family History: Yes
+    Smoker: Yes
+    Overweight: Yes
+    Hours with Intoxication: 5.58
+    Hours with Low Alertness: 21
+
+Patient 250:
+  Heart Attack Risk: 0.15%
+  Accident Risk: 57.88%
+  Death Risk: 23.25%
+  Predicted Death: No
+  Actual Death: No
+  Actual Heart Attacks: 0
+  Actual Accidents: 0
+    Hypertension History: Yes
+    Family History: Yes
+    Smoker: Yes
+    Overweight: Yes
+    Hours with Intoxication: 23.72
+    Hours with Low Alertness: 182
+
+Patient 251:
+  Heart Attack Risk: 0.15%
+  Accident Risk: 51.15%
+  Death Risk: 20.55%
+  Predicted Death: No
+  Actual Death: No
+  Actual Heart Attacks: 0
+  Actual Accidents: 2
+    Hypertension History: Yes
+    Family History: Yes
+    Smoker: Yes
+    Overweight: Yes
+    Hours with Intoxication: 17.10
+    Hours with Low Alertness: 113
+
+Patient 252:
+  Heart Attack Risk: 99.82%
+  Accident Risk: 85.28%
+  Death Risk: 94.00%
+  Predicted Death: Yes
+  Actual Death: No
+  Actual Heart Attacks: 1
+  Actual Accidents: 34
+    Hypertension History: Yes
+    Family History: Yes
+    Smoker: Yes
+    Overweight: Yes
+    Hours with Intoxication: 34.15
+    Hours with Low Alertness: 373
+
+Patient 253:
+  Heart Attack Risk: 0.15%
+  Accident Risk: 97.71%
+  Death Risk: 39.18%
+  Predicted Death: No
+  Actual Death: No
+  Actual Heart Attacks: 0
+  Actual Accidents: 14
+    Hypertension History: Yes
+    Family History: Yes
+    Smoker: Yes
+    Overweight: Yes
+    Hours with Intoxication: 25.68
+    Hours with Low Alertness: 257
+
+Patient 254:
+  Heart Attack Risk: 0.15%
+  Accident Risk: 57.91%
+  Death Risk: 23.26%
+  Predicted Death: No
+  Actual Death: No
+  Actual Heart Attacks: 0
+  Actual Accidents: 0
+    Hypertension History: Yes
+    Family History: Yes
+    Smoker: Yes
+    Overweight: Yes
+    Hours with Intoxication: 16.78
+    Hours with Low Alertness: 149
+
+Patient 255:
+  Heart Attack Risk: 99.82%
+  Accident Risk: 85.28%
+  Death Risk: 94.00%
+  Predicted Death: Yes
+  Actual Death: No
+  Actual Heart Attacks: 5
+  Actual Accidents: 19
+    Hypertension History: Yes
+    Family History: Yes
+    Smoker: Yes
+    Overweight: Yes
+    Hours with Intoxication: 35.94
+    Hours with Low Alertness: 269
+
+Patient 256:
+  Heart Attack Risk: 99.82%
+  Accident Risk: 98.13%
+  Death Risk: 99.14%
+  Predicted Death: Yes
+  Actual Death: No
+  Actual Heart Attacks: 3
+  Actual Accidents: 6
+    Hypertension History: Yes
+    Family History: Yes
+    Smoker: Yes
+    Overweight: Yes
+    Hours with Intoxication: 23.10
+    Hours with Low Alertness: 137
+
+Patient 257:
+  Heart Attack Risk: 0.15%
+  Accident Risk: 32.97%
+  Death Risk: 13.28%
+  Predicted Death: No
+  Actual Death: No
+  Actual Heart Attacks: 0
+  Actual Accidents: 3
+    Hypertension History: Yes
+    Family History: Yes
+    Smoker: Yes
+    Overweight: Yes
+    Hours with Intoxication: 9.12
+    Hours with Low Alertness: 78
+
+Patient 258:
+  Heart Attack Risk: 0.15%
+  Accident Risk: 57.01%
+  Death Risk: 22.90%
+  Predicted Death: No
+  Actual Death: No
+  Actual Heart Attacks: 0
+  Actual Accidents: 2
+    Hypertension History: Yes
+    Family History: Yes
+    Smoker: Yes
+    Overweight: Yes
+    Hours with Intoxication: 15.38
+    Hours with Low Alertness: 154
+
+Patient 259:
+  Heart Attack Risk: 99.82%
+  Accident Risk: 99.35%
+  Death Risk: 99.63%
+  Predicted Death: Yes
+  Actual Death: No
+  Actual Heart Attacks: 1
+  Actual Accidents: 4
+    Hypertension History: Yes
+    Family History: Yes
+    Smoker: Yes
+    Overweight: Yes
+    Hours with Intoxication: 28.29
+    Hours with Low Alertness: 293
+
+Patient 260:
+  Heart Attack Risk: 0.15%
+  Accident Risk: 52.55%
+  Death Risk: 21.11%
+  Predicted Death: No
+  Actual Death: No
+  Actual Heart Attacks: 0
+  Actual Accidents: 1
+    Hypertension History: Yes
+    Family History: Yes
+    Smoker: Yes
+    Overweight: Yes
+    Hours with Intoxication: 12.64
+    Hours with Low Alertness: 79
+
+Patient 261:
+  Heart Attack Risk: 0.15%
+  Accident Risk: 98.72%
+  Death Risk: 39.58%
+  Predicted Death: No
+  Actual Death: No
+  Actual Heart Attacks: 0
+  Actual Accidents: 9
+    Hypertension History: Yes
+    Family History: Yes
+    Smoker: Yes
+    Overweight: Yes
+    Hours with Intoxication: 30.60
+    Hours with Low Alertness: 212
+
+Patient 262:
+  Heart Attack Risk: 99.82%
+  Accident Risk: 82.01%
+  Death Risk: 92.69%
+  Predicted Death: Yes
+  Actual Death: No
+  Actual Heart Attacks: 1
+  Actual Accidents: 0
+    Hypertension History: Yes
+    Family History: Yes
+    Smoker: Yes
+    Overweight: Yes
+    Hours with Intoxication: 20.24
+    Hours with Low Alertness: 125
+
+Patient 263:
+  Heart Attack Risk: 0.15%
+  Accident Risk: 99.80%
+  Death Risk: 40.01%
+  Predicted Death: No
+  Actual Death: No
+  Actual Heart Attacks: 0
+  Actual Accidents: 9
+    Hypertension History: Yes
+    Family History: Yes
+    Smoker: Yes
+    Overweight: Yes
+    Hours with Intoxication: 31.23
+    Hours with Low Alertness: 318
+
+Patient 264:
+  Heart Attack Risk: 0.15%
+  Accident Risk: 12.66%
+  Death Risk: 5.15%
+  Predicted Death: No
+  Actual Death: No
+  Actual Heart Attacks: 0
+  Actual Accidents: 0
+    Hypertension History: Yes
+    Family History: Yes
+    Smoker: Yes
+    Overweight: Yes
+    Hours with Intoxication: 7.75
+    Hours with Low Alertness: 44
+
+Patient 265:
+  Heart Attack Risk: 0.15%
+  Accident Risk: 90.98%
+  Death Risk: 36.49%
+  Predicted Death: No
+  Actual Death: No
+  Actual Heart Attacks: 0
+  Actual Accidents: 10
+    Hypertension History: Yes
+    Family History: Yes
+    Smoker: Yes
+    Overweight: Yes
+    Hours with Intoxication: 26.46
+    Hours with Low Alertness: 262
+
+Patient 266:
+  Heart Attack Risk: 99.82%
+  Accident Risk: 52.81%
+  Death Risk: 81.02%
+  Predicted Death: Yes
+  Actual Death: No
+  Actual Heart Attacks: 1
+  Actual Accidents: 3
+    Hypertension History: Yes
+    Family History: Yes
+    Smoker: Yes
+    Overweight: Yes
+    Hours with Intoxication: 12.01
+    Hours with Low Alertness: 94
+
+Patient 267:
+  Heart Attack Risk: 99.82%
+  Accident Risk: 17.40%
+  Death Risk: 66.85%
+  Predicted Death: Yes
+  Actual Death: No
+  Actual Heart Attacks: 2
+  Actual Accidents: 0
+    Hypertension History: Yes
+    Family History: Yes
+    Smoker: Yes
+    Overweight: Yes
+    Hours with Intoxication: 15.24
+    Hours with Low Alertness: 64
+
+Patient 268:
+  Heart Attack Risk: 99.82%
+  Accident Risk: 47.47%
+  Death Risk: 78.88%
+  Predicted Death: Yes
+  Actual Death: No
+  Actual Heart Attacks: 5
+  Actual Accidents: 0
+    Hypertension History: Yes
+    Family History: Yes
+    Smoker: Yes
+    Overweight: Yes
+    Hours with Intoxication: 17.88
+    Hours with Low Alertness: 77
+
+Patient 269:
+  Heart Attack Risk: 0.15%
+  Accident Risk: 10.48%
+  Death Risk: 4.28%
+  Predicted Death: No
+  Actual Death: No
+  Actual Heart Attacks: 0
+  Actual Accidents: 0
+    Hypertension History: Yes
+    Family History: Yes
+    Smoker: Yes
+    Overweight: Yes
+    Hours with Intoxication: 2.89
+    Hours with Low Alertness: 136
+
+Patient 270:
+  Heart Attack Risk: 99.82%
+  Accident Risk: 88.61%
+  Death Risk: 95.34%
+  Predicted Death: Yes
+  Actual Death: No
+  Actual Heart Attacks: 4
+  Actual Accidents: 6
+    Hypertension History: Yes
+    Family History: Yes
+    Smoker: Yes
+    Overweight: Yes
+    Hours with Intoxication: 22.40
+    Hours with Low Alertness: 110
+
+Patient 271:
+  Heart Attack Risk: 99.82%
+  Accident Risk: 73.72%
+  Death Risk: 89.38%
+  Predicted Death: Yes
+  Actual Death: No
+  Actual Heart Attacks: 1
+  Actual Accidents: 0
+    Hypertension History: Yes
+    Family History: Yes
+    Smoker: Yes
+    Overweight: Yes
+    Hours with Intoxication: 27.75
+    Hours with Low Alertness: 160
+
+Patient 272:
+  Heart Attack Risk: 99.82%
+  Accident Risk: 18.78%
+  Death Risk: 67.40%
+  Predicted Death: Yes
+  Actual Death: No
+  Actual Heart Attacks: 2
+  Actual Accidents: 0
+    Hypertension History: Yes
+    Family History: Yes
+    Smoker: Yes
+    Overweight: Yes
+    Hours with Intoxication: 8.55
+    Hours with Low Alertness: 46
+
+Patient 273:
+  Heart Attack Risk: 99.82%
+  Accident Risk: 97.73%
+  Death Risk: 98.98%
+  Predicted Death: Yes
+  Actual Death: No
+  Actual Heart Attacks: 1
+  Actual Accidents: 8
+    Hypertension History: Yes
+    Family History: Yes
+    Smoker: Yes
+    Overweight: Yes
+    Hours with Intoxication: 23.96
+    Hours with Low Alertness: 189
+
+Patient 274:
+  Heart Attack Risk: 99.82%
+  Accident Risk: 84.35%
+  Death Risk: 93.63%
+  Predicted Death: Yes
+  Actual Death: No
+  Actual Heart Attacks: 5
+  Actual Accidents: 2
+    Hypertension History: Yes
+    Family History: Yes
+    Smoker: Yes
+    Overweight: Yes
+    Hours with Intoxication: 24.13
+    Hours with Low Alertness: 107
+
+Patient 275:
+  Heart Attack Risk: 99.82%
+  Accident Risk: 97.95%
+  Death Risk: 99.07%
+  Predicted Death: Yes
+  Actual Death: No
+  Actual Heart Attacks: 2
+  Actual Accidents: 20
+    Hypertension History: Yes
+    Family History: Yes
+    Smoker: Yes
+    Overweight: Yes
+    Hours with Intoxication: 34.95
+    Hours with Low Alertness: 320
+
+Patient 276:
+  Heart Attack Risk: 99.82%
+  Accident Risk: 17.46%
+  Death Risk: 66.87%
+  Predicted Death: Yes
+  Actual Death: No
+  Actual Heart Attacks: 2
+  Actual Accidents: 1
+    Hypertension History: Yes
+    Family History: Yes
+    Smoker: Yes
+    Overweight: Yes
+    Hours with Intoxication: 2.52
+    Hours with Low Alertness: 31
+
+Patient 277:
+  Heart Attack Risk: 99.82%
+  Accident Risk: 16.29%
+  Death Risk: 66.41%
+  Predicted Death: Yes
+  Actual Death: No
+  Actual Heart Attacks: 5
+  Actual Accidents: 12
+    Hypertension History: Yes
+    Family History: Yes
+    Smoker: Yes
+    Overweight: Yes
+    Hours with Intoxication: 14.00
+    Hours with Low Alertness: 66
+
+Patient 278:
+  Heart Attack Risk: 0.15%
+  Accident Risk: 16.30%
+  Death Risk: 6.61%
+  Predicted Death: No
+  Actual Death: No
+  Actual Heart Attacks: 0
+  Actual Accidents: 0
+    Hypertension History: Yes
+    Family History: Yes
+    Smoker: Yes
+    Overweight: Yes
+    Hours with Intoxication: 10.33
+    Hours with Low Alertness: 33
+
+Patient 279:
+  Heart Attack Risk: 99.82%
+  Accident Risk: 44.68%
+  Death Risk: 77.76%
+  Predicted Death: Yes
+  Actual Death: No
+  Actual Heart Attacks: 1
+  Actual Accidents: 3
+    Hypertension History: Yes
+    Family History: Yes
+    Smoker: Yes
+    Overweight: Yes
+    Hours with Intoxication: 9.64
+    Hours with Low Alertness: 123
+
+Patient 280:
+  Heart Attack Risk: 0.15%
+  Accident Risk: 8.91%
+  Death Risk: 3.66%
+  Predicted Death: No
+  Actual Death: No
+  Actual Heart Attacks: 0
+  Actual Accidents: 0
+    Hypertension History: Yes
+    Family History: Yes
+    Smoker: Yes
+    Overweight: Yes
+    Hours with Intoxication: 6.73
+    Hours with Low Alertness: 71
+
+Patient 281:
+  Heart Attack Risk: 0.15%
+  Accident Risk: 8.02%
+  Death Risk: 3.30%
+  Predicted Death: No
+  Actual Death: No
+  Actual Heart Attacks: 0
+  Actual Accidents: 0
+    Hypertension History: Yes
+    Family History: Yes
+    Smoker: Yes
+    Overweight: Yes
+    Hours with Intoxication: 5.69
+    Hours with Low Alertness: 43
+
+Patient 282:
+  Heart Attack Risk: 99.82%
+  Accident Risk: 70.71%
+  Death Risk: 88.18%
+  Predicted Death: Yes
+  Actual Death: No
+  Actual Heart Attacks: 7
+  Actual Accidents: 2
+    Hypertension History: Yes
+    Family History: Yes
+    Smoker: Yes
+    Overweight: Yes
+    Hours with Intoxication: 23.71
+    Hours with Low Alertness: 161
+
+Patient 283:
+  Heart Attack Risk: 99.82%
+  Accident Risk: 89.51%
+  Death Risk: 95.69%
+  Predicted Death: Yes
+  Actual Death: No
+  Actual Heart Attacks: 3
+  Actual Accidents: 6
+    Hypertension History: Yes
+    Family History: Yes
+    Smoker: Yes
+    Overweight: Yes
+    Hours with Intoxication: 21.51
+    Hours with Low Alertness: 268
+
+Patient 284:
+  Heart Attack Risk: 99.82%
+  Accident Risk: 97.28%
+  Death Risk: 98.81%
+  Predicted Death: Yes
+  Actual Death: No
+  Actual Heart Attacks: 10
+  Actual Accidents: 5
+    Hypertension History: Yes
+    Family History: Yes
+    Smoker: Yes
+    Overweight: Yes
+    Hours with Intoxication: 31.99
+    Hours with Low Alertness: 195
+
+Patient 285:
+  Heart Attack Risk: 99.82%
+  Accident Risk: 99.03%
+  Death Risk: 99.50%
+  Predicted Death: Yes
+  Actual Death: No
+  Actual Heart Attacks: 3
+  Actual Accidents: 9
+    Hypertension History: Yes
+    Family History: Yes
+    Smoker: Yes
+    Overweight: Yes
+    Hours with Intoxication: 28.70
+    Hours with Low Alertness: 207
+
+Patient 286:
+  Heart Attack Risk: 0.15%
+  Accident Risk: 58.06%
+  Death Risk: 23.31%
+  Predicted Death: No
+  Actual Death: No
+  Actual Heart Attacks: 0
+  Actual Accidents: 8
+    Hypertension History: Yes
+    Family History: Yes
+    Smoker: Yes
+    Overweight: Yes
+    Hours with Intoxication: 2.49
+    Hours with Low Alertness: 237
+
+Patient 287:
+  Heart Attack Risk: 99.82%
+  Accident Risk: 20.98%
+  Death Risk: 68.28%
+  Predicted Death: Yes
+  Actual Death: No
+  Actual Heart Attacks: 1
+  Actual Accidents: 1
+    Hypertension History: Yes
+    Family History: Yes
+    Smoker: Yes
+    Overweight: Yes
+    Hours with Intoxication: 6.58
+    Hours with Low Alertness: 60
+
+Patient 288:
+  Heart Attack Risk: 99.82%
+  Accident Risk: 82.93%
+  Death Risk: 93.06%
+  Predicted Death: Yes
+  Actual Death: No
+  Actual Heart Attacks: 4
+  Actual Accidents: 5
+    Hypertension History: Yes
+    Family History: Yes
+    Smoker: Yes
+    Overweight: Yes
+    Hours with Intoxication: 30.27
+    Hours with Low Alertness: 340
+
+Patient 289:
+  Heart Attack Risk: 0.15%
+  Accident Risk: 37.81%
+  Death Risk: 15.21%
+  Predicted Death: No
+  Actual Death: No
+  Actual Heart Attacks: 0
+  Actual Accidents: 0
+    Hypertension History: Yes
+    Family History: Yes
+    Smoker: Yes
+    Overweight: Yes
+    Hours with Intoxication: 18.31
+    Hours with Low Alertness: 172
+
+Patient 290:
+  Heart Attack Risk: 0.15%
+  Accident Risk: 17.01%
+  Death Risk: 6.89%
+  Predicted Death: No
+  Actual Death: No
+  Actual Heart Attacks: 0
+  Actual Accidents: 0
+    Hypertension History: Yes
+    Family History: Yes
+    Smoker: Yes
+    Overweight: Yes
+    Hours with Intoxication: 8.47
+    Hours with Low Alertness: 51
+
+Patient 291:
+  Heart Attack Risk: 99.82%
+  Accident Risk: 94.19%
+  Death Risk: 97.57%
+  Predicted Death: Yes
+  Actual Death: No
+  Actual Heart Attacks: 6
+  Actual Accidents: 12
+    Hypertension History: Yes
+    Family History: Yes
+    Smoker: Yes
+    Overweight: Yes
+    Hours with Intoxication: 21.67
+    Hours with Low Alertness: 127
+
+Patient 292:
+  Heart Attack Risk: 99.82%
+  Accident Risk: 64.46%
+  Death Risk: 85.67%
+  Predicted Death: Yes
+  Actual Death: No
+  Actual Heart Attacks: 4
+  Actual Accidents: 0
+    Hypertension History: Yes
+    Family History: Yes
+    Smoker: Yes
+    Overweight: Yes
+    Hours with Intoxication: 19.25
+    Hours with Low Alertness: 156
+
+Patient 293:
+  Heart Attack Risk: 0.15%
+  Accident Risk: 5.52%
+  Death Risk: 2.30%
+  Predicted Death: No
+  Actual Death: No
+  Actual Heart Attacks: 0
+  Actual Accidents: 0
+    Hypertension History: Yes
+    Family History: Yes
+    Smoker: Yes
+    Overweight: Yes
+    Hours with Intoxication: 5.44
+    Hours with Low Alertness: 85
+
+Patient 294:
+  Heart Attack Risk: 0.15%
+  Accident Risk: 0.00%
+  Death Risk: 0.09%
+  Predicted Death: No
+  Actual Death: No
+  Actual Heart Attacks: 0
+  Actual Accidents: 0
+    Hypertension History: Yes
+    Family History: Yes
+    Smoker: Yes
+    Overweight: Yes
+    Hours with Intoxication: 1.77
+    Hours with Low Alertness: 12
+
+Patient 295:
+  Heart Attack Risk: 0.15%
+  Accident Risk: 51.61%
+  Death Risk: 20.73%
+  Predicted Death: No
+  Actual Death: No
+  Actual Heart Attacks: 0
+  Actual Accidents: 5
+    Hypertension History: Yes
+    Family History: Yes
+    Smoker: Yes
+    Overweight: Yes
+    Hours with Intoxication: 11.35
+    Hours with Low Alertness: 154
+
+Patient 296:
+  Heart Attack Risk: 0.15%
+  Accident Risk: 99.81%
+  Death Risk: 40.02%
+  Predicted Death: No
+  Actual Death: No
+  Actual Heart Attacks: 0
+  Actual Accidents: 9
+    Hypertension History: Yes
+    Family History: Yes
+    Smoker: Yes
+    Overweight: Yes
+    Hours with Intoxication: 28.17
+    Hours with Low Alertness: 315
+
+Patient 297:
+  Heart Attack Risk: 0.15%
+  Accident Risk: 82.82%
+  Death Risk: 33.22%
+  Predicted Death: No
+  Actual Death: No
+  Actual Heart Attacks: 0
+  Actual Accidents: 4
+    Hypertension History: Yes
+    Family History: Yes
+    Smoker: Yes
+    Overweight: Yes
+    Hours with Intoxication: 17.32
+    Hours with Low Alertness: 212
+
+Patient 298:
+  Heart Attack Risk: 0.15%
+  Accident Risk: 7.00%
+  Death Risk: 2.89%
+  Predicted Death: No
+  Actual Death: No
+  Actual Heart Attacks: 0
+  Actual Accidents: 0
+    Hypertension History: Yes
+    Family History: Yes
+    Smoker: Yes
+    Overweight: Yes
+    Hours with Intoxication: 0.72
+    Hours with Low Alertness: 88
+
+Patient 299:
+  Heart Attack Risk: 99.82%
+  Accident Risk: 65.08%
+  Death Risk: 85.92%
+  Predicted Death: Yes
+  Actual Death: No
+  Actual Heart Attacks: 4
+  Actual Accidents: 12
+    Hypertension History: Yes
+    Family History: Yes
+    Smoker: Yes
+    Overweight: Yes
+    Hours with Intoxication: 15.15
+    Hours with Low Alertness: 101
+
+Patient 300:
+  Heart Attack Risk: 99.82%
+  Accident Risk: 97.06%
+  Death Risk: 98.72%
+  Predicted Death: Yes
+  Actual Death: No
+  Actual Heart Attacks: 3
+  Actual Accidents: 8
+    Hypertension History: Yes
+    Family History: Yes
+    Smoker: Yes
+    Overweight: Yes
+    Hours with Intoxication: 26.29
+    Hours with Low Alertness: 234
+
+Patient 301:
+  Heart Attack Risk: 0.15%
+  Accident Risk: 52.15%
+  Death Risk: 20.95%
+  Predicted Death: No
+  Actual Death: No
+  Actual Heart Attacks: 0
+  Actual Accidents: 0
+    Hypertension History: Yes
+    Family History: Yes
+    Smoker: Yes
+    Overweight: Yes
+    Hours with Intoxication: 5.04
+    Hours with Low Alertness: 261
+
+Patient 302:
+  Heart Attack Risk: 0.15%
+  Accident Risk: 59.02%
+  Death Risk: 23.70%
+  Predicted Death: No
+  Actual Death: No
+  Actual Heart Attacks: 0
+  Actual Accidents: 6
+    Hypertension History: Yes
+    Family History: Yes
+    Smoker: Yes
+    Overweight: Yes
+    Hours with Intoxication: 4.51
+    Hours with Low Alertness: 216
+
+Patient 303:
+  Heart Attack Risk: 0.15%
+  Accident Risk: 89.21%
+  Death Risk: 35.78%
+  Predicted Death: No
+  Actual Death: No
+  Actual Heart Attacks: 0
+  Actual Accidents: 5
+    Hypertension History: Yes
+    Family History: Yes
+    Smoker: Yes
+    Overweight: Yes
+    Hours with Intoxication: 15.05
+    Hours with Low Alertness: 252
+
+Patient 304:
+  Heart Attack Risk: 99.82%
+  Accident Risk: 99.91%
+  Death Risk: 99.86%
+  Predicted Death: Yes
+  Actual Death: No
+  Actual Heart Attacks: 1
+  Actual Accidents: 13
+    Hypertension History: Yes
+    Family History: Yes
+    Smoker: Yes
+    Overweight: Yes
+    Hours with Intoxication: 28.66
+    Hours with Low Alertness: 313
+
+Patient 305:
+  Heart Attack Risk: 0.15%
+  Accident Risk: 73.29%
+  Death Risk: 29.41%
+  Predicted Death: No
+  Actual Death: No
+  Actual Heart Attacks: 0
+  Actual Accidents: 0
+    Hypertension History: Yes
+    Family History: Yes
+    Smoker: Yes
+    Overweight: Yes
+    Hours with Intoxication: 18.24
+    Hours with Low Alertness: 206
+
+Patient 306:
+  Heart Attack Risk: 0.15%
+  Accident Risk: 67.67%
+  Death Risk: 27.16%
+  Predicted Death: No
+  Actual Death: No
+  Actual Heart Attacks: 0
+  Actual Accidents: 0
+    Hypertension History: Yes
+    Family History: Yes
+    Smoker: Yes
+    Overweight: Yes
+    Hours with Intoxication: 20.24
+    Hours with Low Alertness: 111
+
+Patient 307:
+  Heart Attack Risk: 99.82%
+  Accident Risk: 42.57%
+  Death Risk: 76.92%
+  Predicted Death: Yes
+  Actual Death: No
+  Actual Heart Attacks: 5
+  Actual Accidents: 15
+    Hypertension History: Yes
+    Family History: Yes
+    Smoker: Yes
+    Overweight: Yes
+    Hours with Intoxication: 14.01
+    Hours with Low Alertness: 180
+
+Patient 308:
+  Heart Attack Risk: 0.15%
+  Accident Risk: 72.18%
+  Death Risk: 28.96%
+  Predicted Death: No
+  Actual Death: No
+  Actual Heart Attacks: 0
+  Actual Accidents: 38
+    Hypertension History: Yes
+    Family History: Yes
+    Smoker: Yes
+    Overweight: Yes
+    Hours with Intoxication: 9.65
+    Hours with Low Alertness: 215
+
+Patient 309:
+  Heart Attack Risk: 0.15%
+  Accident Risk: 62.11%
+  Death Risk: 24.94%
+  Predicted Death: No
+  Actual Death: No
+  Actual Heart Attacks: 0
+  Actual Accidents: 3
+    Hypertension History: Yes
+    Family History: Yes
+    Smoker: Yes
+    Overweight: Yes
+    Hours with Intoxication: 16.43
+    Hours with Low Alertness: 117
+
+Patient 310:
+  Heart Attack Risk: 99.82%
+  Accident Risk: 41.27%
+  Death Risk: 76.40%
+  Predicted Death: Yes
+  Actual Death: No
+  Actual Heart Attacks: 1
+  Actual Accidents: 0
+    Hypertension History: Yes
+    Family History: Yes
+    Smoker: Yes
+    Overweight: Yes
+    Hours with Intoxication: 21.11
+    Hours with Low Alertness: 178
+
+Patient 311:
+  Heart Attack Risk: 99.82%
+  Accident Risk: 99.31%
+  Death Risk: 99.62%
+  Predicted Death: Yes
+  Actual Death: No
+  Actual Heart Attacks: 3
+  Actual Accidents: 8
+    Hypertension History: Yes
+    Family History: Yes
+    Smoker: Yes
+    Overweight: Yes
+    Hours with Intoxication: 30.10
+    Hours with Low Alertness: 203
+
+Patient 312:
+  Heart Attack Risk: 99.82%
+  Accident Risk: 95.44%
+  Death Risk: 98.07%
+  Predicted Death: Yes
+  Actual Death: No
+  Actual Heart Attacks: 2
+  Actual Accidents: 4
+    Hypertension History: Yes
+    Family History: Yes
+    Smoker: Yes
+    Overweight: Yes
+    Hours with Intoxication: 22.23
+    Hours with Low Alertness: 242
+
+Patient 313:
+  Heart Attack Risk: 99.82%
+  Accident Risk: 87.82%
+  Death Risk: 95.02%
+  Predicted Death: Yes
+  Actual Death: No
+  Actual Heart Attacks: 5
+  Actual Accidents: 3
+    Hypertension History: Yes
+    Family History: Yes
+    Smoker: Yes
+    Overweight: Yes
+    Hours with Intoxication: 20.07
+    Hours with Low Alertness: 136
+
+Patient 314:
+  Heart Attack Risk: 99.82%
+  Accident Risk: 82.96%
+  Death Risk: 93.08%
+  Predicted Death: Yes
+  Actual Death: No
+  Actual Heart Attacks: 2
+  Actual Accidents: 1
+    Hypertension History: Yes
+    Family History: Yes
+    Smoker: Yes
+    Overweight: Yes
+    Hours with Intoxication: 21.51
+    Hours with Low Alertness: 158
+
+Patient 315:
+  Heart Attack Risk: 0.15%
+  Accident Risk: 32.33%
+  Death Risk: 13.02%
+  Predicted Death: No
+  Actual Death: No
+  Actual Heart Attacks: 0
+  Actual Accidents: 0
+    Hypertension History: Yes
+    Family History: Yes
+    Smoker: Yes
+    Overweight: Yes
+    Hours with Intoxication: 16.91
+    Hours with Low Alertness: 176
+
+Patient 316:
+  Heart Attack Risk: 99.82%
+  Accident Risk: 79.88%
+  Death Risk: 91.85%
+  Predicted Death: Yes
+  Actual Death: No
+  Actual Heart Attacks: 1
+  Actual Accidents: 1
+    Hypertension History: Yes
+    Family History: Yes
+    Smoker: Yes
+    Overweight: Yes
+    Hours with Intoxication: 18.97
+    Hours with Low Alertness: 191
+
+Patient 317:
+  Heart Attack Risk: 0.15%
+  Accident Risk: 82.61%
+  Death Risk: 33.14%
+  Predicted Death: No
+  Actual Death: No
+  Actual Heart Attacks: 0
+  Actual Accidents: 2
+    Hypertension History: Yes
+    Family History: Yes
+    Smoker: Yes
+    Overweight: Yes
+    Hours with Intoxication: 19.75
+    Hours with Low Alertness: 239
+
+Patient 318:
+  Heart Attack Risk: 0.15%
+  Accident Risk: 37.33%
+  Death Risk: 15.03%
+  Predicted Death: No
+  Actual Death: No
+  Actual Heart Attacks: 0
+  Actual Accidents: 0
+    Hypertension History: Yes
+    Family History: Yes
+    Smoker: Yes
+    Overweight: Yes
+    Hours with Intoxication: 11.82
+    Hours with Low Alertness: 87
+
+Patient 319:
+  Heart Attack Risk: 99.82%
+  Accident Risk: 41.78%
+  Death Risk: 76.60%
+  Predicted Death: Yes
+  Actual Death: No
+  Actual Heart Attacks: 3
+  Actual Accidents: 4
+    Hypertension History: Yes
+    Family History: Yes
+    Smoker: Yes
+    Overweight: Yes
+    Hours with Intoxication: 16.05
+    Hours with Low Alertness: 110
+
+Patient 320:
+  Heart Attack Risk: 99.82%
+  Accident Risk: 82.47%
+  Death Risk: 92.88%
+  Predicted Death: Yes
+  Actual Death: No
+  Actual Heart Attacks: 4
+  Actual Accidents: 21
+    Hypertension History: Yes
+    Family History: Yes
+    Smoker: Yes
+    Overweight: Yes
+    Hours with Intoxication: 32.51
+    Hours with Low Alertness: 271
+
+Patient 321:
+  Heart Attack Risk: 99.82%
+  Accident Risk: 70.83%
+  Death Risk: 88.22%
+  Predicted Death: Yes
+  Actual Death: No
+  Actual Heart Attacks: 1
+  Actual Accidents: 28
+    Hypertension History: Yes
+    Family History: Yes
+    Smoker: Yes
+    Overweight: Yes
+    Hours with Intoxication: 21.02
+    Hours with Low Alertness: 218
+
+Patient 322:
+  Heart Attack Risk: 0.15%
+  Accident Risk: 11.59%
+  Death Risk: 4.73%
+  Predicted Death: No
+  Actual Death: No
+  Actual Heart Attacks: 0
+  Actual Accidents: 0
+    Hypertension History: Yes
+    Family History: Yes
+    Smoker: Yes
+    Overweight: Yes
+    Hours with Intoxication: 7.65
+    Hours with Low Alertness: 111
+
+Patient 323:
+  Heart Attack Risk: 0.15%
+  Accident Risk: 40.74%
+  Death Risk: 16.39%
+  Predicted Death: No
+  Actual Death: No
+  Actual Heart Attacks: 0
+  Actual Accidents: 0
+    Hypertension History: Yes
+    Family History: Yes
+    Smoker: Yes
+    Overweight: Yes
+    Hours with Intoxication: 11.60
+    Hours with Low Alertness: 89
+
+Patient 324:
+  Heart Attack Risk: 99.82%
+  Accident Risk: 74.10%
+  Death Risk: 89.53%
+  Predicted Death: Yes
+  Actual Death: No
+  Actual Heart Attacks: 2
+  Actual Accidents: 7
+    Hypertension History: Yes
+    Family History: Yes
+    Smoker: Yes
+    Overweight: Yes
+    Hours with Intoxication: 24.29
+    Hours with Low Alertness: 166
+
+Patient 325:
+  Heart Attack Risk: 99.82%
+  Accident Risk: 99.16%
+  Death Risk: 99.56%
+  Predicted Death: Yes
+  Actual Death: No
+  Actual Heart Attacks: 3
+  Actual Accidents: 5
+    Hypertension History: Yes
+    Family History: Yes
+    Smoker: Yes
+    Overweight: Yes
+    Hours with Intoxication: 27.77
+    Hours with Low Alertness: 189
+
+Patient 326:
+  Heart Attack Risk: 99.82%
+  Accident Risk: 86.83%
+  Death Risk: 94.63%
+  Predicted Death: Yes
+  Actual Death: No
+  Actual Heart Attacks: 3
+  Actual Accidents: 19
+    Hypertension History: Yes
+    Family History: Yes
+    Smoker: Yes
+    Overweight: Yes
+    Hours with Intoxication: 32.51
+    Hours with Low Alertness: 264
+
+Patient 327:
+  Heart Attack Risk: 0.15%
+  Accident Risk: 94.40%
+  Death Risk: 37.85%
+  Predicted Death: No
+  Actual Death: No
+  Actual Heart Attacks: 0
+  Actual Accidents: 14
+    Hypertension History: Yes
+    Family History: Yes
+    Smoker: Yes
+    Overweight: Yes
+    Hours with Intoxication: 22.32
+    Hours with Low Alertness: 235
+
+Patient 328:
+  Heart Attack Risk: 99.82%
+  Accident Risk: 21.13%
+  Death Risk: 68.35%
+  Predicted Death: Yes
+  Actual Death: No
+  Actual Heart Attacks: 2
+  Actual Accidents: 0
+    Hypertension History: Yes
+    Family History: Yes
+    Smoker: Yes
+    Overweight: Yes
+    Hours with Intoxication: 10.75
+    Hours with Low Alertness: 100
+
+Patient 329:
+  Heart Attack Risk: 0.15%
+  Accident Risk: 48.39%
+  Death Risk: 19.45%
+  Predicted Death: No
+  Actual Death: No
+  Actual Heart Attacks: 0
+  Actual Accidents: 0
+    Hypertension History: Yes
+    Family History: Yes
+    Smoker: Yes
+    Overweight: Yes
+    Hours with Intoxication: 16.02
+    Hours with Low Alertness: 98
+
+Patient 330:
+  Heart Attack Risk: 99.82%
+  Accident Risk: 85.45%
+  Death Risk: 94.07%
+  Predicted Death: Yes
+  Actual Death: No
+  Actual Heart Attacks: 1
+  Actual Accidents: 2
+    Hypertension History: Yes
+    Family History: Yes
+    Smoker: Yes
+    Overweight: Yes
+    Hours with Intoxication: 17.88
+    Hours with Low Alertness: 238
+
+Patient 331:
+  Heart Attack Risk: 99.82%
+  Accident Risk: 96.35%
+  Death Risk: 98.43%
+  Predicted Death: Yes
+  Actual Death: No
+  Actual Heart Attacks: 6
+  Actual Accidents: 10
+    Hypertension History: Yes
+    Family History: Yes
+    Smoker: Yes
+    Overweight: Yes
+    Hours with Intoxication: 24.65
+    Hours with Low Alertness: 214
+
+Patient 332:
+  Heart Attack Risk: 99.82%
+  Accident Risk: 82.06%
+  Death Risk: 92.72%
+  Predicted Death: Yes
+  Actual Death: No
+  Actual Heart Attacks: 4
+  Actual Accidents: 0
+    Hypertension History: Yes
+    Family History: Yes
+    Smoker: Yes
+    Overweight: Yes
+    Hours with Intoxication: 32.12
+    Hours with Low Alertness: 255
+
+Patient 333:
+  Heart Attack Risk: 99.82%
+  Accident Risk: 54.50%
+  Death Risk: 81.69%
+  Predicted Death: Yes
+  Actual Death: No
+  Actual Heart Attacks: 4
+  Actual Accidents: 0
+    Hypertension History: Yes
+    Family History: Yes
+    Smoker: Yes
+    Overweight: Yes
+    Hours with Intoxication: 22.21
+    Hours with Low Alertness: 173
+
+Patient 334:
+  Heart Attack Risk: 99.82%
+  Accident Risk: 95.92%
+  Death Risk: 98.26%
+  Predicted Death: Yes
+  Actual Death: No
+  Actual Heart Attacks: 3
+  Actual Accidents: 9
+    Hypertension History: Yes
+    Family History: Yes
+    Smoker: Yes
+    Overweight: Yes
+    Hours with Intoxication: 25.71
+    Hours with Low Alertness: 140
+
+Patient 335:
+  Heart Attack Risk: 99.82%
+  Accident Risk: 71.91%
+  Death Risk: 88.66%
+  Predicted Death: Yes
+  Actual Death: No
+  Actual Heart Attacks: 3
+  Actual Accidents: 6
+    Hypertension History: Yes
+    Family History: Yes
+    Smoker: Yes
+    Overweight: Yes
+    Hours with Intoxication: 28.02
+    Hours with Low Alertness: 176
+
+Patient 336:
+  Heart Attack Risk: 99.82%
+  Accident Risk: 96.50%
+  Death Risk: 98.49%
+  Predicted Death: Yes
+  Actual Death: No
+  Actual Heart Attacks: 3
+  Actual Accidents: 7
+    Hypertension History: Yes
+    Family History: Yes
+    Smoker: Yes
+    Overweight: Yes
+    Hours with Intoxication: 21.68
+    Hours with Low Alertness: 260
+
+Patient 337:
+  Heart Attack Risk: 99.82%
+  Accident Risk: 91.12%
+  Death Risk: 96.34%
+  Predicted Death: Yes
+  Actual Death: No
+  Actual Heart Attacks: 3
+  Actual Accidents: 9
+    Hypertension History: Yes
+    Family History: Yes
+    Smoker: Yes
+    Overweight: Yes
+    Hours with Intoxication: 25.42
+    Hours with Low Alertness: 262
+
+Patient 338:
+  Heart Attack Risk: 99.82%
+  Accident Risk: 95.01%
+  Death Risk: 97.90%
+  Predicted Death: Yes
+  Actual Death: No
+  Actual Heart Attacks: 9
+  Actual Accidents: 5
+    Hypertension History: Yes
+    Family History: Yes
+    Smoker: Yes
+    Overweight: Yes
+    Hours with Intoxication: 34.42
+    Hours with Low Alertness: 234
+
+Patient 339:
+  Heart Attack Risk: 0.15%
+  Accident Risk: 99.55%
+  Death Risk: 39.91%
+  Predicted Death: No
+  Actual Death: No
+  Actual Heart Attacks: 0
+  Actual Accidents: 6
+    Hypertension History: Yes
+    Family History: Yes
+    Smoker: Yes
+    Overweight: Yes
+    Hours with Intoxication: 27.65
+    Hours with Low Alertness: 315
+
+Patient 340:
+  Heart Attack Risk: 0.15%
+  Accident Risk: 11.63%
+  Death Risk: 4.75%
+  Predicted Death: No
+  Actual Death: No
+  Actual Heart Attacks: 0
+  Actual Accidents: 0
+    Hypertension History: Yes
+    Family History: Yes
+    Smoker: Yes
+    Overweight: Yes
+    Hours with Intoxication: 3.71
+    Hours with Low Alertness: 120
+
+Patient 341:
+  Heart Attack Risk: 99.82%
+  Accident Risk: 81.76%
+  Death Risk: 92.59%
+  Predicted Death: Yes
+  Actual Death: No
+  Actual Heart Attacks: 2
+  Actual Accidents: 7
+    Hypertension History: Yes
+    Family History: Yes
+    Smoker: Yes
+    Overweight: Yes
+    Hours with Intoxication: 15.05
+    Hours with Low Alertness: 199
+
+Patient 342:
+  Heart Attack Risk: 99.82%
+  Accident Risk: 95.77%
+  Death Risk: 98.20%
+  Predicted Death: Yes
+  Actual Death: No
+  Actual Heart Attacks: 3
+  Actual Accidents: 22
+    Hypertension History: Yes
+    Family History: Yes
+    Smoker: Yes
+    Overweight: Yes
+    Hours with Intoxication: 34.53
+    Hours with Low Alertness: 222
+
+Patient 343:
+  Heart Attack Risk: 99.82%
+  Accident Risk: 86.62%
+  Death Risk: 94.54%
+  Predicted Death: Yes
+  Actual Death: No
+  Actual Heart Attacks: 1
+  Actual Accidents: 1
+    Hypertension History: Yes
+    Family History: Yes
+    Smoker: Yes
+    Overweight: Yes
+    Hours with Intoxication: 14.61
+    Hours with Low Alertness: 267
+
+Patient 344:
+  Heart Attack Risk: 99.82%
+  Accident Risk: 91.36%
+  Death Risk: 96.44%
+  Predicted Death: Yes
+  Actual Death: No
+  Actual Heart Attacks: 4
+  Actual Accidents: 6
+    Hypertension History: Yes
+    Family History: Yes
+    Smoker: Yes
+    Overweight: Yes
+    Hours with Intoxication: 26.10
+    Hours with Low Alertness: 263
+
+Patient 345:
+  Heart Attack Risk: 99.82%
+  Accident Risk: 92.68%
+  Death Risk: 96.96%
+  Predicted Death: Yes
+  Actual Death: No
+  Actual Heart Attacks: 2
+  Actual Accidents: 1
+    Hypertension History: Yes
+    Family History: Yes
+    Smoker: Yes
+    Overweight: Yes
+    Hours with Intoxication: 18.65
+    Hours with Low Alertness: 142
+
+Patient 346:
+  Heart Attack Risk: 0.15%
+  Accident Risk: 72.50%
+  Death Risk: 29.09%
+  Predicted Death: No
+  Actual Death: No
+  Actual Heart Attacks: 0
+  Actual Accidents: 0
+    Hypertension History: Yes
+    Family History: Yes
+    Smoker: Yes
+    Overweight: Yes
+    Hours with Intoxication: 11.82
+    Hours with Low Alertness: 217
+
+Patient 347:
+  Heart Attack Risk: 0.15%
+  Accident Risk: 8.88%
+  Death Risk: 3.64%
+  Predicted Death: No
+  Actual Death: No
+  Actual Heart Attacks: 0
+  Actual Accidents: 0
+    Hypertension History: Yes
+    Family History: Yes
+    Smoker: Yes
+    Overweight: Yes
+    Hours with Intoxication: 3.57
+    Hours with Low Alertness: 91
+
+Patient 348:
+  Heart Attack Risk: 0.15%
+  Accident Risk: 0.43%
+  Death Risk: 0.26%
+  Predicted Death: No
+  Actual Death: No
+  Actual Heart Attacks: 0
+  Actual Accidents: 0
+    Hypertension History: Yes
+    Family History: Yes
+    Smoker: Yes
+    Overweight: Yes
+    Hours with Intoxication: 2.16
+    Hours with Low Alertness: 28
+
+Patient 349:
+  Heart Attack Risk: 99.82%
+  Accident Risk: 64.90%
+  Death Risk: 85.85%
+  Predicted Death: Yes
+  Actual Death: No
+  Actual Heart Attacks: 3
+  Actual Accidents: 2
+    Hypertension History: Yes
+    Family History: Yes
+    Smoker: Yes
+    Overweight: Yes
+    Hours with Intoxication: 18.59
+    Hours with Low Alertness: 98
+
+Patient 350:
+  Heart Attack Risk: 99.82%
+  Accident Risk: 33.39%
+  Death Risk: 73.25%
+  Predicted Death: Yes
+  Actual Death: No
+  Actual Heart Attacks: 1
+  Actual Accidents: 1
+    Hypertension History: Yes
+    Family History: Yes
+    Smoker: Yes
+    Overweight: Yes
+    Hours with Intoxication: 9.65
+    Hours with Low Alertness: 109
+
+Patient 351:
+  Heart Attack Risk: 99.82%
+  Accident Risk: 60.19%
+  Death Risk: 83.97%
+  Predicted Death: Yes
+  Actual Death: No
+  Actual Heart Attacks: 1
+  Actual Accidents: 0
+    Hypertension History: Yes
+    Family History: Yes
+    Smoker: Yes
+    Overweight: Yes
+    Hours with Intoxication: 16.61
+    Hours with Low Alertness: 117
+
+Patient 352:
+  Heart Attack Risk: 0.15%
+  Accident Risk: 94.14%
+  Death Risk: 37.75%
+  Predicted Death: No
+  Actual Death: No
+  Actual Heart Attacks: 0
+  Actual Accidents: 0
+    Hypertension History: Yes
+    Family History: Yes
+    Smoker: Yes
+    Overweight: Yes
+    Hours with Intoxication: 26.04
+    Hours with Low Alertness: 227
+
+Patient 353:
+  Heart Attack Risk: 99.82%
+  Accident Risk: 95.97%
+  Death Risk: 98.28%
+  Predicted Death: Yes
+  Actual Death: No
+  Actual Heart Attacks: 1
+  Actual Accidents: 8
+    Hypertension History: Yes
+    Family History: Yes
+    Smoker: Yes
+    Overweight: Yes
+    Hours with Intoxication: 25.77
+    Hours with Low Alertness: 186
+
+Patient 354:
+  Heart Attack Risk: 99.82%
+  Accident Risk: 95.44%
+  Death Risk: 98.07%
+  Predicted Death: Yes
+  Actual Death: No
+  Actual Heart Attacks: 1
+  Actual Accidents: 11
+    Hypertension History: Yes
+    Family History: Yes
+    Smoker: Yes
+    Overweight: Yes
+    Hours with Intoxication: 32.15
+    Hours with Low Alertness: 313
+
+Patient 355:
+  Heart Attack Risk: 99.82%
+  Accident Risk: 95.05%
+  Death Risk: 97.91%
+  Predicted Death: Yes
+  Actual Death: No
+  Actual Heart Attacks: 1
+  Actual Accidents: 18
+    Hypertension History: Yes
+    Family History: Yes
+    Smoker: Yes
+    Overweight: Yes
+    Hours with Intoxication: 32.41
+    Hours with Low Alertness: 289
+
+Patient 356:
+  Heart Attack Risk: 99.82%
+  Accident Risk: 82.66%
+  Death Risk: 92.95%
+  Predicted Death: Yes
+  Actual Death: No
+  Actual Heart Attacks: 1
+  Actual Accidents: 0
+    Hypertension History: Yes
+    Family History: Yes
+    Smoker: Yes
+    Overweight: Yes
+    Hours with Intoxication: 19.22
+    Hours with Low Alertness: 126
+
+Patient 357:
+  Heart Attack Risk: 0.15%
+  Accident Risk: 95.97%
+  Death Risk: 38.48%
+  Predicted Death: No
+  Actual Death: No
+  Actual Heart Attacks: 0
+  Actual Accidents: 2
+    Hypertension History: Yes
+    Family History: Yes
+    Smoker: Yes
+    Overweight: Yes
+    Hours with Intoxication: 24.07
+    Hours with Low Alertness: 239
+
+Patient 358:
+  Heart Attack Risk: 0.15%
+  Accident Risk: 74.32%
+  Death Risk: 29.82%
+  Predicted Death: No
+  Actual Death: No
+  Actual Heart Attacks: 0
+  Actual Accidents: 3
+    Hypertension History: Yes
+    Family History: Yes
+    Smoker: Yes
+    Overweight: Yes
+    Hours with Intoxication: 10.11
+    Hours with Low Alertness: 226
+
+Patient 359:
+  Heart Attack Risk: 0.15%
+  Accident Risk: 89.87%
+  Death Risk: 36.04%
+  Predicted Death: No
+  Actual Death: No
+  Actual Heart Attacks: 0
+  Actual Accidents: 2
+    Hypertension History: Yes
+    Family History: Yes
+    Smoker: Yes
+    Overweight: Yes
+    Hours with Intoxication: 18.58
+    Hours with Low Alertness: 268
+
+Patient 360:
+  Heart Attack Risk: 99.82%
+  Accident Risk: 41.04%
+  Death Risk: 76.31%
+  Predicted Death: Yes
+  Actual Death: No
+  Actual Heart Attacks: 1
+  Actual Accidents: 1
+    Hypertension History: Yes
+    Family History: Yes
+    Smoker: Yes
+    Overweight: Yes
+    Hours with Intoxication: 11.42
+    Hours with Low Alertness: 177
+
+Patient 361:
+  Heart Attack Risk: 0.15%
+  Accident Risk: 88.60%
+  Death Risk: 35.53%
+  Predicted Death: No
+  Actual Death: No
+  Actual Heart Attacks: 0
+  Actual Accidents: 2
+    Hypertension History: Yes
+    Family History: Yes
+    Smoker: Yes
+    Overweight: Yes
+    Hours with Intoxication: 15.25
+    Hours with Low Alertness: 249
+
+Patient 362:
+  Heart Attack Risk: 0.15%
+  Accident Risk: 37.02%
+  Death Risk: 14.90%
+  Predicted Death: No
+  Actual Death: No
+  Actual Heart Attacks: 0
+  Actual Accidents: 2
+    Hypertension History: Yes
+    Family History: Yes
+    Smoker: Yes
+    Overweight: Yes
+    Hours with Intoxication: 13.45
+    Hours with Low Alertness: 177
+
+Patient 363:
+  Heart Attack Risk: 0.15%
+  Accident Risk: 34.93%
+  Death Risk: 14.06%
+  Predicted Death: No
+  Actual Death: No
+  Actual Heart Attacks: 0
+  Actual Accidents: 0
+    Hypertension History: Yes
+    Family History: Yes
+    Smoker: Yes
+    Overweight: Yes
+    Hours with Intoxication: 15.74
+    Hours with Low Alertness: 107
+
+Patient 364:
+  Heart Attack Risk: 99.82%
+  Accident Risk: 94.67%
+  Death Risk: 97.76%
+  Predicted Death: Yes
+  Actual Death: No
+  Actual Heart Attacks: 1
+  Actual Accidents: 5
+    Hypertension History: Yes
+    Family History: Yes
+    Smoker: Yes
+    Overweight: Yes
+    Hours with Intoxication: 24.44
+    Hours with Low Alertness: 262
+
+Patient 365:
+  Heart Attack Risk: 0.15%
+  Accident Risk: 97.87%
+  Death Risk: 39.24%
+  Predicted Death: No
+  Actual Death: No
+  Actual Heart Attacks: 0
+  Actual Accidents: 6
+    Hypertension History: Yes
+    Family History: Yes
+    Smoker: Yes
+    Overweight: Yes
+    Hours with Intoxication: 28.67
+    Hours with Low Alertness: 249
+
+Patient 366:
+  Heart Attack Risk: 0.15%
+  Accident Risk: 87.64%
+  Death Risk: 35.15%
+  Predicted Death: No
+  Actual Death: No
+  Actual Heart Attacks: 0
+  Actual Accidents: 8
+    Hypertension History: Yes
+    Family History: Yes
+    Smoker: Yes
+    Overweight: Yes
+    Hours with Intoxication: 12.05
+    Hours with Low Alertness: 289
+
+Patient 367:
+  Heart Attack Risk: 0.15%
+  Accident Risk: 9.88%
+  Death Risk: 4.04%
+  Predicted Death: No
+  Actual Death: No
+  Actual Heart Attacks: 0
+  Actual Accidents: 0
+    Hypertension History: Yes
+    Family History: Yes
+    Smoker: Yes
+    Overweight: Yes
+    Hours with Intoxication: 5.13
+    Hours with Low Alertness: 110
+
+Patient 368:
+  Heart Attack Risk: 0.15%
+  Accident Risk: 76.22%
+  Death Risk: 30.58%
+  Predicted Death: No
+  Actual Death: No
+  Actual Heart Attacks: 0
+  Actual Accidents: 3
+    Hypertension History: Yes
+    Family History: Yes
+    Smoker: Yes
+    Overweight: Yes
+    Hours with Intoxication: 20.12
+    Hours with Low Alertness: 189
+
+Patient 369:
+  Heart Attack Risk: 0.15%
+  Accident Risk: 11.68%
+  Death Risk: 4.76%
+  Predicted Death: No
+  Actual Death: No
+  Actual Heart Attacks: 0
+  Actual Accidents: 0
+    Hypertension History: Yes
+    Family History: Yes
+    Smoker: Yes
+    Overweight: Yes
+    Hours with Intoxication: 8.45
+    Hours with Low Alertness: 83
+
+Patient 370:
+  Heart Attack Risk: 0.15%
+  Accident Risk: 87.13%
+  Death Risk: 34.94%
+  Predicted Death: No
+  Actual Death: No
+  Actual Heart Attacks: 0
+  Actual Accidents: 10
+    Hypertension History: Yes
+    Family History: Yes
+    Smoker: Yes
+    Overweight: Yes
+    Hours with Intoxication: 23.19
+    Hours with Low Alertness: 268
+
+Patient 371:
+  Heart Attack Risk: 99.82%
+  Accident Risk: 94.52%
+  Death Risk: 97.70%
+  Predicted Death: Yes
+  Actual Death: No
+  Actual Heart Attacks: 6
+  Actual Accidents: 4
+    Hypertension History: Yes
+    Family History: Yes
+    Smoker: Yes
+    Overweight: Yes
+    Hours with Intoxication: 35.23
+    Hours with Low Alertness: 250
+
+Patient 372:
+  Heart Attack Risk: 99.82%
+  Accident Risk: 97.72%
+  Death Risk: 98.98%
+  Predicted Death: Yes
+  Actual Death: No
+  Actual Heart Attacks: 3
+  Actual Accidents: 10
+    Hypertension History: Yes
+    Family History: Yes
+    Smoker: Yes
+    Overweight: Yes
+    Hours with Intoxication: 30.33
+    Hours with Low Alertness: 242
+
+Patient 373:
+  Heart Attack Risk: 0.15%
+  Accident Risk: 90.92%
+  Death Risk: 36.46%
+  Predicted Death: No
+  Actual Death: No
+  Actual Heart Attacks: 0
+  Actual Accidents: 4
+    Hypertension History: Yes
+    Family History: Yes
+    Smoker: Yes
+    Overweight: Yes
+    Hours with Intoxication: 23.97
+    Hours with Low Alertness: 281
+
+Patient 374:
+  Heart Attack Risk: 99.82%
+  Accident Risk: 73.64%
+  Death Risk: 89.35%
+  Predicted Death: Yes
+  Actual Death: No
+  Actual Heart Attacks: 1
+  Actual Accidents: 1
+    Hypertension History: Yes
+    Family History: Yes
+    Smoker: Yes
+    Overweight: Yes
+    Hours with Intoxication: 13.29
+    Hours with Low Alertness: 194
+
+Patient 375:
+  Heart Attack Risk: 99.82%
+  Accident Risk: 75.46%
+  Death Risk: 90.08%
+  Predicted Death: Yes
+  Actual Death: No
+  Actual Heart Attacks: 4
+  Actual Accidents: 10
+    Hypertension History: Yes
+    Family History: Yes
+    Smoker: Yes
+    Overweight: Yes
+    Hours with Intoxication: 27.75
+    Hours with Low Alertness: 170
+
+Patient 376:
+  Heart Attack Risk: 0.15%
+  Accident Risk: 49.73%
+  Death Risk: 19.98%
+  Predicted Death: No
+  Actual Death: No
+  Actual Heart Attacks: 0
+  Actual Accidents: 0
+    Hypertension History: Yes
+    Family History: Yes
+    Smoker: Yes
+    Overweight: Yes
+    Hours with Intoxication: 14.90
+    Hours with Low Alertness: 150
+
+Patient 377:
+  Heart Attack Risk: 0.15%
+  Accident Risk: 9.09%
+  Death Risk: 3.73%
+  Predicted Death: No
+  Actual Death: No
+  Actual Heart Attacks: 0
+  Actual Accidents: 0
+    Hypertension History: Yes
+    Family History: Yes
+    Smoker: Yes
+    Overweight: Yes
+    Hours with Intoxication: 1.82
+    Hours with Low Alertness: 175
+
+Patient 378:
+  Heart Attack Risk: 0.15%
+  Accident Risk: 8.54%
+  Death Risk: 3.51%
+  Predicted Death: No
+  Actual Death: No
+  Actual Heart Attacks: 0
+  Actual Accidents: 0
+    Hypertension History: Yes
+    Family History: Yes
+    Smoker: Yes
+    Overweight: Yes
+    Hours with Intoxication: 3.05
+    Hours with Low Alertness: 64
+
+Patient 379:
+  Heart Attack Risk: 0.15%
+  Accident Risk: 38.95%
+  Death Risk: 15.67%
+  Predicted Death: No
+  Actual Death: No
+  Actual Heart Attacks: 0
+  Actual Accidents: 0
+    Hypertension History: Yes
+    Family History: Yes
+    Smoker: Yes
+    Overweight: Yes
+    Hours with Intoxication: 14.08
+    Hours with Low Alertness: 145
+
+Patient 380:
+  Heart Attack Risk: 0.15%
+  Accident Risk: 13.93%
+  Death Risk: 5.66%
+  Predicted Death: No
+  Actual Death: No
+  Actual Heart Attacks: 0
+  Actual Accidents: 0
+    Hypertension History: Yes
+    Family History: Yes
+    Smoker: Yes
+    Overweight: Yes
+    Hours with Intoxication: 6.33
+    Hours with Low Alertness: 34
+
+Patient 381:
+  Heart Attack Risk: 0.15%
+  Accident Risk: 9.88%
+  Death Risk: 4.04%
+  Predicted Death: No
+  Actual Death: No
+  Actual Heart Attacks: 0
+  Actual Accidents: 6
+    Hypertension History: Yes
+    Family History: Yes
+    Smoker: Yes
+    Overweight: Yes
+    Hours with Intoxication: 7.91
+    Hours with Low Alertness: 107
+
+Patient 382:
+  Heart Attack Risk: 0.15%
+  Accident Risk: 93.02%
+  Death Risk: 37.30%
+  Predicted Death: No
+  Actual Death: No
+  Actual Heart Attacks: 0
+  Actual Accidents: 6
+    Hypertension History: Yes
+    Family History: Yes
+    Smoker: Yes
+    Overweight: Yes
+    Hours with Intoxication: 23.10
+    Hours with Low Alertness: 281
+
+Patient 383:
+  Heart Attack Risk: 0.15%
+  Accident Risk: 16.33%
+  Death Risk: 6.62%
+  Predicted Death: No
+  Actual Death: No
+  Actual Heart Attacks: 0
+  Actual Accidents: 0
+    Hypertension History: Yes
+    Family History: Yes
+    Smoker: Yes
+    Overweight: Yes
+    Hours with Intoxication: 3.66
+    Hours with Low Alertness: 39
+
+Patient 384:
+  Heart Attack Risk: 0.15%
+  Accident Risk: 85.79%
+  Death Risk: 34.41%
+  Predicted Death: No
+  Actual Death: No
+  Actual Heart Attacks: 0
+  Actual Accidents: 1
+    Hypertension History: Yes
+    Family History: Yes
+    Smoker: Yes
+    Overweight: Yes
+    Hours with Intoxication: 14.23
+    Hours with Low Alertness: 274
+
+Patient 385:
+  Heart Attack Risk: 0.15%
+  Accident Risk: 29.89%
+  Death Risk: 12.05%
+  Predicted Death: No
+  Actual Death: No
+  Actual Heart Attacks: 0
+  Actual Accidents: 0
+    Hypertension History: Yes
+    Family History: Yes
+    Smoker: Yes
+    Overweight: Yes
+    Hours with Intoxication: 16.07
+    Hours with Low Alertness: 169
+
+Patient 386:
+  Heart Attack Risk: 0.15%
+  Accident Risk: 92.70%
+  Death Risk: 37.17%
+  Predicted Death: No
+  Actual Death: No
+  Actual Heart Attacks: 0
+  Actual Accidents: 14
+    Hypertension History: Yes
+    Family History: Yes
+    Smoker: Yes
+    Overweight: Yes
+    Hours with Intoxication: 17.27
+    Hours with Low Alertness: 268
+
+Patient 387:
+  Heart Attack Risk: 0.15%
+  Accident Risk: 64.65%
+  Death Risk: 25.95%
+  Predicted Death: No
+  Actual Death: No
+  Actual Heart Attacks: 0
+  Actual Accidents: 2
+    Hypertension History: Yes
+    Family History: Yes
+    Smoker: Yes
+    Overweight: Yes
+    Hours with Intoxication: 19.63
+    Hours with Low Alertness: 159
+
+Patient 388:
+  Heart Attack Risk: 0.15%
+  Accident Risk: 86.34%
+  Death Risk: 34.63%
+  Predicted Death: No
+  Actual Death: No
+  Actual Heart Attacks: 0
+  Actual Accidents: 14
+    Hypertension History: Yes
+    Family History: Yes
+    Smoker: Yes
+    Overweight: Yes
+    Hours with Intoxication: 31.39
+    Hours with Low Alertness: 268
+
+Patient 389:
+  Heart Attack Risk: 99.82%
+  Accident Risk: 23.85%
+  Death Risk: 69.43%
+  Predicted Death: Yes
+  Actual Death: No
+  Actual Heart Attacks: 1
+  Actual Accidents: 0
+    Hypertension History: Yes
+    Family History: Yes
+    Smoker: Yes
+    Overweight: Yes
+    Hours with Intoxication: 17.26
+    Hours with Low Alertness: 57
+
+Patient 390:
+  Heart Attack Risk: 99.82%
+  Accident Risk: 13.49%
+  Death Risk: 65.29%
+  Predicted Death: Yes
+  Actual Death: No
+  Actual Heart Attacks: 2
+  Actual Accidents: 0
+    Hypertension History: Yes
+    Family History: Yes
+    Smoker: Yes
+    Overweight: Yes
+    Hours with Intoxication: 6.79
+    Hours with Low Alertness: 46
+
+Patient 391:
+  Heart Attack Risk: 99.82%
+  Accident Risk: 95.59%
+  Death Risk: 98.13%
+  Predicted Death: Yes
+  Actual Death: No
+  Actual Heart Attacks: 3
+  Actual Accidents: 3
+    Hypertension History: Yes
+    Family History: Yes
+    Smoker: Yes
+    Overweight: Yes
+    Hours with Intoxication: 21.58
+    Hours with Low Alertness: 262
+
+Patient 392:
+  Heart Attack Risk: 99.82%
+  Accident Risk: 99.29%
+  Death Risk: 99.61%
+  Predicted Death: Yes
+  Actual Death: No
+  Actual Heart Attacks: 3
+  Actual Accidents: 4
+    Hypertension History: Yes
+    Family History: Yes
+    Smoker: Yes
+    Overweight: Yes
+    Hours with Intoxication: 27.04
+    Hours with Low Alertness: 196
+
+Patient 393:
+  Heart Attack Risk: 99.82%
+  Accident Risk: 28.37%
+  Death Risk: 71.24%
+  Predicted Death: Yes
+  Actual Death: No
+  Actual Heart Attacks: 4
+  Actual Accidents: 5
+    Hypertension History: Yes
+    Family History: Yes
+    Smoker: Yes
+    Overweight: Yes
+    Hours with Intoxication: 8.96
+    Hours with Low Alertness: 74
+
+Patient 394:
+  Heart Attack Risk: 0.15%
+  Accident Risk: 99.91%
+  Death Risk: 40.06%
+  Predicted Death: No
+  Actual Death: No
+  Actual Heart Attacks: 0
+  Actual Accidents: 13
+    Hypertension History: Yes
+    Family History: Yes
+    Smoker: Yes
+    Overweight: Yes
+    Hours with Intoxication: 29.62
+    Hours with Low Alertness: 296
+
+Patient 395:
+  Heart Attack Risk: 0.15%
+  Accident Risk: 66.19%
+  Death Risk: 26.57%
+  Predicted Death: No
+  Actual Death: No
+  Actual Heart Attacks: 0
+  Actual Accidents: 8
+    Hypertension History: Yes
+    Family History: Yes
+    Smoker: Yes
+    Overweight: Yes
+    Hours with Intoxication: 14.80
+    Hours with Low Alertness: 129
+
+Patient 396:
+  Heart Attack Risk: 0.15%
+  Accident Risk: 2.53%
+  Death Risk: 1.10%
+  Predicted Death: No
+  Actual Death: No
+  Actual Heart Attacks: 0
+  Actual Accidents: 0
+    Hypertension History: Yes
+    Family History: Yes
+    Smoker: Yes
+    Overweight: Yes
+    Hours with Intoxication: 3.74
+    Hours with Low Alertness: 27
+
+Patient 397:
+  Heart Attack Risk: 99.82%
+  Accident Risk: 97.29%
+  Death Risk: 98.81%
+  Predicted Death: Yes
+  Actual Death: No
+  Actual Heart Attacks: 1
+  Actual Accidents: 14
+    Hypertension History: Yes
+    Family History: Yes
+    Smoker: Yes
+    Overweight: Yes
+    Hours with Intoxication: 28.68
+    Hours with Low Alertness: 254
+
+Patient 398:
+  Heart Attack Risk: 0.15%
+  Accident Risk: 54.62%
+  Death Risk: 21.94%
+  Predicted Death: No
+  Actual Death: No
+  Actual Heart Attacks: 0
+  Actual Accidents: 7
+    Hypertension History: Yes
+    Family History: Yes
+    Smoker: Yes
+    Overweight: Yes
+    Hours with Intoxication: 16.59
+    Hours with Low Alertness: 104
+
+Patient 399:
+  Heart Attack Risk: 0.15%
+  Accident Risk: 42.71%
+  Death Risk: 17.18%
+  Predicted Death: No
+  Actual Death: No
+  Actual Heart Attacks: 0
+  Actual Accidents: 1
+    Hypertension History: Yes
+    Family History: Yes
+    Smoker: Yes
+    Overweight: Yes
+    Hours with Intoxication: 16.45
+    Hours with Low Alertness: 179
+
+Patient 400:
+  Heart Attack Risk: 0.15%
+  Accident Risk: 55.62%
+  Death Risk: 22.34%
+  Predicted Death: No
+  Actual Death: No
+  Actual Heart Attacks: 0
+  Actual Accidents: 0
+    Hypertension History: Yes
+    Family History: Yes
+    Smoker: Yes
+    Overweight: Yes
+    Hours with Intoxication: 9.49
+    Hours with Low Alertness: 242
+
+Patient 401:
+  Heart Attack Risk: 0.15%
+  Accident Risk: 78.87%
+  Death Risk: 31.64%
+  Predicted Death: No
+  Actual Death: No
+  Actual Heart Attacks: 0
+  Actual Accidents: 0
+    Hypertension History: Yes
+    Family History: Yes
+    Smoker: Yes
+    Overweight: Yes
+    Hours with Intoxication: 40.63
+    Hours with Low Alertness: 405
+
+Patient 402:
+  Heart Attack Risk: 0.15%
+  Accident Risk: 34.00%
+  Death Risk: 13.69%
+  Predicted Death: No
+  Actual Death: No
+  Actual Heart Attacks: 0
+  Actual Accidents: 0
+    Hypertension History: Yes
+    Family History: Yes
+    Smoker: Yes
+    Overweight: Yes
+    Hours with Intoxication: 14.52
+    Hours with Low Alertness: 109
+
+Patient 403:
+  Heart Attack Risk: 0.15%
+  Accident Risk: 57.65%
+  Death Risk: 23.15%
+  Predicted Death: No
+  Actual Death: No
+  Actual Heart Attacks: 0
+  Actual Accidents: 5
+    Hypertension History: Yes
+    Family History: Yes
+    Smoker: Yes
+    Overweight: Yes
+    Hours with Intoxication: 1.07
+    Hours with Low Alertness: 237
+
+Patient 404:
+  Heart Attack Risk: 99.82%
+  Accident Risk: 20.25%
+  Death Risk: 67.99%
+  Predicted Death: Yes
+  Actual Death: No
+  Actual Heart Attacks: 1
+  Actual Accidents: 0
+    Hypertension History: Yes
+    Family History: Yes
+    Smoker: Yes
+    Overweight: Yes
+    Hours with Intoxication: 9.30
+    Hours with Low Alertness: 103
+
+Patient 405:
+  Heart Attack Risk: 99.82%
+  Accident Risk: 99.21%
+  Death Risk: 99.58%
+  Predicted Death: Yes
+  Actual Death: No
+  Actual Heart Attacks: 5
+  Actual Accidents: 19
+    Hypertension History: Yes
+    Family History: Yes
+    Smoker: Yes
+    Overweight: Yes
+    Hours with Intoxication: 28.89
+    Hours with Low Alertness: 195
+
+Patient 406:
+  Heart Attack Risk: 99.82%
+  Accident Risk: 99.08%
+  Death Risk: 99.52%
+  Predicted Death: Yes
+  Actual Death: No
+  Actual Heart Attacks: 1
+  Actual Accidents: 7
+    Hypertension History: Yes
+    Family History: Yes
+    Smoker: Yes
+    Overweight: Yes
+    Hours with Intoxication: 27.15
+    Hours with Low Alertness: 312
+
+Patient 407:
+  Heart Attack Risk: 99.82%
+  Accident Risk: 98.64%
+  Death Risk: 99.35%
+  Predicted Death: Yes
+  Actual Death: No
+  Actual Heart Attacks: 8
+  Actual Accidents: 6
+    Hypertension History: Yes
+    Family History: Yes
+    Smoker: Yes
+    Overweight: Yes
+    Hours with Intoxication: 21.64
+    Hours with Low Alertness: 138
+
+Patient 408:
+  Heart Attack Risk: 0.15%
+  Accident Risk: 7.88%
+  Death Risk: 3.24%
+  Predicted Death: No
+  Actual Death: No
+  Actual Heart Attacks: 0
+  Actual Accidents: 0
+    Hypertension History: Yes
+    Family History: Yes
+    Smoker: Yes
+    Overweight: Yes
+    Hours with Intoxication: 4.44
+    Hours with Low Alertness: 91
+
+Patient 409:
+  Heart Attack Risk: 99.82%
+  Accident Risk: 98.54%
+  Death Risk: 99.31%
+  Predicted Death: Yes
+  Actual Death: No
+  Actual Heart Attacks: 1
+  Actual Accidents: 15
+    Hypertension History: Yes
+    Family History: Yes
+    Smoker: Yes
+    Overweight: Yes
+    Hours with Intoxication: 28.12
+    Hours with Low Alertness: 287
+
+Patient 410:
+  Heart Attack Risk: 99.82%
+  Accident Risk: 97.84%
+  Death Risk: 99.03%
+  Predicted Death: Yes
+  Actual Death: No
+  Actual Heart Attacks: 3
+  Actual Accidents: 8
+    Hypertension History: Yes
+    Family History: Yes
+    Smoker: Yes
+    Overweight: Yes
+    Hours with Intoxication: 30.80
+    Hours with Low Alertness: 237
+
+Patient 411:
+  Heart Attack Risk: 99.82%
+  Accident Risk: 86.09%
+  Death Risk: 94.33%
+  Predicted Death: Yes
+  Actual Death: No
+  Actual Heart Attacks: 1
+  Actual Accidents: 20
+    Hypertension History: Yes
+    Family History: Yes
+    Smoker: Yes
+    Overweight: Yes
+    Hours with Intoxication: 32.19
+    Hours with Low Alertness: 263
+
+Patient 412:
+  Heart Attack Risk: 99.82%
+  Accident Risk: 93.32%
+  Death Risk: 97.22%
+  Predicted Death: Yes
+  Actual Death: No
+  Actual Heart Attacks: 1
+  Actual Accidents: 6
+    Hypertension History: Yes
+    Family History: Yes
+    Smoker: Yes
+    Overweight: Yes
+    Hours with Intoxication: 22.15
+    Hours with Low Alertness: 281
+
+Patient 413:
+  Heart Attack Risk: 0.15%
+  Accident Risk: 83.85%
+  Death Risk: 33.63%
+  Predicted Death: No
+  Actual Death: No
+  Actual Heart Attacks: 0
+  Actual Accidents: 5
+    Hypertension History: Yes
+    Family History: Yes
+    Smoker: Yes
+    Overweight: Yes
+    Hours with Intoxication: 10.30
+    Hours with Low Alertness: 322
+
+Patient 414:
+  Heart Attack Risk: 0.15%
+  Accident Risk: 95.37%
+  Death Risk: 38.24%
+  Predicted Death: No
+  Actual Death: No
+  Actual Heart Attacks: 0
+  Actual Accidents: 11
+    Hypertension History: Yes
+    Family History: Yes
+    Smoker: Yes
+    Overweight: Yes
+    Hours with Intoxication: 22.58
+    Hours with Low Alertness: 238
+
+Patient 415:
+  Heart Attack Risk: 0.15%
+  Accident Risk: 8.29%
+  Death Risk: 3.41%
+  Predicted Death: No
+  Actual Death: No
+  Actual Heart Attacks: 0
+  Actual Accidents: 0
+    Hypertension History: Yes
+    Family History: Yes
+    Smoker: Yes
+    Overweight: Yes
+    Hours with Intoxication: 7.77
+    Hours with Low Alertness: 102
+
+Patient 416:
+  Heart Attack Risk: 99.82%
+  Accident Risk: 77.93%
+  Death Risk: 91.06%
+  Predicted Death: Yes
+  Actual Death: No
+  Actual Heart Attacks: 2
+  Actual Accidents: 53
+    Hypertension History: Yes
+    Family History: Yes
+    Smoker: Yes
+    Overweight: Yes
+    Hours with Intoxication: 37.68
+    Hours with Low Alertness: 343
+
+Patient 417:
+  Heart Attack Risk: 0.15%
+  Accident Risk: 99.79%
+  Death Risk: 40.01%
+  Predicted Death: No
+  Actual Death: No
+  Actual Heart Attacks: 0
+  Actual Accidents: 13
+    Hypertension History: Yes
+    Family History: Yes
+    Smoker: Yes
+    Overweight: Yes
+    Hours with Intoxication: 28.01
+    Hours with Low Alertness: 295
+
+Patient 418:
+  Heart Attack Risk: 99.82%
+  Accident Risk: 96.47%
+  Death Risk: 98.48%
+  Predicted Death: Yes
+  Actual Death: No
+  Actual Heart Attacks: 4
+  Actual Accidents: 12
+    Hypertension History: Yes
+    Family History: Yes
+    Smoker: Yes
+    Overweight: Yes
+    Hours with Intoxication: 35.78
+    Hours with Low Alertness: 215
+
+Patient 419:
+  Heart Attack Risk: 0.15%
+  Accident Risk: 84.46%
+  Death Risk: 33.88%
+  Predicted Death: No
+  Actual Death: No
+  Actual Heart Attacks: 0
+  Actual Accidents: 5
+    Hypertension History: Yes
+    Family History: Yes
+    Smoker: Yes
+    Overweight: Yes
+    Hours with Intoxication: 13.98
+    Hours with Low Alertness: 258
+
+Patient 420:
+  Heart Attack Risk: 0.15%
+  Accident Risk: 68.83%
+  Death Risk: 27.63%
+  Predicted Death: No
+  Actual Death: No
+  Actual Heart Attacks: 0
+  Actual Accidents: 19
+    Hypertension History: Yes
+    Family History: Yes
+    Smoker: Yes
+    Overweight: Yes
+    Hours with Intoxication: 7.49
+    Hours with Low Alertness: 337
+
+Patient 421:
+  Heart Attack Risk: 99.82%
+  Accident Risk: 85.32%
+  Death Risk: 94.02%
+  Predicted Death: Yes
+  Actual Death: No
+  Actual Heart Attacks: 1
+  Actual Accidents: 19
+    Hypertension History: Yes
+    Family History: Yes
+    Smoker: Yes
+    Overweight: Yes
+    Hours with Intoxication: 32.39
+    Hours with Low Alertness: 276
+
+Patient 422:
+  Heart Attack Risk: 99.82%
+  Accident Risk: 71.06%
+  Death Risk: 88.32%
+  Predicted Death: Yes
+  Actual Death: No
+  Actual Heart Attacks: 1
+  Actual Accidents: 1
+    Hypertension History: Yes
+    Family History: Yes
+    Smoker: Yes
+    Overweight: Yes
+    Hours with Intoxication: 16.74
+    Hours with Low Alertness: 143
+
+Patient 423:
+  Heart Attack Risk: 0.15%
+  Accident Risk: 88.12%
+  Death Risk: 35.34%
+  Predicted Death: No
+  Actual Death: No
+  Actual Heart Attacks: 0
+  Actual Accidents: 28
+    Hypertension History: Yes
+    Family History: Yes
+    Smoker: Yes
+    Overweight: Yes
+    Hours with Intoxication: 39.47
+    Hours with Low Alertness: 323
+
+Patient 424:
+  Heart Attack Risk: 0.15%
+  Accident Risk: 97.80%
+  Death Risk: 39.21%
+  Predicted Death: No
+  Actual Death: No
+  Actual Heart Attacks: 0
+  Actual Accidents: 2
+    Hypertension History: Yes
+    Family History: Yes
+    Smoker: Yes
+    Overweight: Yes
+    Hours with Intoxication: 26.12
+    Hours with Low Alertness: 252
+
+Patient 425:
+  Heart Attack Risk: 0.15%
+  Accident Risk: 14.76%
+  Death Risk: 5.99%
+  Predicted Death: No
+  Actual Death: No
+  Actual Heart Attacks: 0
+  Actual Accidents: 0
+    Hypertension History: Yes
+    Family History: Yes
+    Smoker: Yes
+    Overweight: Yes
+    Hours with Intoxication: 11.31
+    Hours with Low Alertness: 72
+
+Patient 426:
+  Heart Attack Risk: 99.82%
+  Accident Risk: 90.11%
+  Death Risk: 95.93%
+  Predicted Death: Yes
+  Actual Death: No
+  Actual Heart Attacks: 6
+  Actual Accidents: 8
+    Hypertension History: Yes
+    Family History: Yes
+    Smoker: Yes
+    Overweight: Yes
+    Hours with Intoxication: 21.31
+    Hours with Low Alertness: 121
+
+Patient 427:
+  Heart Attack Risk: 99.82%
+  Accident Risk: 16.62%
+  Death Risk: 66.54%
+  Predicted Death: Yes
+  Actual Death: No
+  Actual Heart Attacks: 1
+  Actual Accidents: 0
+    Hypertension History: Yes
+    Family History: Yes
+    Smoker: Yes
+    Overweight: Yes
+    Hours with Intoxication: 9.61
+    Hours with Low Alertness: 61
+
+Patient 428:
+  Heart Attack Risk: 99.82%
+  Accident Risk: 63.81%
+  Death Risk: 85.41%
+  Predicted Death: Yes
+  Actual Death: No
+  Actual Heart Attacks: 1
+  Actual Accidents: 2
+    Hypertension History: Yes
+    Family History: Yes
+    Smoker: Yes
+    Overweight: Yes
+    Hours with Intoxication: 15.07
+    Hours with Low Alertness: 131
+
+Patient 429:
+  Heart Attack Risk: 99.82%
+  Accident Risk: 35.39%
+  Death Risk: 74.05%
+  Predicted Death: Yes
+  Actual Death: No
+  Actual Heart Attacks: 3
+  Actual Accidents: 0
+    Hypertension History: Yes
+    Family History: Yes
+    Smoker: Yes
+    Overweight: Yes
+    Hours with Intoxication: 15.82
+    Hours with Low Alertness: 109
+
+Patient 430:
+  Heart Attack Risk: 99.82%
+  Accident Risk: 17.14%
+  Death Risk: 66.75%
+  Predicted Death: Yes
+  Actual Death: No
+  Actual Heart Attacks: 3
+  Actual Accidents: 0
+    Hypertension History: Yes
+    Family History: Yes
+    Smoker: Yes
+    Overweight: Yes
+    Hours with Intoxication: 11.02
+    Hours with Low Alertness: 60
+
+Patient 431:
+  Heart Attack Risk: 99.82%
+  Accident Risk: 74.99%
+  Death Risk: 89.89%
+  Predicted Death: Yes
+  Actual Death: No
+  Actual Heart Attacks: 4
+  Actual Accidents: 9
+    Hypertension History: Yes
+    Family History: Yes
+    Smoker: Yes
+    Overweight: Yes
+    Hours with Intoxication: 22.62
+    Hours with Low Alertness: 184
+
+Patient 432:
+  Heart Attack Risk: 0.15%
+  Accident Risk: 7.60%
+  Death Risk: 3.13%
+  Predicted Death: No
+  Actual Death: No
+  Actual Heart Attacks: 0
+  Actual Accidents: 0
+    Hypertension History: Yes
+    Family History: Yes
+    Smoker: Yes
+    Overweight: Yes
+    Hours with Intoxication: 8.06
+    Hours with Low Alertness: 100
+
+Patient 433:
+  Heart Attack Risk: 0.15%
+  Accident Risk: 5.93%
+  Death Risk: 2.46%
+  Predicted Death: No
+  Actual Death: No
+  Actual Heart Attacks: 0
+  Actual Accidents: 0
+    Hypertension History: Yes
+    Family History: Yes
+    Smoker: Yes
+    Overweight: Yes
+    Hours with Intoxication: 2.04
+    Hours with Low Alertness: 71
+
+Patient 434:
+  Heart Attack Risk: 0.15%
+  Accident Risk: 13.59%
+  Death Risk: 5.53%
+  Predicted Death: No
+  Actual Death: No
+  Actual Heart Attacks: 0
+  Actual Accidents: 0
+    Hypertension History: Yes
+    Family History: Yes
+    Smoker: Yes
+    Overweight: Yes
+    Hours with Intoxication: 4.85
+    Hours with Low Alertness: 38
+
+Patient 435:
+  Heart Attack Risk: 99.82%
+  Accident Risk: 96.82%
+  Death Risk: 98.62%
+  Predicted Death: Yes
+  Actual Death: No
+  Actual Heart Attacks: 1
+  Actual Accidents: 6
+    Hypertension History: Yes
+    Family History: Yes
+    Smoker: Yes
+    Overweight: Yes
+    Hours with Intoxication: 24.50
+    Hours with Low Alertness: 202
+
+Patient 436:
+  Heart Attack Risk: 0.15%
+  Accident Risk: 73.08%
+  Death Risk: 29.33%
+  Predicted Death: No
+  Actual Death: No
+  Actual Heart Attacks: 0
+  Actual Accidents: 4
+    Hypertension History: Yes
+    Family History: Yes
+    Smoker: Yes
+    Overweight: Yes
+    Hours with Intoxication: 18.17
+    Hours with Low Alertness: 132
+
+Patient 437:
+  Heart Attack Risk: 99.82%
+  Accident Risk: 96.01%
+  Death Risk: 98.30%
+  Predicted Death: Yes
+  Actual Death: No
+  Actual Heart Attacks: 3
+  Actual Accidents: 10
+    Hypertension History: Yes
+    Family History: Yes
+    Smoker: Yes
+    Overweight: Yes
+    Hours with Intoxication: 25.63
+    Hours with Low Alertness: 144
+
+Patient 438:
+  Heart Attack Risk: 99.82%
+  Accident Risk: 70.32%
+  Death Risk: 88.02%
+  Predicted Death: Yes
+  Actual Death: No
+  Actual Heart Attacks: 6
+  Actual Accidents: 8
+    Hypertension History: Yes
+    Family History: Yes
+    Smoker: Yes
+    Overweight: Yes
+    Hours with Intoxication: 24.62
+    Hours with Low Alertness: 169
+
+Patient 439:
+  Heart Attack Risk: 0.15%
+  Accident Risk: 77.02%
+  Death Risk: 30.90%
+  Predicted Death: No
+  Actual Death: No
+  Actual Heart Attacks: 0
+  Actual Accidents: 0
+    Hypertension History: Yes
+    Family History: Yes
+    Smoker: Yes
+    Overweight: Yes
+    Hours with Intoxication: 32.10
+    Hours with Low Alertness: 352
+
+Patient 440:
+  Heart Attack Risk: 0.15%
+  Accident Risk: 51.98%
+  Death Risk: 20.88%
+  Predicted Death: No
+  Actual Death: No
+  Actual Heart Attacks: 0
+  Actual Accidents: 0
+    Hypertension History: Yes
+    Family History: Yes
+    Smoker: Yes
+    Overweight: Yes
+    Hours with Intoxication: 6.01
+    Hours with Low Alertness: 260
+
+Patient 441:
+  Heart Attack Risk: 0.15%
+  Accident Risk: 78.87%
+  Death Risk: 31.64%
+  Predicted Death: No
+  Actual Death: No
+  Actual Heart Attacks: 0
+  Actual Accidents: 75
+    Hypertension History: Yes
+    Family History: Yes
+    Smoker: Yes
+    Overweight: Yes
+    Hours with Intoxication: 47.19
+    Hours with Low Alertness: 452
+
+Patient 442:
+  Heart Attack Risk: 99.82%
+  Accident Risk: 0.00%
+  Death Risk: 59.89%
+  Predicted Death: Yes
+  Actual Death: No
+  Actual Heart Attacks: 2
+  Actual Accidents: 0
+    Hypertension History: Yes
+    Family History: Yes
+    Smoker: Yes
+    Overweight: Yes
+    Hours with Intoxication: 0.58
+    Hours with Low Alertness: 18
+
+Patient 443:
+  Heart Attack Risk: 99.82%
+  Accident Risk: 87.19%
+  Death Risk: 94.77%
+  Predicted Death: Yes
+  Actual Death: No
+  Actual Heart Attacks: 2
+  Actual Accidents: 20
+    Hypertension History: Yes
+    Family History: Yes
+    Smoker: Yes
+    Overweight: Yes
+    Hours with Intoxication: 35.42
+    Hours with Low Alertness: 268
+
+Patient 444:
+  Heart Attack Risk: 0.15%
+  Accident Risk: 77.59%
+  Death Risk: 31.13%
+  Predicted Death: No
+  Actual Death: No
+  Actual Heart Attacks: 0
+  Actual Accidents: 0
+    Hypertension History: Yes
+    Family History: Yes
+    Smoker: Yes
+    Overweight: Yes
+    Hours with Intoxication: 26.77
+    Hours with Low Alertness: 280
+
+Patient 445:
+  Heart Attack Risk: 0.15%
+  Accident Risk: 47.82%
+  Death Risk: 19.22%
+  Predicted Death: No
+  Actual Death: No
+  Actual Heart Attacks: 0
+  Actual Accidents: 0
+    Hypertension History: Yes
+    Family History: Yes
+    Smoker: Yes
+    Overweight: Yes
+    Hours with Intoxication: 12.48
+    Hours with Low Alertness: 82
+
+Patient 446:
+  Heart Attack Risk: 0.15%
+  Accident Risk: 8.85%
+  Death Risk: 3.63%
+  Predicted Death: No
+  Actual Death: No
+  Actual Heart Attacks: 0
+  Actual Accidents: 0
+    Hypertension History: Yes
+    Family History: Yes
+    Smoker: Yes
+    Overweight: Yes
+    Hours with Intoxication: 4.77
+    Hours with Low Alertness: 79
+
+Patient 447:
+  Heart Attack Risk: 0.15%
+  Accident Risk: 96.94%
+  Death Risk: 38.87%
+  Predicted Death: No
+  Actual Death: No
+  Actual Heart Attacks: 0
+  Actual Accidents: 1
+    Hypertension History: Yes
+    Family History: Yes
+    Smoker: Yes
+    Overweight: Yes
+    Hours with Intoxication: 22.07
+    Hours with Low Alertness: 147
+
+Patient 448:
+  Heart Attack Risk: 0.15%
+  Accident Risk: 99.83%
+  Death Risk: 40.02%
+  Predicted Death: No
+  Actual Death: No
+  Actual Heart Attacks: 0
+  Actual Accidents: 8
+    Hypertension History: Yes
+    Family History: Yes
+    Smoker: Yes
+    Overweight: Yes
+    Hours with Intoxication: 29.78
+    Hours with Low Alertness: 322
+
+Patient 449:
+  Heart Attack Risk: 0.15%
+  Accident Risk: 85.35%
+  Death Risk: 34.23%
+  Predicted Death: No
+  Actual Death: No
+  Actual Heart Attacks: 0
+  Actual Accidents: 7
+    Hypertension History: Yes
+    Family History: Yes
+    Smoker: Yes
+    Overweight: Yes
+    Hours with Intoxication: 33.37
+    Hours with Low Alertness: 360
+
+Patient 450:
+  Heart Attack Risk: 0.15%
+  Accident Risk: 16.82%
+  Death Risk: 6.82%
+  Predicted Death: No
+  Actual Death: No
+  Actual Heart Attacks: 0
+  Actual Accidents: 0
+    Hypertension History: Yes
+    Family History: Yes
+    Smoker: Yes
+    Overweight: Yes
+    Hours with Intoxication: 10.60
+    Hours with Low Alertness: 56
+
+Patient 451:
+  Heart Attack Risk: 0.15%
+  Accident Risk: 63.62%
+  Death Risk: 25.54%
+  Predicted Death: No
+  Actual Death: No
+  Actual Heart Attacks: 0
+  Actual Accidents: 0
+    Hypertension History: Yes
+    Family History: Yes
+    Smoker: Yes
+    Overweight: Yes
+    Hours with Intoxication: 9.22
+    Hours with Low Alertness: 227
+
+Patient 452:
+  Heart Attack Risk: 99.82%
+  Accident Risk: 93.34%
+  Death Risk: 97.23%
+  Predicted Death: Yes
+  Actual Death: No
+  Actual Heart Attacks: 7
+  Actual Accidents: 11
+    Hypertension History: Yes
+    Family History: Yes
+    Smoker: Yes
+    Overweight: Yes
+    Hours with Intoxication: 31.95
+    Hours with Low Alertness: 146
+
+Patient 453:
+  Heart Attack Risk: 99.82%
+  Accident Risk: 99.35%
+  Death Risk: 99.63%
+  Predicted Death: Yes
+  Actual Death: No
+  Actual Heart Attacks: 6
+  Actual Accidents: 13
+    Hypertension History: Yes
+    Family History: Yes
+    Smoker: Yes
+    Overweight: Yes
+    Hours with Intoxication: 27.84
+    Hours with Low Alertness: 196
+
+Patient 454:
+  Heart Attack Risk: 0.15%
+  Accident Risk: 26.04%
+  Death Risk: 10.51%
+  Predicted Death: No
+  Actual Death: No
+  Actual Heart Attacks: 0
+  Actual Accidents: 0
+    Hypertension History: Yes
+    Family History: Yes
+    Smoker: Yes
+    Overweight: Yes
+    Hours with Intoxication: 11.24
+    Hours with Low Alertness: 112
+
+Patient 455:
+  Heart Attack Risk: 0.15%
+  Accident Risk: 84.71%
+  Death Risk: 33.98%
+  Predicted Death: No
+  Actual Death: No
+  Actual Heart Attacks: 0
+  Actual Accidents: 0
+    Hypertension History: Yes
+    Family History: Yes
+    Smoker: Yes
+    Overweight: Yes
+    Hours with Intoxication: 30.30
+    Hours with Low Alertness: 153
+
+Patient 456:
+  Heart Attack Risk: 99.82%
+  Accident Risk: 85.54%
+  Death Risk: 94.11%
+  Predicted Death: Yes
+  Actual Death: No
+  Actual Heart Attacks: 1
+  Actual Accidents: 18
+    Hypertension History: Yes
+    Family History: Yes
+    Smoker: Yes
+    Overweight: Yes
+    Hours with Intoxication: 35.14
+    Hours with Low Alertness: 400
+
+Patient 457:
+  Heart Attack Risk: 0.15%
+  Accident Risk: 2.42%
+  Death Risk: 1.06%
+  Predicted Death: No
+  Actual Death: No
+  Actual Heart Attacks: 0
+  Actual Accidents: 0
+    Hypertension History: Yes
+    Family History: Yes
+    Smoker: Yes
+    Overweight: Yes
+    Hours with Intoxication: 3.11
+    Hours with Low Alertness: 27
+
+Patient 458:
+  Heart Attack Risk: 0.15%
+  Accident Risk: 76.31%
+  Death Risk: 30.61%
+  Predicted Death: No
+  Actual Death: No
+  Actual Heart Attacks: 0
+  Actual Accidents: 3
+    Hypertension History: Yes
+    Family History: Yes
+    Smoker: Yes
+    Overweight: Yes
+    Hours with Intoxication: 18.26
+    Hours with Low Alertness: 189
+
+Patient 459:
+  Heart Attack Risk: 99.82%
+  Accident Risk: 85.77%
+  Death Risk: 94.20%
+  Predicted Death: Yes
+  Actual Death: No
+  Actual Heart Attacks: 2
+  Actual Accidents: 7
+    Hypertension History: Yes
+    Family History: Yes
+    Smoker: Yes
+    Overweight: Yes
+    Hours with Intoxication: 31.55
+    Hours with Low Alertness: 364
+
+Patient 460:
+  Heart Attack Risk: 0.15%
+  Accident Risk: 88.20%
+  Death Risk: 35.37%
+  Predicted Death: No
+  Actual Death: No
+  Actual Heart Attacks: 0
+  Actual Accidents: 16
+    Hypertension History: Yes
+    Family History: Yes
+    Smoker: Yes
+    Overweight: Yes
+    Hours with Intoxication: 12.04
+    Hours with Low Alertness: 328
+
+Patient 461:
+  Heart Attack Risk: 0.15%
+  Accident Risk: 46.20%
+  Death Risk: 18.57%
+  Predicted Death: No
+  Actual Death: No
+  Actual Heart Attacks: 0
+  Actual Accidents: 0
+    Hypertension History: Yes
+    Family History: Yes
+    Smoker: Yes
+    Overweight: Yes
+    Hours with Intoxication: 17.18
+    Hours with Low Alertness: 109
+
+Patient 462:
+  Heart Attack Risk: 0.15%
+  Accident Risk: 83.90%
+  Death Risk: 33.65%
+  Predicted Death: No
+  Actual Death: No
+  Actual Heart Attacks: 0
+  Actual Accidents: 26
+    Hypertension History: Yes
+    Family History: Yes
+    Smoker: Yes
+    Overweight: Yes
+    Hours with Intoxication: 36.38
+    Hours with Low Alertness: 356
+
+Patient 463:
+  Heart Attack Risk: 0.15%
+  Accident Risk: 21.62%
+  Death Risk: 8.74%
+  Predicted Death: No
+  Actual Death: No
+  Actual Heart Attacks: 0
+  Actual Accidents: 1
+    Hypertension History: Yes
+    Family History: Yes
+    Smoker: Yes
+    Overweight: Yes
+    Hours with Intoxication: 8.28
+    Hours with Low Alertness: 46
+
+Patient 464:
+  Heart Attack Risk: 0.15%
+  Accident Risk: 33.06%
+  Death Risk: 13.32%
+  Predicted Death: No
+  Actual Death: No
+  Actual Heart Attacks: 0
+  Actual Accidents: 0
+    Hypertension History: Yes
+    Family History: Yes
+    Smoker: Yes
+    Overweight: Yes
+    Hours with Intoxication: 12.95
+    Hours with Low Alertness: 164
+
+Patient 465:
+  Heart Attack Risk: 99.82%
+  Accident Risk: 78.87%
+  Death Risk: 91.44%
+  Predicted Death: Yes
+  Actual Death: No
+  Actual Heart Attacks: 2
+  Actual Accidents: 64
+    Hypertension History: Yes
+    Family History: Yes
+    Smoker: Yes
+    Overweight: Yes
+    Hours with Intoxication: 48.44
+    Hours with Low Alertness: 414
+
+Patient 466:
+  Heart Attack Risk: 0.15%
+  Accident Risk: 20.01%
+  Death Risk: 8.09%
+  Predicted Death: No
+  Actual Death: No
+  Actual Heart Attacks: 0
+  Actual Accidents: 2
+    Hypertension History: Yes
+    Family History: Yes
+    Smoker: Yes
+    Overweight: Yes
+    Hours with Intoxication: 4.10
+    Hours with Low Alertness: 39
+
+Patient 467:
+  Heart Attack Risk: 0.15%
+  Accident Risk: 8.17%
+  Death Risk: 3.36%
+  Predicted Death: No
+  Actual Death: No
+  Actual Heart Attacks: 0
+  Actual Accidents: 0
+    Hypertension History: Yes
+    Family History: Yes
+    Smoker: Yes
+    Overweight: Yes
+    Hours with Intoxication: 7.47
+    Hours with Low Alertness: 161
+
+Patient 468:
+  Heart Attack Risk: 0.15%
+  Accident Risk: 54.38%
+  Death Risk: 21.84%
+  Predicted Death: No
+  Actual Death: No
+  Actual Heart Attacks: 0
+  Actual Accidents: 1
+    Hypertension History: Yes
+    Family History: Yes
+    Smoker: Yes
+    Overweight: Yes
+    Hours with Intoxication: 13.47
+    Hours with Low Alertness: 83
+
+Patient 469:
+  Heart Attack Risk: 99.82%
+  Accident Risk: 99.88%
+  Death Risk: 99.84%
+  Predicted Death: Yes
+  Actual Death: No
+  Actual Heart Attacks: 4
+  Actual Accidents: 4
+    Hypertension History: Yes
+    Family History: Yes
+    Smoker: Yes
+    Overweight: Yes
+    Hours with Intoxication: 29.40
+    Hours with Low Alertness: 314
+
+Patient 470:
+  Heart Attack Risk: 0.15%
+  Accident Risk: 67.73%
+  Death Risk: 27.18%
+  Predicted Death: No
+  Actual Death: No
+  Actual Heart Attacks: 0
+  Actual Accidents: 0
+    Hypertension History: Yes
+    Family History: Yes
+    Smoker: Yes
+    Overweight: Yes
+    Hours with Intoxication: 18.04
+    Hours with Low Alertness: 136
+
+Patient 471:
+  Heart Attack Risk: 99.82%
+  Accident Risk: 96.26%
+  Death Risk: 98.40%
+  Predicted Death: Yes
+  Actual Death: No
+  Actual Heart Attacks: 1
+  Actual Accidents: 7
+    Hypertension History: Yes
+    Family History: Yes
+    Smoker: Yes
+    Overweight: Yes
+    Hours with Intoxication: 27.69
+    Hours with Low Alertness: 259
+
+Patient 472:
+  Heart Attack Risk: 99.82%
+  Accident Risk: 73.80%
+  Death Risk: 89.41%
+  Predicted Death: Yes
+  Actual Death: No
+  Actual Heart Attacks: 3
+  Actual Accidents: 2
+    Hypertension History: Yes
+    Family History: Yes
+    Smoker: Yes
+    Overweight: Yes
+    Hours with Intoxication: 26.75
+    Hours with Low Alertness: 170
+
+Patient 473:
+  Heart Attack Risk: 0.15%
+  Accident Risk: 52.33%
+  Death Risk: 21.02%
+  Predicted Death: No
+  Actual Death: No
+  Actual Heart Attacks: 0
+  Actual Accidents: 0
+    Hypertension History: Yes
+    Family History: Yes
+    Smoker: Yes
+    Overweight: Yes
+    Hours with Intoxication: 5.73
+    Hours with Low Alertness: 239
+
+Patient 474:
+  Heart Attack Risk: 0.15%
+  Accident Risk: 15.54%
+  Death Risk: 6.31%
+  Predicted Death: No
+  Actual Death: No
+  Actual Heart Attacks: 0
+  Actual Accidents: 0
+    Hypertension History: Yes
+    Family History: Yes
+    Smoker: Yes
+    Overweight: Yes
+    Hours with Intoxication: 1.32
+    Hours with Low Alertness: 39
+
+Patient 475:
+  Heart Attack Risk: 99.82%
+  Accident Risk: 93.83%
+  Death Risk: 97.42%
+  Predicted Death: Yes
+  Actual Death: No
+  Actual Heart Attacks: 6
+  Actual Accidents: 4
+    Hypertension History: Yes
+    Family History: Yes
+    Smoker: Yes
+    Overweight: Yes
+    Hours with Intoxication: 22.90
+    Hours with Low Alertness: 149
+
+Patient 476:
+  Heart Attack Risk: 0.15%
+  Accident Risk: 47.38%
+  Death Risk: 19.04%
+  Predicted Death: No
+  Actual Death: No
+  Actual Heart Attacks: 0
+  Actual Accidents: 3
+    Hypertension History: Yes
+    Family History: Yes
+    Smoker: Yes
+    Overweight: Yes
+    Hours with Intoxication: 19.45
+    Hours with Low Alertness: 175
+
+Patient 477:
+  Heart Attack Risk: 99.82%
+  Accident Risk: 66.76%
+  Death Risk: 86.59%
+  Predicted Death: Yes
+  Actual Death: No
+  Actual Heart Attacks: 1
+  Actual Accidents: 5
+    Hypertension History: Yes
+    Family History: Yes
+    Smoker: Yes
+    Overweight: Yes
+    Hours with Intoxication: 20.04
+    Hours with Low Alertness: 156
+
+Patient 478:
+  Heart Attack Risk: 0.15%
+  Accident Risk: 0.00%
+  Death Risk: 0.09%
+  Predicted Death: No
+  Actual Death: No
+  Actual Heart Attacks: 0
+  Actual Accidents: 0
+    Hypertension History: No
+    Family History: No
+    Smoker: No
+    Overweight: No
+    Hours with Intoxication: 0.00
+    Hours with Low Alertness: 0
+
+Patient 479:
+  Heart Attack Risk: 0.15%
+  Accident Risk: 0.00%
+  Death Risk: 0.09%
+  Predicted Death: No
+  Actual Death: No
+  Actual Heart Attacks: 0
+  Actual Accidents: 0
+    Hypertension History: No
+    Family History: No
+    Smoker: No
+    Overweight: No
+    Hours with Intoxication: 0.00
+    Hours with Low Alertness: 0
+
+Patient 480:
+  Heart Attack Risk: 0.15%
+  Accident Risk: 0.00%
+  Death Risk: 0.09%
+  Predicted Death: No
+  Actual Death: No
+  Actual Heart Attacks: 0
+  Actual Accidents: 0
+    Hypertension History: No
+    Family History: No
+    Smoker: No
+    Overweight: No
+    Hours with Intoxication: 0.00
+    Hours with Low Alertness: 0
+
+Patient 481:
+  Heart Attack Risk: 0.15%
+  Accident Risk: 0.00%
+  Death Risk: 0.09%
+  Predicted Death: No
+  Actual Death: No
+  Actual Heart Attacks: 0
+  Actual Accidents: 0
+    Hypertension History: No
+    Family History: No
+    Smoker: No
+    Overweight: No
+    Hours with Intoxication: 0.00
+    Hours with Low Alertness: 0
+
+Patient 482:
+  Heart Attack Risk: 0.15%
+  Accident Risk: 0.00%
+  Death Risk: 0.09%
+  Predicted Death: No
+  Actual Death: No
+  Actual Heart Attacks: 0
+  Actual Accidents: 0
+    Hypertension History: No
+    Family History: No
+    Smoker: No
+    Overweight: No
+    Hours with Intoxication: 0.00
+    Hours with Low Alertness: 0
+
+Patient 483:
+  Heart Attack Risk: 0.15%
+  Accident Risk: 0.00%
+  Death Risk: 0.09%
+  Predicted Death: No
+  Actual Death: No
+  Actual Heart Attacks: 0
+  Actual Accidents: 0
+    Hypertension History: No
+    Family History: No
+    Smoker: No
+    Overweight: No
+    Hours with Intoxication: 0.00
+    Hours with Low Alertness: 0
+
+Patient 484:
+  Heart Attack Risk: 0.15%
+  Accident Risk: 0.00%
+  Death Risk: 0.09%
+  Predicted Death: No
+  Actual Death: No
+  Actual Heart Attacks: 0
+  Actual Accidents: 0
+    Hypertension History: No
+    Family History: No
+    Smoker: No
+    Overweight: No
+    Hours with Intoxication: 0.00
+    Hours with Low Alertness: 0
+
+Patient 485:
+  Heart Attack Risk: 0.15%
+  Accident Risk: 0.00%
+  Death Risk: 0.09%
+  Predicted Death: No
+  Actual Death: No
+  Actual Heart Attacks: 0
+  Actual Accidents: 0
+    Hypertension History: No
+    Family History: No
+    Smoker: No
+    Overweight: No
+    Hours with Intoxication: 0.00
+    Hours with Low Alertness: 0
+
+Patient 486:
+  Heart Attack Risk: 0.15%
+  Accident Risk: 0.00%
+  Death Risk: 0.09%
+  Predicted Death: No
+  Actual Death: No
+  Actual Heart Attacks: 0
+  Actual Accidents: 0
+    Hypertension History: No
+    Family History: No
+    Smoker: No
+    Overweight: No
+    Hours with Intoxication: 0.00
+    Hours with Low Alertness: 0
+
+Patient 487:
+  Heart Attack Risk: 0.15%
+  Accident Risk: 0.00%
+  Death Risk: 0.09%
+  Predicted Death: No
+  Actual Death: No
+  Actual Heart Attacks: 0
+  Actual Accidents: 0
+    Hypertension History: No
+    Family History: No
+    Smoker: No
+    Overweight: No
+    Hours with Intoxication: 0.00
+    Hours with Low Alertness: 0
+
+Patient 488:
+  Heart Attack Risk: 0.15%
+  Accident Risk: 0.00%
+  Death Risk: 0.09%
+  Predicted Death: No
+  Actual Death: No
+  Actual Heart Attacks: 0
+  Actual Accidents: 0
+    Hypertension History: No
+    Family History: No
+    Smoker: No
+    Overweight: No
+    Hours with Intoxication: 0.00
+    Hours with Low Alertness: 0
+
+Patient 489:
+  Heart Attack Risk: 0.15%
+  Accident Risk: 0.00%
+  Death Risk: 0.09%
+  Predicted Death: No
+  Actual Death: No
+  Actual Heart Attacks: 0
+  Actual Accidents: 0
+    Hypertension History: No
+    Family History: No
+    Smoker: No
+    Overweight: No
+    Hours with Intoxication: 0.00
+    Hours with Low Alertness: 0
+
+Patient 490:
+  Heart Attack Risk: 0.15%
+  Accident Risk: 0.00%
+  Death Risk: 0.09%
+  Predicted Death: No
+  Actual Death: No
+  Actual Heart Attacks: 0
+  Actual Accidents: 0
+    Hypertension History: No
+    Family History: No
+    Smoker: No
+    Overweight: No
+    Hours with Intoxication: 0.00
+    Hours with Low Alertness: 0
+
+Patient 491:
+  Heart Attack Risk: 0.15%
+  Accident Risk: 0.00%
+  Death Risk: 0.09%
+  Predicted Death: No
+  Actual Death: No
+  Actual Heart Attacks: 0
+  Actual Accidents: 0
+    Hypertension History: No
+    Family History: No
+    Smoker: No
+    Overweight: No
+    Hours with Intoxication: 0.00
+    Hours with Low Alertness: 0
+
+Patient 492:
+  Heart Attack Risk: 0.15%
+  Accident Risk: 0.00%
+  Death Risk: 0.09%
+  Predicted Death: No
+  Actual Death: No
+  Actual Heart Attacks: 0
+  Actual Accidents: 0
+    Hypertension History: No
+    Family History: No
+    Smoker: No
+    Overweight: No
+    Hours with Intoxication: 0.00
+    Hours with Low Alertness: 0
+
+Patient 493:
+  Heart Attack Risk: 0.15%
+  Accident Risk: 0.00%
+  Death Risk: 0.09%
+  Predicted Death: No
+  Actual Death: No
+  Actual Heart Attacks: 0
+  Actual Accidents: 0
+    Hypertension History: No
+    Family History: No
+    Smoker: No
+    Overweight: No
+    Hours with Intoxication: 0.00
+    Hours with Low Alertness: 0
+
+Patient 494:
+  Heart Attack Risk: 0.15%
+  Accident Risk: 0.00%
+  Death Risk: 0.09%
+  Predicted Death: No
+  Actual Death: No
+  Actual Heart Attacks: 0
+  Actual Accidents: 0
+    Hypertension History: No
+    Family History: No
+    Smoker: No
+    Overweight: No
+    Hours with Intoxication: 0.00
+    Hours with Low Alertness: 0
+
+Patient 495:
+  Heart Attack Risk: 0.15%
+  Accident Risk: 0.00%
+  Death Risk: 0.09%
+  Predicted Death: No
+  Actual Death: No
+  Actual Heart Attacks: 0
+  Actual Accidents: 0
+    Hypertension History: No
+    Family History: No
+    Smoker: No
+    Overweight: No
+    Hours with Intoxication: 0.00
+    Hours with Low Alertness: 0
+
+Patient 496:
+  Heart Attack Risk: 0.15%
+  Accident Risk: 0.00%
+  Death Risk: 0.09%
+  Predicted Death: No
+  Actual Death: No
+  Actual Heart Attacks: 0
+  Actual Accidents: 0
+    Hypertension History: No
+    Family History: No
+    Smoker: No
+    Overweight: No
+    Hours with Intoxication: 0.00
+    Hours with Low Alertness: 0
+
+Patient 497:
+  Heart Attack Risk: 0.15%
+  Accident Risk: 0.00%
+  Death Risk: 0.09%
+  Predicted Death: No
+  Actual Death: No
+  Actual Heart Attacks: 0
+  Actual Accidents: 0
+    Hypertension History: No
+    Family History: No
+    Smoker: No
+    Overweight: No
+    Hours with Intoxication: 0.00
+    Hours with Low Alertness: 0
+
+Patient 498:
+  Heart Attack Risk: 0.15%
+  Accident Risk: 0.00%
+  Death Risk: 0.09%
+  Predicted Death: No
+  Actual Death: No
+  Actual Heart Attacks: 0
+  Actual Accidents: 0
+    Hypertension History: No
+    Family History: No
+    Smoker: No
+    Overweight: No
+    Hours with Intoxication: 0.00
+    Hours with Low Alertness: 0
+
+Patient 499:
+  Heart Attack Risk: 0.15%
+  Accident Risk: 0.00%
+  Death Risk: 0.09%
+  Predicted Death: No
+  Actual Death: No
+  Actual Heart Attacks: 0
+  Actual Accidents: 0
+    Hypertension History: No
+    Family History: No
+    Smoker: No
+    Overweight: No
+    Hours with Intoxication: 0.00
+    Hours with Low Alertness: 0
+

@@ -1,0 +1,46 @@
+
+Let's break down how we can create a block diagram for these three C# files, which make up a simple Basic ML Agents setup. The key goal is to show how different components interact in your system.
+
+Components in the Files:
+BasicActuatorComponent: This class is responsible for creating actuators, which are components that perform actions in the environment based on decisions made by the ML model.
+
+BasicActuator: This class translates the actions into movement. It communicates with the BasicController to execute those actions.
+
+BasicController: This class manages the movement logic, defining how an agent moves, resets, and responds to goals within the environment. It also controls when decisions are made (e.g., using RequestDecision() from the Agent class).
+
+BasicSensorComponent: This class creates sensors, which collect observations from the environment.
+
+BasicSensor: This class is responsible for collecting one-hot encoded observations of the agent’s position in the environment.
+
+How These Components Interact:
+BasicActuatorComponent creates an instance of BasicActuator and defines the actions that the agent can take (such as movement direction). It interacts with BasicController to control the agent's movement.
+
+BasicActuator receives decisions from the ML Agent, which specifies the direction (left, right, or stay) for the BasicController to act upon.
+
+BasicController manages the agent's movement, applies rewards when it reaches goals, and resets the agent if necessary. It works closely with the actuator and the ML agent’s environment.
+
+BasicSensorComponent generates an instance of BasicSensor.
+
+BasicSensor collects data about the agent's current position and transforms it into observations that are fed back into the ML system, helping the agent learn from its environment.
+
+Block Diagram Construction
+
+
+To create a block diagram, follow these steps:
+
+Draw Rectangular Blocks for:
+
+BasicActuatorComponent (Creates actuators, defines actions)
+BasicActuator (Executes actions, movement logic)
+BasicController (Manages agent movement, resets, and rewards)
+BasicSensorComponent (Creates sensors)
+BasicSensor (Generates observations about the agent’s position)
+Show Relationships:
+
+Use arrows to show that the BasicActuatorComponent sends actions to the BasicActuator.
+Show that BasicActuator communicates with BasicController to perform movement.
+Arrows from BasicController should lead to both BasicSensorComponent (indicating that the controller's position is being observed) and BasicActuatorComponent (to show how decisions feed back into the action-taking loop).
+The BasicSensor sends observational data back to the ML Agent (or training environment), completing the feedback loop.
+Include Labels:
+
+Label the blocks and arrows to clarify the purpose of each (e.g., "Sends Actions," "Receives Observations," etc.).
