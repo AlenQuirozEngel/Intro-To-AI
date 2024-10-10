@@ -50,7 +50,7 @@ class MLP(nn.Module):
 
 # Trainer Class to Handle Training and Validation
 class NeuralNetworkTrainer:
-    def __init__(self, train_file, test_file, batch_size=32, hidden_size=64, output_size=10, lr=0.0001, epochs=20):
+    def __init__(self, train_file, test_file, batch_size=256, hidden_size=512, output_size=10, lr=0.0008, epochs=20):
         self.batch_size = batch_size
         self.epochs = epochs
         self.train_accuracy_list = []  # To track training accuracy per epoch
@@ -180,5 +180,5 @@ class NeuralNetworkTrainer:
 
 # Entry point for training and validating the neural network
 if __name__ == "__main__":
-    trainer = NeuralNetworkTrainer(train_file='C:/Users/alenq/Documents/Computer_Science_Course_UM/repository year 2/AI Wee 3/__pycache__/train.csv', test_file='C:/Users/alenq/Documents/Computer_Science_Course_UM/repository year 2/AI Wee 3/__pycache__/test.csv', batch_size=64, hidden_size=128, output_size=10, lr=0.01, epochs=20)
+    trainer = NeuralNetworkTrainer(train_file='C:/Users/alenq/Documents/Computer_Science_Course_UM/repository year 2/Intro-To-AI/AI Week 3/train.csv', test_file='C:/Users/alenq/Documents/Computer_Science_Course_UM/repository year 2/Intro-To-AI/AI Week 3/test.csv')
     trainer.run()
