@@ -112,7 +112,7 @@ def fairness_analysis(model, X_val, y_val, gender):
 
 
 # Main execution
-file_path = 'C:/Users/alenq/Documents/Computer_Science_Course_UM/repository year 2/AI Week 6/Folder/set4_500_patients.xlsx'
+file_path = 'C:/Users/alenq/Documents/Computer_Science_Course_UM/repository year 2/Intro-To-AI/AI Week 6/Folder/set4_500_patients.xlsx'
 df, numerical_columns = load_data(file_path)
 
 # Train the model
