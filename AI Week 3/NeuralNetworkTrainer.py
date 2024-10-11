@@ -50,14 +50,18 @@ class MLP(nn.Module):
 
 # Trainer Class to Handle Training and Validation
 class NeuralNetworkTrainer:
-    def __init__(self, train_file, test_file, batch_size=256, hidden_size=512, output_size=10, lr=0.0008, epochs=20):
+    def __init__(self, train_file, test_file, batch_size=128, hidden_size=256, output_size=10, lr=0.0001, epochs=20):
         self.batch_size = batch_size
         self.epochs = epochs
         self.train_accuracy_list = []  # To track training accuracy per epoch
         self.val_accuracy_list = []  # To track validation accuracy per epoch
 
         # Data transforms (normalize pixel values between 0 and 1)
-        transform = transforms.Compose([transforms.ToTensor()])
+        transform = transforms.Compose([
+            transforms.ToTensor(),
+            transforms.Normalize((0.5,), (0.5,))  # Example normalization
+        ])
+
 
         # Load training and test datasets
         self.train_dataset = MNISTDataset(train_file, transform=transform)
@@ -85,6 +89,7 @@ class NeuralNetworkTrainer:
 
 
     def train(self):
+
         self.model.train()  # Set the model to training mode
         for epoch in range(self.epochs):
             running_loss = 0.0
@@ -92,31 +97,34 @@ class NeuralNetworkTrainer:
             total = 0
 
             for images, labels in self.train_loader:
-                # Zero the parameter gradients
+
                 self.optimizer.zero_grad()
 
-                # Forward pass
+
                 outputs = self.model(images)
                 loss = self.criterion(outputs, labels)
 
-                # Backward pass and optimize
+
                 loss.backward()
                 self.optimizer.step()
 
-                # Calculate accuracy
+
                 _, predicted = torch.max(outputs.data, 1)
                 total += labels.size(0)
                 correct += (predicted == labels).sum().item()
 
                 running_loss += loss.item()
 
+
             accuracy = 100 * correct / total
-            self.train_accuracy_list.append(accuracy)  # Track training accuracy
+            self.train_accuracy_list.append(accuracy)
             print(f'Epoch [{epoch + 1}/{self.epochs}], Loss: {running_loss/len(self.train_loader):.4f}, Training Accuracy: {accuracy:.2f}%')
 
-            # Validate after each epoch and track validation accuracy
+            # Validate after each epoch
             val_accuracy = self.validate()
             self.val_accuracy_list.append(val_accuracy)
+
+
 
     def validate(self):
         self.model.eval()  # Set the model to evaluation mode
@@ -182,3 +190,11 @@ class NeuralNetworkTrainer:
 if __name__ == "__main__":
     trainer = NeuralNetworkTrainer(train_file='C:/Users/alenq/Documents/Computer_Science_Course_UM/repository year 2/Intro-To-AI/AI Week 3/train.csv', test_file='C:/Users/alenq/Documents/Computer_Science_Course_UM/repository year 2/Intro-To-AI/AI Week 3/test.csv')
     trainer.run()
+
+# For training data
+unique, counts = np.unique(self.train_dataset.y, return_counts=True)
+print("Training Data Label Distribution:", dict(zip(unique, counts)))
+
+# For test data (if it has labels)
+unique, counts = np.unique(self.test_dataset.y, return_counts=True)
+print("Test Data Label Distribution:", dict(zip(unique, counts)))
